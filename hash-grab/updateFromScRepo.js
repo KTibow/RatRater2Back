@@ -20,7 +20,7 @@ const modHashes = await Promise.all(
     const fileResp = await fetch(fileUrl, {
       headers: { "User-Agent": "github.com/KTibow/RatRater2Hash" },
     });
-    if (!fileResp.ok) return console.error("file response not ok");
+    if (!fileResp.ok) return console.error("file response not ok on", fileUrl);
     const fileBytes = await fileResp.arrayBuffer();
     const hashBytes = await crypto.subtle.digest("SHA-256", fileBytes); // eslint-disable-line
     const hash = [...new Uint8Array(hashBytes)]
@@ -29,7 +29,7 @@ const modHashes = await Promise.all(
     console.log("digested", ++digestedMods, "/", usedMods.length);
     return { file: mod.file, hash, source: "skyclient", time: Date.now() };
   })
-);
+).filter((hash) => hash);
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 modHashes.forEach((hash) => {

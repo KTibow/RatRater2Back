@@ -29,7 +29,7 @@ await Promise.all(
     const jar = release.assets?.find((a) => a.name.endsWith(".jar"));
     if (!jar) return;
     const fileResp = await fetch(jar.browser_download_url);
-    if (!fileResp.ok) return console.error("release response not ok");
+    if (!fileResp.ok) return console.error("release response not ok on", jar.name);
     const fileBytes = await fileResp.arrayBuffer();
     const hashBytes = await crypto.subtle.digest("SHA-256", fileBytes); // eslint-disable-line
     const hash = [...new Uint8Array(hashBytes)]
