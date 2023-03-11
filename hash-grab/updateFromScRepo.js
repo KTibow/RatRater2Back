@@ -29,10 +29,10 @@ const modHashes = await Promise.all(
     console.log("digested", ++digestedMods, "/", usedMods.length);
     return { file: mod.file, hash, source: "skyclient", time: Date.now() };
   })
-).filter((hash) => hash);
+);
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 modHashes.forEach((hash) => {
-  if (!currentHashes.some((h) => h.hash == hash.hash)) currentHashes.push(hash);
+  if (hash && !currentHashes.some((h) => h.hash == hash.hash)) currentHashes.push(hash);
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));
