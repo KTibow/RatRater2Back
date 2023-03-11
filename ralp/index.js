@@ -1,4 +1,4 @@
-export default testMatch = (match, path, contents) => {
+export const testMatch = (match, path, contents) => {
   if (match.type == "name" || match.type == "contents") {
     /** @type string */
     const testStr = match.type == "name" ? path : contents;
