@@ -10,6 +10,7 @@ const repos = [
   "BiscuitDevelopment/SkyblockAddons",
   "PartlySaneStudios/partly-sane-skies",
   "inglettronald/DulkirMod",
+  "hannibal002/SkyHanni",
   "Coflnet/SkyblockMod",
   "NotEnoughCoins/NotEnoughCoins",
 ];
