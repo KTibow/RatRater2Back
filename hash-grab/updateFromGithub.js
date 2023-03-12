@@ -11,6 +11,7 @@ const repos = [
   "PartlySaneStudios/partly-sane-skies",
   "inglettronald/DulkirMod",
   "hannibal002/SkyHanni",
+  "Soopyboo32/SoopyV2Forge",
   "Coflnet/SkyblockMod",
   "NotEnoughCoins/NotEnoughCoins",
 ];
