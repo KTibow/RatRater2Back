@@ -14,7 +14,7 @@ const client = new Client({
 client.login(process.env.BOT_TOKEN);
 await new Promise((resolve) => client.once("ready", resolve));
 
-const channels = { neu: "1082322298058576023" };
+const channels = { neu: "1082322298058576023", tfm: "1084551253020917770" };
 const hashes = [];
 await Promise.all(
   Object.values(channels).map(async (cId) => {
