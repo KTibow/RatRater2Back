@@ -430,5 +430,11 @@
     "hash": "704421dd5ddabb4acf7857af66dfe6b5ff70ff8e57e3665aa7512661ef15fa2e",
     "source": "skyclient",
     "time": 1678753924868
+  },
+  {
+    "file": "CoflMod-1.5.1-alpha.jar",
+    "hash": "91ed0cfdabb0aea48eaa173e692e15e4081f847ecfefc581f16b03480486714e",
+    "source": "github releases",
+    "time": 1678824556054
   }
 ]
