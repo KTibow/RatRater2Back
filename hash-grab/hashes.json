@@ -436,5 +436,11 @@
     "hash": "91ed0cfdabb0aea48eaa173e692e15e4081f847ecfefc581f16b03480486714e",
     "source": "github releases",
     "time": 1678824556054
+  },
+  {
+    "file": "Craftify-1.8.9-1.8.0-forge.jar",
+    "hash": "072ce0c906008f68165365fa6ae72e2e437fb79dbfd73c6b09aaf45e35c56912",
+    "source": "skyclient",
+    "time": 1678831581616
   }
 ]
