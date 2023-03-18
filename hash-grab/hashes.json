@@ -466,5 +466,11 @@
     "hash": "5678f08b66f1816973e1e44eea4ebec2173e32d36003694ed6f7c6582a662a7e",
     "source": "github releases",
     "time": 1678997228153
+  },
+  {
+    "file": "Dankers_Skyblock_Mod-2.0-beta3.jar",
+    "hash": "6d19b2fa0158786b7d4696118fd6ecb0c2fa836eda6dba550e29b8fd4626a536",
+    "source": "skyclient",
+    "time": 1679105084152
   }
 ]
