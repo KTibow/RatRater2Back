@@ -496,5 +496,17 @@
     "hash": "87b3e04ec41adc5d156fdf63c79d8eaf736f9c3a6a6e688e973513766bf95195",
     "source": "github releases",
     "time": 1679432743418
+  },
+  {
+    "file": "Skytils-1.5.0-pre2.jar",
+    "hash": "e6aaa70a468c04f82ff5c35be77312f157291b8af5a81ba4671beb913d32467b",
+    "source": "github releases",
+    "time": 1679445184332
+  },
+  {
+    "file": "NotEnoughUpdates-2.0.0.jar",
+    "hash": "b8bfbf95c1b6d37e32002f1fdecb9699300a8b821adf4472ca8df764ae1c4d60",
+    "source": "github releases",
+    "time": 1679445184677
   }
 ]
