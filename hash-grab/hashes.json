@@ -508,5 +508,11 @@
     "hash": "b8bfbf95c1b6d37e32002f1fdecb9699300a8b821adf4472ca8df764ae1c4d60",
     "source": "github releases",
     "time": 1679445184677
+  },
+  {
+    "file": "dulkirmod-1.1.9.jar",
+    "hash": "e714f4b62ac4abac7a4c3ca475247e39d35aa3a0ba6b69446673eb942e73f589",
+    "source": "github releases",
+    "time": 1679483088142
   }
 ]
