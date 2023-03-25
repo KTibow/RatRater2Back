@@ -556,5 +556,11 @@
     "hash": "93061ac5cc79c802fbd2467dfd5d3717afe996ae5e2df740ca0048434ccb4d3f",
     "source": "skyclient",
     "time": 1679720708151
+  },
+  {
+    "file": "partlysaneskies-beta-v0.2.jar",
+    "hash": "17a9ca34aab887081e5915bd555106e46240f9e10e1ca265759f463e7ef5673d",
+    "source": "github releases",
+    "time": 1679763834038
   }
 ]
