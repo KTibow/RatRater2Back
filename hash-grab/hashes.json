@@ -568,5 +568,11 @@
     "hash": "3dafd69fd0a60541809cadf6b5d956130cf9da087c3d34a598b6875cf6d1ef41",
     "source": "github releases",
     "time": 1679791004244
+  },
+  {
+    "file": "ParticlesEnhanced-1.2.1.jar",
+    "hash": "b2583271305c2d5fbe64442f962ba295a7dff1598a3b22fba1b542d5691b4f63",
+    "source": "skyclient",
+    "time": 1679968976337
   }
 ]
