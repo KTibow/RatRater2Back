@@ -622,5 +622,11 @@
     "hash": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254",
     "source": "skyclient",
     "time": 1680469424663
+  },
+  {
+    "file": "dulkirmod-1.2.0.jar",
+    "hash": "a07d5d6362257d39dfd726b030d6d7ef5e85fdc489ae28cc38cb3603cc39c4c1",
+    "source": "github releases",
+    "time": 1680473059493
   }
 ]
