@@ -616,5 +616,11 @@
     "hash": "76fa6246790970443f726e99a5888d86ed98e95548e402db5cbcbf92e0a584bf",
     "source": "github releases",
     "time": 1680402549496
+  },
+  {
+    "file": "ctjs-2.2.0-1.8.9.jar",
+    "hash": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254",
+    "source": "skyclient",
+    "time": 1680469424663
   }
 ]
