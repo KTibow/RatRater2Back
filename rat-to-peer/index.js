@@ -8,9 +8,14 @@ const validateApiKey = (apiKey) => {
   const validKeys = JSON.parse(process.env.API_KEYS);
   return validKeys.includes(apiKey);
 };
+const createHash = async (data) => {
+  const dataBytes = new TextEncoder().encode(data);
+  const hashBytes = await crypto.subtle.digest("SHA-256", dataBytes);
+  const hash = [...new Uint8Array(hashBytes)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  return hash;
+};
 const saveFile = async (data, name) => {
-  const hashBuf = await crypto.subtle.digest("SHA-256", data);
-  const hash = new Uint8Array(hashBuf).map((b) => b.toString(16).padStart(2, "0")).join("");
+  const hash = await createHash(data);
   const file = {
     data,
     name,
