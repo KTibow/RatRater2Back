@@ -1,10 +1,9 @@
 {
   "name": "ralp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "KTibow/RatRater2Back",
   "type": "module",
   "files": [
-    "index.js",
-    "index.d.ts"
+    "index.js"
   ]
 }

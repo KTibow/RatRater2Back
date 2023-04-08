@@ -1,16 +1,5 @@
-# RAL(P)
+# RALP
 
-## RatRater Analysis Language (Parser)
+**RatRater Analysis Language Parser**
 
-RALP is a microlib that lets me avoid manually coding flags. It also has other benefits. I thought about multiple possible ways but I eventually came up with this:
-
-match: processed per file, one of
-
-- type: name/contents
-  contains: string
-- type: name/contents
-  regex: [regex, regex flags]
-- type: and
-  match: array of another match
-- type: or
-  match: array of another match
+This is what powers RatRater 2. It was originally called a language parser because there was a custom language for writing flags, but that had some problems. I decided I can still call it a language parser because bytecode is a language.
