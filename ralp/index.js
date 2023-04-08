@@ -26,8 +26,9 @@ export const runAnalysis = async (file, obfuscationFlags, mainFlags, setAnalysis
   let done = 0;
   const scannableFiles = file.files.filter((path) => path.endsWith(".class"));
   const tasks = scannableFiles.map(async (f) => {
-    const contents = await zip.files[manifest].async("string");
+    const contents = await zip.files[f].async("string");
     try {
+      console.debug("ready to flag", f, contents);
       // TODO
     } catch (e) {
       console.error("Error while flagging", f, e);
@@ -54,7 +55,7 @@ export const runAnalysis = async (file, obfuscationFlags, mainFlags, setAnalysis
       console.error("Error while flagging manifest", e);
     }
   };
-  if (manifest) tasks.push(manifestTask);
+  if (manifest) tasks.push(manifestTask());
 
   await Promise.all(tasks);
 };
