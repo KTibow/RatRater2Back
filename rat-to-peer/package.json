@@ -1,0 +1,11 @@
+{
+  "name": "rat-to-peer",
+  "type": "module",
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "ws": "^8.13.0"
+  }
+}
