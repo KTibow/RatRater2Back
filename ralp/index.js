@@ -1,14 +1,15 @@
 /**
  * Runs analysis on a file based on given obfuscation flags.
  * @param {{ zip: any, files: string[] }} file
- * @param {{[name: string]: { path: [string, string?], minFiles?: number, find?: any }}} obfuscationFlags
+ * @param {{[name: string]: { path?: [string, string?], check?: (contents: string) => bool, minFiles?: number, find?: any }}} obfuscationFlags
+ * @param {{[name: string]: { check?: (contents: string) => bool, find?: any, link?: any }}} mainFlags
  * @param {(analysis: any) => void} setAnalysis
  * @param {(progress: any) => void} setProgress
  */
 export const runAnalysis = async (file, obfuscationFlags, mainFlags, setAnalysis, setProgress) => {
   const { zip, files } = file;
   const obfuscation = {},
-    flags = [];
+    flags = {};
   for (const [flag, data] of Object.entries(obfuscationFlags)) {
     if (!data.path) continue;
     const pathRegex = new RegExp(...data.path);
@@ -28,8 +29,17 @@ export const runAnalysis = async (file, obfuscationFlags, mainFlags, setAnalysis
   const tasks = scannableFiles.map(async (f) => {
     const contents = await zip.files[f].async("string");
     try {
-      console.debug("ready to flag", f, contents);
-      // TODO
+      for (const [flag, data] of Object.entries(obfuscationFlags)) {
+        if (!data.check || !data.check(contents)) continue;
+        obfuscation[flag] = { file: f, find: data.find };
+        setAnalysis({ obfuscation, flags });
+      }
+      for (const [flag, data] of Object.entries(mainFlags)) {
+        if (!data.check(contents)) continue;
+        if (flags[flag]) flags[flag].matches.push(f);
+        else flags[flag] = { matches: [f], find: data.find, link: data.link };
+        setAnalysis({ obfuscation, flags });
+      }
     } catch (e) {
       console.error("Error while flagging", f, e);
     }
