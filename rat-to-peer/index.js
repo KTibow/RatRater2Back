@@ -47,7 +47,12 @@ const handleMessage = async (ws, message) => {
 wss.on("connection", async (ws) => {
   clearExpiredFiles();
   try {
-    for await (const message of ws) {
+    // eslint-disable-next-line
+    while (true) {
+      const message = await new Promise((resolve, reject) => {
+        ws.once("message", resolve);
+        ws.once("close", reject);
+      });
       const parsedMessage = JSON.parse(message.toString());
       await handleMessage(ws, parsedMessage);
     }
