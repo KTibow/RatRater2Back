@@ -8,10 +8,11 @@ const validateApiKey = (apiKey) => {
   const validKeys = JSON.parse(process.env.API_KEYS);
   return validKeys.includes(apiKey);
 };
-const saveFile = async (data) => {
+const saveFile = async (data, name) => {
   const hash = await crypto.subtle.digest("SHA-256", data);
   const file = {
     data,
+    name,
     expires: Date.now() + 1000 * 60 * 10,
   };
   files[hash] = file;
@@ -28,13 +29,13 @@ const handleMessage = async (ws, message) => {
   if (message.type == "get-file") {
     const file = files[message.hash];
     if (file) {
-      ws.send(JSON.stringify({ type: "success", data: file.data }));
+      ws.send(JSON.stringify({ type: "success", data: file.data, name: file.name }));
     } else {
       ws.send(JSON.stringify({ type: "error", message: "File not found" }));
     }
   } else if (message.type == "upload-file") {
     if (validateApiKey(message.key)) {
-      const hash = await saveFile(message.data);
+      const hash = await saveFile(message.data, message.name);
       ws.send(JSON.stringify({ type: "success", hash }));
     } else {
       ws.send(JSON.stringify({ type: "error", message: "Invalid API key" }));
