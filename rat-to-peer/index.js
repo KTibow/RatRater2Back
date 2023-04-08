@@ -9,7 +9,8 @@ const validateApiKey = (apiKey) => {
   return validKeys.includes(apiKey);
 };
 const saveFile = async (data, name) => {
-  const hash = await crypto.subtle.digest("SHA-256", data);
+  const hashBuf = await crypto.subtle.digest("SHA-256", data);
+  const hash = new Uint8Array(hashBuf).map((b) => b.toString(16).padStart(2, "0")).join("");
   const file = {
     data,
     name,
