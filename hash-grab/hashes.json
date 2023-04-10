@@ -658,5 +658,11 @@
     "hash": "9a0037cdbab4d72afea4382e1b6143c86b8bff1e36761a6edfa2449648b7c706",
     "source": "github releases",
     "time": 1681016690864
+  },
+  {
+    "file": "LEGACY-partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
+    "hash": "d2b5c2527297f7c7017796fcf1505486423f91d7c40965979a4b067ffd3b36ef",
+    "source": "github releases",
+    "time": 1681103203961
   }
 ]
