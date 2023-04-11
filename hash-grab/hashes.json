@@ -664,5 +664,11 @@
     "hash": "d2b5c2527297f7c7017796fcf1505486423f91d7c40965979a4b067ffd3b36ef",
     "source": "github releases",
     "time": 1681103203961
+  },
+  {
+    "file": "dungeonsguide-4.0.0-beta7.5-standalone.jar",
+    "hash": "d2e27eafe66b055f4a3eae02942426afbe18e6f9f13d11a918a27c230f850531",
+    "source": "skyclient",
+    "time": 1681182420672
   }
 ]
