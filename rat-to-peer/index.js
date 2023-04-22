@@ -1,8 +1,9 @@
 import { WebSocketServer } from "ws";
 import crypto from "crypto";
+import express from "express";
+import http from "http";
 
 const files = {};
-const wss = new WebSocketServer({ port: 8080 });
 
 const validateApiKey = (apiKey) => {
   const validKeys = JSON.parse(process.env.API_KEYS);
@@ -51,6 +52,20 @@ const handleMessage = async (ws, message) => {
   }
 };
 
+const app = express();
+app.get("/", (req, res) =>
+  res.redirect(301, "https://github.com/KTibow/RatRater2Back/tree/main/rat-to-peer")
+);
+app.get("/file", async (req, res) => {
+  const url = req.query.url;
+  if (!url) res.status(400).send("No url provided");
+  const resp = await fetch(url);
+  const data = await resp.arrayBuffer();
+  res.setHeader("Content-Type", resp.headers.get("Content-Type"));
+  res.status(resp.status).send(data);
+});
+
+const wss = new WebSocketServer({ clientTracking: false, noServer: true });
 wss.on("connection", async (ws) => {
   clearExpiredFiles();
   try {
@@ -68,3 +83,11 @@ wss.on("connection", async (ws) => {
     ws.send(JSON.stringify({ type: "error", message: "Internal error" }));
   }
 });
+
+const server = http.createServer(app);
+server.on("upgrade", (request, socket, head) => {
+  wss.handleUpgrade(request, socket, head, (ws) => {
+    wss.emit("connection", ws, request);
+  });
+});
+server.listen(8080, () => console.log("Listening on port 8080"));
