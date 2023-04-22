@@ -1,5 +1,6 @@
 import { WebSocketServer } from "ws";
 import crypto from "crypto";
+import cors from "cors";
 import express from "express";
 import http from "http";
 
@@ -53,6 +54,7 @@ const handleMessage = async (ws, message) => {
 };
 
 const app = express();
+app.use(cors({ origin: ["https://ktibow.github.io", "http://localhost:5173"] }));
 app.get("/", (req, res) =>
   res.redirect(301, "https://github.com/KTibow/RatRater2Back/tree/main/rat-to-peer")
 );
