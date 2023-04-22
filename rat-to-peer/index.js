@@ -62,7 +62,7 @@ app.get("/file", async (req, res) => {
   const resp = await fetch(url);
   const data = await resp.arrayBuffer();
   res.setHeader("Content-Type", resp.headers.get("Content-Type"));
-  res.status(resp.status).send(data);
+  res.status(resp.status).send(Buffer.from(data));
 });
 
 const wss = new WebSocketServer({ clientTracking: false, noServer: true });
