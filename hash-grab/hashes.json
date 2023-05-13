@@ -856,5 +856,11 @@
     "hash": "f77b3122fdf6d8cccd414d0962d080504a19efc3d6f24c1ac52c752f08ff3fab",
     "source": "github releases",
     "time": 1683903946704
+  },
+  {
+    "file": "Patcher-1.8.7 (1.8.9).jar",
+    "hash": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
+    "source": "skyclient",
+    "time": 1684001234603
   }
 ]
