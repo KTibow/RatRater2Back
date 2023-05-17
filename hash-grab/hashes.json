@@ -868,5 +868,11 @@
     "hash": "0c08e2a47bafdb6c474bd20b21e6960dcf7db0c8c9c6815f3b31dfe33f59be01",
     "source": "github releases",
     "time": 1684163184454
+  },
+  {
+    "file": "CoflMod-1.5.3-alpha.jar",
+    "hash": "bde0df5a0db934a676d3d690289449e5eefce5e1ea60782f878449a6fd5786f0",
+    "source": "github releases",
+    "time": 1684350210596
   }
 ]
