@@ -916,5 +916,11 @@
     "hash": "a1d4fe64bef7f6f80a9f2b5c53564fcb89558c8e1cdb9b674e58cc879c8efaa7",
     "source": "discord",
     "time": 1685109918458
+  },
+  {
+    "file": "SkyHanni-0.18.Beta.9.jar",
+    "hash": "bf7cde8abe94c47e0396d10f0047317a3cce490236f4d20a3d7833e549eabf7e",
+    "source": "github releases",
+    "time": 1685127812081
   }
 ]
