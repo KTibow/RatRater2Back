@@ -1,9 +1,0 @@
-[
-  {
-    "data": { "name": "Possible obfuscation (many short file names)", "minFilesMatched": 2 },
-    "match": {
-      "type": "name",
-      "regex": ["(\\/|^).{1,2}\\.class$", "i"]
-    }
-  }
-]
