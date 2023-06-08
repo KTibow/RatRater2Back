@@ -952,5 +952,11 @@
     "hash": "3283525da5edbf578d14d551a5a2be5fea03604f3dab88c64a29456d3f4bb6d5",
     "source": "skyclient",
     "time": 1686179121477
+  },
+  {
+    "file": "Skytils-1.6.0-pre2.jar",
+    "hash": "fe62523df3624bcc1976e719dedc1f5e794ec22c37888fdda39596617166dfdf",
+    "source": "skyclient",
+    "time": 1686184691809
   }
 ]
