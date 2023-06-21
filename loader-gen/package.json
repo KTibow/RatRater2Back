@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "canvas": "^2.11.2"
+  },
+  "scripts": {
+    "gen": "rm -r frames; node main.js; ffmpeg -i frames/%d.png -vf palettegen=reserve_transparent=1 palette.png; ffmpeg -framerate 60 -i frames/%d.png -i palette.png -lavfi paletteuse=alpha_threshold=128 -gifflags -offsetting output.gif"
+  },
+  "type": "module"
+}
