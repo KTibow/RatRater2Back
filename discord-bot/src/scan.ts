@@ -43,10 +43,7 @@ export default async (interaction: any, env: Env, ctx: ExecutionContext) => {
     let data: ArrayBuffer, hashes: unknown;
     try {
       [data, hashes] = await Promise.all([
-        (async () => {
-          const resp = await fetch(file.url);
-          return await resp.arrayBuffer();
-        })(),
+        fetch(file.url).then((r) => r.arrayBuffer()),
         fetch(
           "https://raw.githubusercontent.com/KTibow/RatRater2Back/main/hash-grab/hashes.json"
         ).then((r) => r.json()),
@@ -82,14 +79,15 @@ export default async (interaction: any, env: Env, ctx: ExecutionContext) => {
     }
 
     const fileDesc = `\`${escape(file.filename)}\` (${getSize(file.size)})`;
-    const genEmbeds = () => {
-      const embeds = [];
-      let flagDescription = [];
+    const genFlagEmbed = () => {
+      const flagDescription = [];
+
       const obfuscationList = Object.keys(state.obfuscation);
       if (obfuscationList.length > 0) {
         flagDescription.push(`This mod *might* have been obfuscated, so RatRater *might* miss stuff.
 Obf flags: ${obfuscationList.join(", ")}`);
       }
+
       const flagList = Object.keys(state.flags);
       if (flagList.length > 0) {
         flagDescription.push(`Flags mean something might be malicious. Click on one to see what it means.
@@ -103,16 +101,17 @@ These flags were found: ${flagList
           })
           .join(", ")}`);
       }
-      embeds.push({
+
+      return {
         title: "Flags",
         color: 11192319,
-        description:
-          flagDescription.join("\n\n") ||
-          "*No flags. This mod is safe, unless there's something that RatRater missed.*",
-      });
+        description: flagDescription.join("\n\n") || "*No flags.*",
+      };
+    };
+    const genOfficialEmbed = () => {
       const officialFile = (hashes as any[]).find((h) => h.hash == hash);
       if (state.flagged) {
-        embeds.push({
+        return {
           title: "Almost definitely a rat",
           color: 16757931,
           description:
@@ -121,24 +120,38 @@ These flags were found: ${flagList
             (state.flagged.file
               ? `Example file: \`${escape(state.flagged.file)}\``
               : "To prevent reverse engineering, you cannot see the cause"),
-        });
+        };
       } else if (officialFile) {
-        embeds.push({
+        return {
           title: "Probably safe",
           color: 14531808,
           description:
             `Found in an official source, ${officialFile.source}` +
             `, as \`${escape(officialFile.file)}\``,
-        });
+        };
       }
-      return embeds;
+    };
+    const genEmbeds = () => {
+      const officialEmbed = genOfficialEmbed();
+      return [genFlagEmbed(), ...(officialEmbed ? [officialEmbed] : [])];
     };
 
+    await update1;
+    if (files.length > 10000) {
+      const officialEmbed = genOfficialEmbed();
+      await updateMessage({
+        content: `🚫 ${files.length} classes is too many. RR2 would crash if it tried to scan this.`,
+        embeds: officialEmbed ? [officialEmbed] : [],
+      });
+      return;
+    }
+    await updateMessage({
+      content: `<a:loading:1121137235123765400> Prescanning...`,
+    });
     try {
       prescan(zip, files, state);
     } catch (e) {
-      await update1;
-      await updateMessage({ content: "🚫 Failed to run prescan" });
+      await updateMessage({ content: "🚫 Failed to run prescan\n" + e });
       throw e;
     }
 
@@ -192,7 +205,6 @@ These flags were found: ${flagList
     };
     tasks.push(apiAnalysisTask());
 
-    await update1;
     const update2 = updateMessage({
       content: `<a:loading:1121137235123765400> Scanning ${tasks.length} things...
 ${fileDesc}`,
