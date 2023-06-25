@@ -218,8 +218,7 @@ ${fileDesc}`,
 
     await update2;
     await updateMessage({
-      content: `${fileDesc}
-done.`,
+      content: `✅ ${fileDesc}`,
       embeds: genEmbeds(),
     });
   };
