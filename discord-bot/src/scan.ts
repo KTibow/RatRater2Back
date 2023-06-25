@@ -30,36 +30,56 @@ export default async (interaction: any, env: Env, ctx: ExecutionContext) => {
 
   const applicationId = env.DISCORD_APPLICATION_ID;
   const interactionToken = interaction.token;
-  const start = async () => {
-    const [data, hashes] = await Promise.all([
-      fetch(file.url).then((r) => r.arrayBuffer()),
-      fetch(
-        "https://raw.githubusercontent.com/KTibow/RatRater2Back/main/hash-grab/hashes.json"
-      ).then((r) => r.json()),
-    ]);
-    const update1 = fetch(
+  const updateMessage = (message: any) =>
+    fetch(
       `https://discord.com/api/v10/webhooks/${applicationId}/${interactionToken}/messages/@original`,
       {
         method: "PATCH",
-        body: JSON.stringify({
-          content: "<a:loading:1121137235123765400> Opening file...",
-        }),
+        body: JSON.stringify(message),
         headers: { "Content-Type": "application/json" },
       }
     );
+  const start = async () => {
+    let data: ArrayBuffer, hashes: unknown;
+    try {
+      [data, hashes] = await Promise.all([
+        (async () => {
+          const resp = await fetch(file.url);
+          return await resp.arrayBuffer();
+        })(),
+        fetch(
+          "https://raw.githubusercontent.com/KTibow/RatRater2Back/main/hash-grab/hashes.json"
+        ).then((r) => r.json()),
+      ]);
+    } catch (e) {
+      await updateMessage({ content: "🚫 Failed to download" });
+      throw e;
+    }
+    const update1 = updateMessage({
+      content: "<a:loading:1121137235123765400> Opening file...",
+    });
 
-    const [_zip, hashBytes] = await Promise.all([
-      new JSZip().loadAsync(data),
-      crypto.subtle.digest("SHA-256", data),
-    ]);
-    const zip = _zip as JSZip & JSZipObject;
-    const hash = [...new Uint8Array(hashBytes)]
-      .map((b) => b.toString(16).padStart(2, "0"))
-      .join("");
-    const files = Object.values(zip.files)
-      .filter((f) => !f.dir)
-      .map((f) => f.name);
-    const state: Analysis = { obfuscation: {}, flags: {} };
+    let zip: JSZip & JSZipObject,
+      hash: string,
+      files: string[],
+      state: Analysis = { obfuscation: {}, flags: {} };
+    try {
+      const [_zip, hashBytes] = await Promise.all([
+        new JSZip().loadAsync(data),
+        crypto.subtle.digest("SHA-256", data),
+      ]);
+      zip = _zip as JSZip & JSZipObject;
+      hash = [...new Uint8Array(hashBytes)]
+        .map((b) => b.toString(16).padStart(2, "0"))
+        .join("");
+      files = Object.values(zip.files)
+        .filter((f) => !f.dir)
+        .map((f) => f.name);
+    } catch (e) {
+      await update1;
+      await updateMessage({ content: "🚫 Failed to open file" });
+      throw e;
+    }
 
     const fileDesc = `\`${escape(file.filename)}\` (${getSize(file.size)})`;
     const genEmbeds = () => {
@@ -114,7 +134,13 @@ These flags were found: ${flagList
       return embeds;
     };
 
-    prescan(zip, files, state);
+    try {
+      prescan(zip, files, state);
+    } catch (e) {
+      await update1;
+      await updateMessage({ content: "🚫 Failed to run prescan" });
+      throw e;
+    }
 
     const tasks = files
       .filter((path) => path.endsWith(".class"))
@@ -167,18 +193,11 @@ These flags were found: ${flagList
     tasks.push(apiAnalysisTask());
 
     await update1;
-    const update2 = fetch(
-      `https://discord.com/api/v10/webhooks/${applicationId}/${interactionToken}/messages/@original`,
-      {
-        method: "PATCH",
-        body: JSON.stringify({
-          content: `<a:loading:1121137235123765400> Scanning ${tasks.length} things...
+    const update2 = updateMessage({
+      content: `<a:loading:1121137235123765400> Scanning ${tasks.length} things...
 ${fileDesc}`,
-          embeds: genEmbeds(),
-        }),
-        headers: { "Content-Type": "application/json" },
-      }
-    );
+      embeds: genEmbeds(),
+    });
 
     const catchTask = (e: Error) => {
       console.error("While scanning,", e);
@@ -186,17 +205,11 @@ ${fileDesc}`,
     await Promise.all(tasks.map((task) => task.catch(catchTask)));
 
     await update2;
-    await fetch(
-      `https://discord.com/api/v10/webhooks/${applicationId}/${interactionToken}/messages/@original`,
-      {
-        method: "PATCH",
-        body: JSON.stringify({
-          content: `${fileDesc} is **done**.`,
-          embeds: genEmbeds(),
-        }),
-        headers: { "Content-Type": "application/json" },
-      }
-    );
+    await updateMessage({
+      content: `${fileDesc}
+done.`,
+      embeds: genEmbeds(),
+    });
   };
   ctx.waitUntil(start());
   return json({
