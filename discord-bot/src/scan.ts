@@ -145,6 +145,25 @@ These flags were found: ${flagList
       });
       return;
     }
+
+    let totalSize = 0;
+    for (const file of files) {
+      // @ts-ignore
+      const size = zip.files[file]._data.uncompressedSize;
+      totalSize += Math.abs(size);
+    }
+    const gb = totalSize / 1024 / 1024 / 1024;
+    if (gb > 1) {
+      const officialEmbed = genOfficialEmbed();
+      await updateMessage({
+        content:
+          `🚫 ${gb.toFixed(2)} GB of classes is too big. ` +
+          `RR2 would crash if it tried to scan this.`,
+        embeds: officialEmbed ? [officialEmbed] : [],
+      });
+      return;
+    }
+
     await updateMessage({
       content: `<a:loading:1121137235123765400> Prescanning...`,
     });
@@ -210,11 +229,29 @@ These flags were found: ${flagList
 ${fileDesc}`,
       embeds: genEmbeds(),
     });
+    let done = 0;
+    let lastEmbeds = genEmbeds();
 
+    const updateTask = async () => {
+      done++;
+      const newEmbeds = genEmbeds();
+      if (JSON.stringify(newEmbeds) != JSON.stringify(lastEmbeds)) {
+        lastEmbeds = newEmbeds;
+        await updateMessage({
+          content: `<a:loading:1121137235123765400> Scanning (${Math.floor(
+            (done / tasks.length) * 100
+          )}%)...`,
+          embeds: newEmbeds,
+        });
+      }
+    };
     const catchTask = (e: Error) => {
+      done++;
       console.error("While scanning,", e);
     };
-    await Promise.all(tasks.map((task) => task.catch(catchTask)));
+    await Promise.all(
+      tasks.map((task) => task.then(updateTask).catch(catchTask))
+    );
 
     await update2;
     await updateMessage({
