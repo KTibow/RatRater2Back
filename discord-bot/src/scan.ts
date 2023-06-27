@@ -140,7 +140,9 @@ These flags were found: ${flagList
     if (files.length > 10000) {
       const officialEmbed = genOfficialEmbed();
       await updateMessage({
-        content: `🚫 ${files.length} classes is too many. RR2 would crash if it tried to scan this.`,
+        content:
+          `🚫 ${files.length} classes is too many. ` +
+          `RR2 (the bot) would crash if it tried to scan this.`,
         embeds: officialEmbed ? [officialEmbed] : [],
       });
       return;
@@ -150,15 +152,15 @@ These flags were found: ${flagList
     for (const file of files) {
       // @ts-ignore
       const size = zip.files[file]._data.uncompressedSize;
-      totalSize += Math.abs(size);
+      totalSize += size < 0 ? size + 2 ** 32 : size;
     }
     const gb = totalSize / 1024 / 1024 / 1024;
-    if (gb > 1) {
+    if (gb > 0.5) {
       const officialEmbed = genOfficialEmbed();
       await updateMessage({
         content:
           `🚫 ${gb.toFixed(2)} GB of classes is too big. ` +
-          `RR2 would crash if it tried to scan this.`,
+          `RR2 (the bot) would crash if it tried to scan this.`,
         embeds: officialEmbed ? [officialEmbed] : [],
       });
       return;
@@ -237,10 +239,9 @@ ${fileDesc}`,
       const newEmbeds = genEmbeds();
       if (JSON.stringify(newEmbeds) != JSON.stringify(lastEmbeds)) {
         lastEmbeds = newEmbeds;
+        const pct = Math.floor((done / tasks.length) * 100);
         await updateMessage({
-          content: `<a:loading:1121137235123765400> Scanning (${Math.floor(
-            (done / tasks.length) * 100
-          )}%)...`,
+          content: `<a:loading:1121137235123765400> Scanning (${pct}%)...`,
           embeds: newEmbeds,
         });
       }
