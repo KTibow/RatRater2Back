@@ -1078,5 +1078,17 @@
     "hash": "0f5b14c80c92bff64bea243990ac1970795f145674cfa46cc0c33a29b54d138a",
     "source": "discord",
     "time": 1687863961167
+  },
+  {
+    "file": "Craftify-1.8.9-1.11.0-forge.jar",
+    "hash": "ab25bc24a112df57db9ca4a01bcde8661f05512da64cebe3719787cd550cf81c",
+    "source": "skyclient",
+    "time": 1687912933308
+  },
+  {
+    "file": "SkyHanni-0.19.Beta.3.jar",
+    "hash": "f4ad45c5597a2f9cca7e5c5db32f9d2fec675eeb624e4362a7436e88950de303",
+    "source": "github releases",
+    "time": 1687912936353
   }
 ]
