@@ -1102,5 +1102,17 @@
     "hash": "a95efd0cbf91449dfc0432b6b9aa2fc07141af72031482f4228d704af87ff23d",
     "source": "github releases",
     "time": 1688172369429
+  },
+  {
+    "file": "NotEnoughCoins-1.1.jar",
+    "hash": "31ded1ff8813be86fa6c0af4f16e0c12d8a239734cda904679318cbc63a18295",
+    "source": "github releases",
+    "time": 1688339136139
+  },
+  {
+    "file": "dulkirmod-1.2.4.jar",
+    "hash": "c8344fdf3106fd9325693d3091f731c25efc2ce4fb46b0031fc66b07f3231167",
+    "source": "github releases",
+    "time": 1688339136187
   }
 ]
