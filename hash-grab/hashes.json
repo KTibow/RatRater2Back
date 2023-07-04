@@ -1126,5 +1126,11 @@
     "hash": "cd981fe4fabeee01b7e0bf0a7e11995806b362b1a4bc7115fe76bc490cdd6719",
     "source": "skyclient",
     "time": 1688378848913
+  },
+  {
+    "file": "SkyHanni-0.19.Beta.5.jar",
+    "hash": "1a4543b40934c4ea269b9496bd7465041a2efc50297b6497d8739e9d9aa9d8ec",
+    "source": "github releases",
+    "time": 1688476669304
   }
 ]
