@@ -1132,5 +1132,11 @@
     "hash": "1a4543b40934c4ea269b9496bd7465041a2efc50297b6497d8739e9d9aa9d8ec",
     "source": "github releases",
     "time": 1688476669304
+  },
+  {
+    "file": "Mixmetica-1.1.0.jar",
+    "hash": "925e6d64d5c20bb39216067930052ddbacbc9b36907f0b05c7e9b56595a9a3e4",
+    "source": "skyclient",
+    "time": 1688530147064
   }
 ]
