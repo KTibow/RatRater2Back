@@ -64,9 +64,3 @@ jobs:
           app-name: ratrater3
           publish-profile: ${{ secrets.PUBLISH_PROFILE_3 }}
           images: "ghcr.io/${{ env.REPO }}:${{ github.sha }}"
-      - name: Deploy App 4
-        uses: azure/webapps-deploy@v2
-        with:
-          app-name: ratrater4
-          publish-profile: ${{ secrets.PUBLISH_PROFILE_4 }}
-          images: "ghcr.io/${{ env.REPO }}:${{ github.sha }}"
