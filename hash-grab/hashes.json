@@ -1222,5 +1222,11 @@
     "hash": "03285e189a7d5feacb200f4d9679ce2d6fe20815f527a2ea3d6ec87c1bfa930f",
     "source": "github releases",
     "time": 1690207584203
+  },
+  {
+    "file": "SkyblockHud-Reborn-1.17.1.jar",
+    "hash": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926",
+    "source": "skyclient",
+    "time": 1690236335820
   }
 ]
