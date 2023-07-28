@@ -1252,5 +1252,11 @@
     "hash": "5b56ebf3523040d36beda47d72373ce4c46e81d03e047357551950b9d203c186",
     "source": "skyclient",
     "time": 1690556777456
+  },
+  {
+    "file": "Cowlection-1.8.9-0.16.0.jar",
+    "hash": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
+    "source": "skyclient",
+    "time": 1690560468842
   }
 ]
