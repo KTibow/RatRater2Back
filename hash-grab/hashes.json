@@ -1300,5 +1300,11 @@
     "hash": "4cb2c1913a37dcf572a699e95b2b0500d5f88da4be31e5829afb8efc3ebd6e15",
     "source": "github releases",
     "time": 1691078729125
+  },
+  {
+    "file": "dulkirmod-1.2.5.jar",
+    "hash": "7cf225ec7970bb466c1b12c7a33bccb6258ddc4bff4caf98cc2e08ed0b86e524",
+    "source": "github releases",
+    "time": 1691168653646
   }
 ]
