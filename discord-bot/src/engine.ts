@@ -13,14 +13,14 @@ export type Analysis = {
 export type Obfuscation = [
   string,
   (
-    | { file: string; initialFind: InitialFind }
-    | { quote: string; initialFind: InitialFind }
+    | { file: string; initialFind?: InitialFind }
+    | { quote: string; initialFind?: InitialFind }
   )
 ][];
 export type Flag = {
   matches: string[];
   link?: string;
-  initialFind: InitialFind;
+  initialFind?: InitialFind;
 };
 export type InitialFind = {
   searchString: string;
@@ -149,7 +149,7 @@ export const scan = (file: string, contents: string, state: Analysis) => {
 
   const addFlag = (
     name: string,
-    data: { link?: string; initialFind: InitialFind }
+    data: { link?: string; initialFind?: InitialFind }
   ) => {
     if (state.flags[name]) {
       return;

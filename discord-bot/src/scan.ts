@@ -150,6 +150,7 @@ These flags were found: ${flagList
 
     let totalSize = 0;
     for (const file of files) {
+      if (!file.endsWith(".class") && !file.endsWith(".mf")) continue;
       // @ts-ignore
       const size = zip.files[file]._data.uncompressedSize;
       totalSize += size < 0 ? size + 2 ** 32 : size;
@@ -201,13 +202,16 @@ These flags were found: ${flagList
     if (manifest) tasks.push(manifestTask(manifest));
 
     const apiAnalysisTask = async () => {
-      const resp = await fetch("https://rr-quantiy.ktibow.workers.dev/", {
-        body: data,
-        method: "POST",
-        headers: {
-          Accept: "application/json",
-        },
-      });
+      const resp = await env.quantiy.fetch(
+        "https://rr-quantiy.ktibow.workers.dev/",
+        {
+          body: data,
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+          },
+        }
+      );
       if (!resp.ok) {
         console.error(await resp.text());
         throw new Error("API analysis failed");
