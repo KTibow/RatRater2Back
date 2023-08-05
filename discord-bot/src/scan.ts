@@ -201,25 +201,24 @@ These flags were found: ${flagList
     if (manifest) tasks.push(manifestTask(manifest));
 
     const apiAnalysisTask = async () => {
-      const resp = await env.quantiy.fetch(
-        "https://rr-quantiy.ktibow.workers.dev/",
-        {
-          body: data,
-          method: "POST",
-          headers: {
-            Accept: "application/json",
-          },
-        }
-      );
+      const resp = await fetch("https://rr-quantiy.ktibow.workers.dev/", {
+        body: data,
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+        },
+      });
       if (!resp.ok) {
         console.error(await resp.text());
         throw new Error("API analysis failed");
       }
-      const json = (await resp.json()) as any;
+      const json: any = await resp.json();
       if (!state.flagged) {
-        if (json.class == "sure") {
+        if (json.class == "yes") {
           state.flagged = { name: "Quantiy" };
-        } else if (json.class == "maybe") {
+        } else if (json.class == "medium") {
+          state.flagged = { name: "Quantiy (medium confidence)" };
+        } else if (json.class == "low") {
           state.flagged = { name: "Quantiy (low confidence)" };
         }
       }
