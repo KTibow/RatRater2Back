@@ -1342,5 +1342,11 @@
     "hash": "7586d5ff16145ee2f1afe5e7d32f53a262da62b19c39308b9675dac5c8c02274",
     "source": "github releases",
     "time": 1691690876351
+  },
+  {
+    "file": "SkyClientCosmetics-1.1.13.jar",
+    "hash": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b",
+    "source": "skyclient",
+    "time": 1691874218225
   }
 ]
