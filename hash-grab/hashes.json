@@ -1522,5 +1522,11 @@
     "hash": "8318aae19bf6ec74547ca031b1c2d798e3c199f18273aebc8cad31bb4e8f4cfa",
     "source": "github releases",
     "time": 1694851644109
+  },
+  {
+    "file": "Dungeon_Rooms-3.4.0.jar",
+    "hash": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda",
+    "source": "skyclient",
+    "time": 1694876662033
   }
 ]
