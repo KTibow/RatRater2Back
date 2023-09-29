@@ -1564,5 +1564,11 @@
     "hash": "515f56036111a5d665f804295e60a8e87604e6d4dd27d7e7976d56d3c5be0889",
     "source": "github releases",
     "time": 1695899081746
+  },
+  {
+    "file": "NotEnoughUpdates-2.1.1-Alpha-21.jar",
+    "hash": "c5d956020ba6b5b098dbed79f4b4428497b75ab0ae5f2f48dc72ba929eaa4724",
+    "source": "discord",
+    "time": 1695956808574
   }
 ]
