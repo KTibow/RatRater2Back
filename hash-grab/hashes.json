@@ -1594,5 +1594,11 @@
     "hash": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
     "source": "skyclient",
     "time": 1696176413845
+  },
+  {
+    "file": "Craftify-1.8.9-1.12.0-forge.jar",
+    "hash": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
+    "source": "skyclient",
+    "time": 1696248712960
   }
 ]
