@@ -1696,5 +1696,11 @@
     "hash": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339",
     "source": "skyclient",
     "time": 1697483062904
+  },
+  {
+    "file": "Skytils-1.7.8.jar",
+    "hash": "bed2f299f5acebc4c1fbbc1a753d351a518b1ce8944be87403db73ff298fc778",
+    "source": "skyclient",
+    "time": 1697497574350
   }
 ]
