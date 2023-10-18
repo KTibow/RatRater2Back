@@ -1708,5 +1708,11 @@
     "hash": "0944cbbd683b9632c86fd364947d99b4e2f501a4678e397d15bfd91f862e2dd4",
     "source": "github releases",
     "time": 1697576699884
+  },
+  {
+    "file": "LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
+    "hash": "b4d3b21c7d84a1f479abe3ad3b35fe9923709b2e1ac7896e5620e64afa6585ad",
+    "source": "skyclient",
+    "time": 1697666756159
   }
 ]
