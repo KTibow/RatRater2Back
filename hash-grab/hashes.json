@@ -1714,5 +1714,11 @@
     "hash": "b4d3b21c7d84a1f479abe3ad3b35fe9923709b2e1ac7896e5620e64afa6585ad",
     "source": "skyclient",
     "time": 1697666756159
+  },
+  {
+    "file": "dungeonsguide-4.0.0-beta8.3-standalone.jar",
+    "hash": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf",
+    "source": "skyclient",
+    "time": 1697987067857
   }
 ]
