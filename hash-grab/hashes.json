@@ -1912,5 +1912,11 @@
     "hash": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
     "source": "github releases",
     "time": 1700655147202
+  },
+  {
+    "file": "NotEnoughCoins-1.14.3.jar",
+    "hash": "3b7de6cd61d7c32b6a01d97a07f2c2617c00e3b5bb479fd909be8cf80b944f3b",
+    "source": "github releases",
+    "time": 1700741505853
   }
 ]
