@@ -1930,5 +1930,119 @@
     "hash": "fae1fe6d76f4d1533dcfe4efd2101974de655a1bb03dc96dcdd8f993e0707233",
     "source": "github releases",
     "time": 1700773530330
+  },
+  {
+    "file": "EvergreenHUD-1.8.9-forge-2.0.0.jar",
+    "hash": "eff9ac474d3dbbc776a99b150ac1252ff0f6f4ea245aa2923fdb6431ef4303f0",
+    "source": "skyclient",
+    "time": 1700827896524
+  },
+  {
+    "file": "DamageTint-1.8.9-forge-3.3.0.jar",
+    "hash": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
+    "source": "skyclient",
+    "time": 1700827896736
+  },
+  {
+    "file": "CrashPatch-1.8.9-forge-2.0.0.jar",
+    "hash": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
+    "source": "skyclient",
+    "time": 1700827896584
+  },
+  {
+    "file": "Hytils-Reborn-1.6.0.jar",
+    "hash": "a4716a1d7793701ecdc04d5ab638b0a17641d4bf5adb52d7672bd91a7cbe1415",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
+    "hash": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
+    "source": "skyclient",
+    "time": 1700827896552
+  },
+  {
+    "file": "Partly.Sane.Skies-beta-v0.4.1.jar",
+    "hash": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
+    "source": "skyclient",
+    "time": 1700827897274
+  },
+  {
+    "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+    "hash": "e68658945f989e57f954bf2b1f2c2e84252a4272e3fec6dc8e991c5f0e9f8f82",
+    "source": "skyclient",
+    "time": 1700827896344
+  },
+  {
+    "file": "OverflowAnimations-1.8.9-forge-2.0.0.jar",
+    "hash": "673602e19b69657a6ab09a5d433877751aa7984584632bf752a17c2774f4d9e1",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "PolyTime-1.8.9-forge-1.0.0.jar",
+    "hash": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c",
+    "source": "skyclient",
+    "time": 1700827896813
+  },
+  {
+    "file": "PolyWeather-1.8.9-forge-1.0.0.jar",
+    "hash": "3f56e4b7983725e43969b67423e92bc05e260f6ff9d9f85f13ddc2b6875e4ee8",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "Mixmetica-1.8.9-forge-2.0.0.jar",
+    "hash": "b9180528bf87d6e802734b63a5f0c58a2208f89f45384f620ae2cf7c282a6694",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "GlintColorizer-1.8.9-forge-1.0.1.jar",
+    "hash": "73225a4ea042c8ff441446f43641e6d2a90244bbe5953ee0887b50996d29c000",
+    "source": "skyclient",
+    "time": 1700827896652
+  },
+  {
+    "file": "PolySprint-1.8.9-forge-1.0.0.jar",
+    "hash": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244",
+    "source": "skyclient",
+    "time": 1700827896736
+  },
+  {
+    "file": "Chatting-1.8.9-forge-1.5.0.jar",
+    "hash": "6bc122b4530afa9a7e461c0d9f4929376440551dc2ef1d1301510a711d43cc7a",
+    "source": "skyclient",
+    "time": 1700827896738
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.0.0.jar",
+    "hash": "72a12cef6d7be1b594c4fc2b544d64b2f5c366940ea1fcd229de80d1f831c263",
+    "source": "skyclient",
+    "time": 1700827897985
+  },
+  {
+    "file": "REDACTION-1.8.9-forge-1.3.6.jar",
+    "hash": "e9e830fbc693efac3881027b40e53215487f562d47e330dc19bac8d0b524080d",
+    "source": "skyclient",
+    "time": 1700827896818
+  },
+  {
+    "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
+    "hash": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "Potion_Effects_1.8.9-forge_1.0.jar",
+    "hash": "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436",
+    "source": "skyclient",
+    "time": 1700827896903
+  },
+  {
+    "file": "ParticlesEnhanced-1.3.2.jar",
+    "hash": "36c3dc863e0d1cd628b3a22781df190d3fdb34e075621ab5f5e349782ac55dc3",
+    "source": "skyclient",
+    "time": 1700827896903
   }
 ]
