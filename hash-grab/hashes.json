@@ -2056,5 +2056,17 @@
     "hash": "9a9d4cb98c31401b7d7d51b562521728188f614e4282a06f7a1a3b39fe2b4166",
     "source": "skyclient",
     "time": 1700899666762
+  },
+  {
+    "file": "SkyClient-Updater-1.8.9-forge-1.3.3.jar",
+    "hash": "9d5180dede96639929360b686599113a5c739dec1271edba7d891ce9598019d9",
+    "source": "skyclient",
+    "time": 1700914226786
+  },
+  {
+    "file": "SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
+    "hash": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
+    "source": "skyclient",
+    "time": 1700914227150
   }
 ]
