@@ -2080,5 +2080,17 @@
     "hash": "df1e3404f7103a871a6081b915023dd7be6619ca60d093ea57aad074f618b570",
     "source": "skyclient",
     "time": 1700968012480
+  },
+  {
+    "file": "NotEnoughCoins-1.14.6.jar",
+    "hash": "28b2778c4aba394f11178b45fe79d38fdcc9e39dbb525652c61cfb6462734312",
+    "source": "github releases",
+    "time": 1701029189484
+  },
+  {
+    "file": "SkyHanni-0.22.Beta.2.jar",
+    "hash": "00958a1eb560745fcbaf3f790d71404491a115867adf627bd6128971356516b1",
+    "source": "github releases",
+    "time": 1701029189903
   }
 ]
