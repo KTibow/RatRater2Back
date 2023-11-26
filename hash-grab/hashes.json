@@ -2074,5 +2074,11 @@
     "hash": "281f437dc05008ebfe20e0842a945f85a807ab2b5dfd737d9d290001522cbada",
     "source": "github releases",
     "time": 1700939007885
+  },
+  {
+    "file": "SkyClient-Updater-1.8.9-forge-1.3.4.jar",
+    "hash": "df1e3404f7103a871a6081b915023dd7be6619ca60d093ea57aad074f618b570",
+    "source": "skyclient",
+    "time": 1700968012480
   }
 ]
