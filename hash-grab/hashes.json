@@ -2116,5 +2116,11 @@
     "hash": "ca2f752f6f36f28a6170646d704d5b41fc2337fede4118dce32bb55a4d389218",
     "source": "github releases",
     "time": 1701217959844
+  },
+  {
+    "file": "Keystrokes-1.8.9-forge-1.0.0.jar",
+    "hash": "a2b25adcecc9c84feb914ba1b81ce36da74d8e9f0d4a8a227cc131d5479e9ab0",
+    "source": "skyclient",
+    "time": 1701230909833
   }
 ]
