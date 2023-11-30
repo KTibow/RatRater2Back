@@ -2134,5 +2134,11 @@
     "hash": "d5bc2fc97ad4c8abd315e1e7fb9c368828d6ae8d72ca7997c1acc04978734780",
     "source": "discord",
     "time": 1701320811091
+  },
+  {
+    "file": "SkyHanni-0.22.Beta.5.jar",
+    "hash": "e7b189c5527ba036e0b2b0672c4d81d14c93d4e7447fb0ed4a024e34bd7d22f7",
+    "source": "github releases",
+    "time": 1701385623405
   }
 ]
