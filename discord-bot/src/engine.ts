@@ -128,8 +128,13 @@ export const scan = (file: string, contents: string, state: Analysis) => {
         isRegex: true,
       },
     };
+  } else if (file == "skid/Factory.class") {
+    state.obfuscation["Obfuscator Skidfuscator"] = { file };
   }
-  const match15 = contents.match(/[^a-z][a-z]{15}[^a-z]/g);
+
+  const match15 = contents.match(
+    /\x01\x00\x0f(?!linenumbertable)[a-z]{15}[^a-z]/g
+  );
   if (match15 && match15.length > 10) {
     state.obfuscation["Possibly Skidfuscator (many 15-char functions)"] = {
       file,
@@ -149,9 +154,10 @@ export const scan = (file: string, contents: string, state: Analysis) => {
 
   const addFlag = (
     name: string,
-    data: { link?: string; initialFind?: InitialFind }
+    data: { link?: string; initialFind: InitialFind }
   ) => {
     if (state.flags[name]) {
+      state.flags[name].matches.push(file);
       return;
     }
     state.flags[name] = {
@@ -161,12 +167,13 @@ export const scan = (file: string, contents: string, state: Analysis) => {
   };
   if (
     contents.includes("func_111286_b") ||
-    contents.includes("func_148254_d")
+    contents.includes("func_148254_d") ||
+    contents.includes("field_148258_c")
   ) {
     addFlag("Uses session token", {
-      link: "https://github.com/KTibow/RatRater2/wiki/Flags#func_111286_b--func_148254_d",
+      link: "https://github.com/KTibow/RatRater2/wiki/Flags#func_111286_b--func_148254_d--field_148258_c",
       initialFind: {
-        searchString: "func_111286_b|func_148254_d",
+        searchString: "func_111286_b|func_148254_d|field_148258_c",
         isRegex: true,
       },
     });
