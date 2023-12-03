@@ -2158,5 +2158,11 @@
     "hash": "a5fa35bd7341bd49964943e5e250b0e55632d6b17569e8eb9064a6a45d26088e",
     "source": "github releases",
     "time": 1701543785980
+  },
+  {
+    "file": "OverflowAnimations-1.8.9-forge-2.0.1.jar",
+    "hash": "86947126f27d902a8be9529e188ce7f00435603922db64b043c25d9602899451",
+    "source": "skyclient",
+    "time": 1701623057323
   }
 ]
