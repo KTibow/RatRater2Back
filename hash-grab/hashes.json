@@ -2182,5 +2182,11 @@
     "hash": "d229f44007fa44f1d58bd63b572ef42cde3452fcf0923e9b9ee1f5c52caaee67",
     "source": "github releases",
     "time": 1701827357192
+  },
+  {
+    "file": "SkyblockAddons-1.7.2-for-MC-1.8.9-SKYCLIENTPATCH.jar",
+    "hash": "a30e40358d4a5f053b89d8274c50a65e1e6085df63148a07696af568d0b7d305",
+    "source": "skyclient",
+    "time": 1701904031991
   }
 ]
