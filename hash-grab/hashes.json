@@ -2188,5 +2188,11 @@
     "hash": "a30e40358d4a5f053b89d8274c50a65e1e6085df63148a07696af568d0b7d305",
     "source": "skyclient",
     "time": 1701904031991
+  },
+  {
+    "file": "NotEnoughCoins-1.14.7.jar",
+    "hash": "357c1351f8e64a35e95c29028d9c8be6d3aa7581e4fb2e8b775dfd413e61061b",
+    "source": "github releases",
+    "time": 1702058920966
   }
 ]
