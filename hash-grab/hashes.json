@@ -2218,5 +2218,17 @@
     "hash": "f17e6b35699f0652ad73fecd4a4aef36614f4cf6557d7103120ed0d308f50148",
     "source": "github releases",
     "time": 1702354159681
+  },
+  {
+    "file": "EvergreenHUD-1.8.9-forge-2.1.0.jar",
+    "hash": "711872a0a3c4bc51a11bfcb53e7dc8c1fbbbeca2182a5f220230beebec24aa35",
+    "source": "skyclient",
+    "time": 1702397289892
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.1.0.jar",
+    "hash": "c81a0999398c09890921395ed3c4432203ec55122afbb5440ac55d23984e6898",
+    "source": "skyclient",
+    "time": 1702397290089
   }
 ]
