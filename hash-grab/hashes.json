@@ -2242,5 +2242,11 @@
     "hash": "24b82bc6bae7d7191249254d4029d1a5fd645d7b7743a1e3d5a5a4abbcfdc394",
     "source": "github releases",
     "time": 1702732034322
+  },
+  {
+    "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
+    "hash": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
+    "source": "skyclient",
+    "time": 1702739109439
   }
 ]
