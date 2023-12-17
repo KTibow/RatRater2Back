@@ -2266,5 +2266,11 @@
     "hash": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af",
     "source": "github releases",
     "time": 1702843611343
+  },
+  {
+    "file": "Partly.Sane.Skies-beta-v0.5.jar",
+    "hash": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23",
+    "source": "skyclient",
+    "time": 1702854370662
   }
 ]
