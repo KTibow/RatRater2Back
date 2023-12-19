@@ -2284,5 +2284,11 @@
     "hash": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
     "source": "skyclient",
     "time": 1702926267463
+  },
+  {
+    "file": "Skytils-1.8.0-pre6.jar",
+    "hash": "50043c87820ce2cb432dad0fc56e244e8a25c726e64f19fe3f62a16778d6c423",
+    "source": "github releases",
+    "time": 1702955238419
   }
 ]
