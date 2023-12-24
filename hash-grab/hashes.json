@@ -2326,5 +2326,35 @@
     "hash": "7479b0d30177a5f08e5bdb3d6b2a3f078fea7fb8c71bc839a8aa11be23378833",
     "source": "github releases",
     "time": 1703300838221
+  },
+  {
+    "file": "EvergreenHUD-1.8.9-forge-2.1.2.jar",
+    "hash": "e45d8aaaf66444775c062e66ef9656cc7375f24912353643211a209bb79fcaee",
+    "source": "skyclient",
+    "time": 1703419834515
+  },
+  {
+    "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
+    "hash": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda",
+    "source": "skyclient",
+    "time": 1703419835005
+  },
+  {
+    "file": "OverflowAnimations-1.8.9-forge-2.1.0.jar",
+    "hash": "9e335c01dd7a40165ebc347d9936c5c44ce2b556977fef8a6a93745d35eb8dde",
+    "source": "skyclient",
+    "time": 1703419834731
+  },
+  {
+    "file": "Chatting-1.8.9-forge-1.5.1.jar",
+    "hash": "3f73a05b8def3bd67d9ffdca6cdd589825d57af6f11fe2012b133e43ba033b50",
+    "source": "skyclient",
+    "time": 1703419834821
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.1.1.jar",
+    "hash": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
+    "source": "skyclient",
+    "time": 1703419834718
   }
 ]
