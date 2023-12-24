@@ -2356,5 +2356,11 @@
     "hash": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
     "source": "skyclient",
     "time": 1703419834718
+  },
+  {
+    "file": "PolyNametag-1.8.9-forge-1.0.0.jar",
+    "hash": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
+    "source": "skyclient",
+    "time": 1703423179567
   }
 ]
