@@ -2398,5 +2398,11 @@
     "hash": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601",
     "source": "github releases",
     "time": 1703464373238
+  },
+  {
+    "file": "Chatting-1.8.9-forge-1.5.3.jar",
+    "hash": "c8b06ba32a684748f8d8a83f54cf5ac5afb3dbe4e86a33de31cdd2b5e380fcbb",
+    "source": "skyclient",
+    "time": 1703484560189
   }
 ]
