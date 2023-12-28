@@ -2440,5 +2440,11 @@
     "hash": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26",
     "source": "skyclient",
     "time": 1703707609996
+  },
+  {
+    "file": "QuickQuit-1.0.0.jar",
+    "hash": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5",
+    "source": "skyclient",
+    "time": 1703801168947
   }
 ]
