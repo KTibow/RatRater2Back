@@ -2446,5 +2446,17 @@
     "hash": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5",
     "source": "skyclient",
     "time": 1703801168947
+  },
+  {
+    "file": "Partly.Sane.Skies-beta-v0.5.3.jar",
+    "hash": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
+    "source": "skyclient",
+    "time": 1703844416267
+  },
+  {
+    "file": "SkyHanni-0.23.Beta.2.jar",
+    "hash": "44e6e4c304f10498a693fe1ac94afab4bbea89e828d0f422c4a425111b79f7ea",
+    "source": "github releases",
+    "time": 1703844418463
   }
 ]
