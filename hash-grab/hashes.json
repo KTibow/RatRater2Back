@@ -2488,5 +2488,11 @@
     "hash": "91c3d51dcdb3c7b696a6aa8655935e7dc877c44bfbcd0b9ae97ea1309c7211b6",
     "source": "github releases",
     "time": 1704665184065
+  },
+  {
+    "file": "dungeonsguide-loader-4.0.0-standalone.jar",
+    "hash": "dfc903024412e3252fdf73460ce807d1e2c06b9017d91b188792d7675387c3c2",
+    "source": "skyclient",
+    "time": 1704809211638
   }
 ]
