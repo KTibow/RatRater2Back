@@ -7,7 +7,9 @@ const modsResp = await fetch(
 );
 const modsJson = await modsResp.json();
 const usedMods = modsJson.filter(
-  (mod) => !mod.hidden || modsJson.some((m) => !m.hidden && m.packages?.includes(mod.id))
+  (mod) =>
+    !mod.hidden ||
+    modsJson.some((m) => !m.hidden && m.packages?.includes(mod.id))
 );
 let digestedMods = 0;
 const modHashes = await Promise.all(
@@ -15,7 +17,8 @@ const modHashes = await Promise.all(
     const fileUrl =
       mod.url ||
       encodeURI(
-        "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/" + mod.file
+        "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/" +
+          mod.file
       );
     const fileResp = await fetch(fileUrl, {
       headers: { "User-Agent": "github.com/KTibow/RatRater2Hash" },
@@ -33,6 +36,10 @@ const modHashes = await Promise.all(
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 modHashes.forEach((hash) => {
-  if (hash && !currentHashes.some((h) => h.hash == hash.hash)) currentHashes.push(hash);
+  if (hash) {
+    const existing = currentHashes.find((h) => h.hash == hash.hash);
+    if (existing) existing.updated = hash.time;
+    else currentHashes.push(hash);
+  }
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));

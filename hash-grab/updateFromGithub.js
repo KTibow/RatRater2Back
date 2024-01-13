@@ -22,7 +22,9 @@ const repoReleaseResps = await Promise.all(
     })
   )
 );
-const repoReleaseJson = await Promise.all(repoReleaseResps.map((resp) => resp.json()));
+const repoReleaseJson = await Promise.all(
+  repoReleaseResps.map((resp) => resp.json())
+);
 const hashes = [];
 await Promise.all(
   repoReleaseJson.map(async (releases) => {
@@ -31,19 +33,27 @@ await Promise.all(
     const jar = release.assets?.find((a) => a.name.endsWith(".jar"));
     if (!jar) return;
     const fileResp = await fetch(jar.browser_download_url);
-    if (!fileResp.ok) return console.error("release response not ok on", jar.name);
+    if (!fileResp.ok)
+      return console.error("release response not ok on", jar.name);
     const fileBytes = await fileResp.arrayBuffer();
     const hashBytes = await crypto.subtle.digest("SHA-256", fileBytes); // eslint-disable-line
     const hash = [...new Uint8Array(hashBytes)]
       .map((b) => b.toString(16).padStart(2, "0"))
       .join("");
-    hashes.push({ file: jar.name, hash, source: "github releases", time: Date.now() });
+    hashes.push({
+      file: jar.name,
+      hash,
+      source: "github releases",
+      time: Date.now(),
+    });
     console.log("digested", jar.name);
   })
 );
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 hashes.forEach((hash) => {
-  if (!currentHashes.some((h) => h.hash == hash.hash)) currentHashes.push(hash);
+  const existing = currentHashes.find((h) => h.hash == hash.hash);
+  if (existing) existing.updated = hash.time;
+  else currentHashes.push(hash);
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));

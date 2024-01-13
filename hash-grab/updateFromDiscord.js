@@ -26,7 +26,9 @@ await Promise.all(
       (a, b) => b.createdTimestamp - a.createdTimestamp
     );
     const latestAttachment = messages
-      .map((m) => [...m.attachments.values()].find((m) => m.name.endsWith(".jar")))
+      .map((m) =>
+        [...m.attachments.values()].find((m) => m.name.endsWith(".jar"))
+      )
       .find((a) => a);
     if (!latestAttachment) return console.warn("no attachment in", cId);
     const fileResp = await fetch(latestAttachment.url);
@@ -35,13 +37,20 @@ await Promise.all(
     const hash = [...new Uint8Array(hashBytes)]
       .map((b) => b.toString(16).padStart(2, "0"))
       .join("");
-    hashes.push({ file: latestAttachment.name, hash, source: "discord", time: Date.now() });
+    hashes.push({
+      file: latestAttachment.name,
+      hash,
+      source: "discord",
+      time: Date.now(),
+    });
   })
 );
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 hashes.forEach((hash) => {
-  if (!currentHashes.some((h) => h.hash == hash.hash)) currentHashes.push(hash);
+  const existing = currentHashes.find((h) => h.hash == hash.hash);
+  if (existing) existing.updated = hash.time;
+  else currentHashes.push(hash);
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));
 
