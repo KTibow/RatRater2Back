@@ -21,7 +21,7 @@ const modHashes = await Promise.all(
           mod.file
       );
     const fileResp = await fetch(fileUrl, {
-      headers: { "User-Agent": "github.com/KTibow/RatRater2Hash" },
+      headers: { "User-Agent": "github.com/KTibow/RatRater2Back" },
     });
     if (!fileResp.ok) return console.error("file response not ok on", fileUrl);
     const fileBytes = await fileResp.arrayBuffer();
