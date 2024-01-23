@@ -152,6 +152,10 @@ export const scan = (file: string, contents: string, state: Analysis) => {
     state.obfuscation["Obfuscator Stringer"] = { file };
   }
 
+  if (contents.includes("Falcon is downloading classes...")) {
+    state.obfuscation["Downloads remote content"] = { file };
+  }
+
   const addFlag = (
     name: string,
     data: { link?: string; initialFind: InitialFind }
