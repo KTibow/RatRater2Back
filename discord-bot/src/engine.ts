@@ -29,7 +29,7 @@ export type InitialFind = {
   matchCase?: boolean;
 };
 export const prescan = (
-  zip: JSZip & JSZipObject,
+  zip: JSZip & JSZip.JSZipObject,
   files: string[],
   state: Analysis
 ) => {
@@ -74,9 +74,11 @@ export const prescan = (
     { name: "Kodeine", pattern: "a/b/c/d" },
     { name: "Yoink", pattern: "net/jodah/typetools" },
     { name: "CustomPayload Normal", pattern: "me/custompayload/normal" },
+    { name: "Asterisk", pattern: "me/ghosty/notarat" },
     { name: "SBFT", pattern: "com/sbft" },
     { name: "MacroMod", pattern: "com/macromod" },
     { name: "Quanity", pattern: "com/quantiy" },
+    { name: "Dreamys", pattern: "studio/dreamys/Rat" },
     { name: "DogeRat", pattern: "vytal/should/kill/himself" },
     { name: "SchubiRat", pattern: "dev/schubilegend" },
   ];
@@ -99,6 +101,9 @@ export const scan = (file: string, contents: string, state: Analysis) => {
     ) {
       state.flagged = { name: "Quantiy", file };
     }
+    if (contents.includes("ZHVwZXV0aWxz")) {
+      state.flagged = { name: "Dupeutils", file };
+    }
   }
   if (/(?=[Il]{9,})(?:(?:I+l+)+I+)/.test(contents)) {
     state.obfuscation["Obfuscator Bozar"] = {
@@ -114,6 +119,9 @@ export const scan = (file: string, contents: string, state: Analysis) => {
       file,
       initialFind: { searchString: "branchlock", isRegex: true },
     };
+  }
+  if (contents.includes("Sta* ckT*ra")) {
+    state.obfuscation["Obfuscator Asterisk"] = { file };
   }
   if (
     contents.includes("nothing_to_see_here") ||
@@ -172,7 +180,9 @@ export const scan = (file: string, contents: string, state: Analysis) => {
   if (
     contents.includes("func_111286_b") ||
     contents.includes("func_148254_d") ||
-    contents.includes("field_148258_c")
+    contents.includes("field_148258_c") ||
+    contents.includes("ZnVuY18xMTEyODZfYg") ||
+    contents.includes("ZnVuY18xNDgyNTRfZA")
   ) {
     addFlag("Uses session token", {
       link: "https://github.com/KTibow/RatRater2/wiki/Flags#func_111286_b--func_148254_d--field_148258_c",
