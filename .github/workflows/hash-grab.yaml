@@ -28,9 +28,6 @@ jobs:
       - run: node updateFromGithub.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: node updateFromDiscord.js
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
       - name: Commit report
         run: |
           git config --global user.name 'GitHub Actions'
