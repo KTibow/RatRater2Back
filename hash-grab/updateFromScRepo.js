@@ -30,16 +30,23 @@ const modHashes = await Promise.all(
       .map((b) => b.toString(16).padStart(2, "0"))
       .join("");
     console.log("digested", ++digestedMods, "/", usedMods.length);
-    return { file: mod.file, hash, source: "skyclient", time: Date.now() };
+    return {
+      file: mod.file,
+      hash,
+      source: "skyclient",
+    };
   })
 );
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 modHashes.forEach((hash) => {
   if (hash) {
-    const existing = currentHashes.find((h) => h.hash == hash.hash);
-    if (existing) existing.updated = hash.time;
-    else currentHashes.push(hash);
+    let usedHash = currentHashes.find((h) => h.hash == hash.hash);
+    if (!usedHash) {
+      currentHashes.push(hash);
+      usedHash = hash;
+    }
+    usedHash.recent = true;
   }
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));

@@ -44,7 +44,6 @@ await Promise.all(
       file: jar.name,
       hash,
       source: "github releases",
-      time: Date.now(),
     });
     console.log("digested", jar.name);
   })
@@ -52,8 +51,11 @@ await Promise.all(
 console.log("writing");
 const currentHashes = JSON.parse(await readFile("./hashes.json"));
 hashes.forEach((hash) => {
-  const existing = currentHashes.find((h) => h.hash == hash.hash);
-  if (existing) existing.updated = hash.time;
-  else currentHashes.push(hash);
+  let usedHash = currentHashes.find((h) => h.hash == hash.hash);
+  if (!usedHash) {
+    currentHashes.push(hash);
+    usedHash = hash;
+  }
+  usedHash.recent = true;
 });
 await writeFile("./hashes.json", JSON.stringify(currentHashes, null, 2));
