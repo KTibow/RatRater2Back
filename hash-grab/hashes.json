@@ -1897,5 +1897,11 @@
     "source": "github releases",
     "time": 1723648056707,
     "recent": true
+  },
+  {
+    "file": "Apec-1.8.9-forge-1.12.2.jar",
+    "hash": "80c527a6830eb9c9be55af7be77d34b1db0178ed195e47a601f70c2f504e6f97",
+    "source": "skyclient",
+    "recent": true
   }
 ]
