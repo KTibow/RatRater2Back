@@ -1915,5 +1915,11 @@
     "hash": "4400eccfb2dbbd7def0aed634e225017266969b1e03461564badddc1a6d474ec",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "QuickJoin-1.8.9-forge-2.6.jar",
+    "hash": "2ffd78ffa68d95e053615488db46e157a93a8096ba9ae808c691b464bfd42031",
+    "source": "skyclient",
+    "recent": true
   }
 ]
