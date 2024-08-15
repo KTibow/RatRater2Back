@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - .github/workflows/hash-grab.yaml
       - hash-grab/*
   schedule:
     - cron: "0 * * * *"

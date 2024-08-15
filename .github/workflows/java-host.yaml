@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - .github/workflows/java-host.yaml
       - java-host/*
   workflow_dispatch:
 
