@@ -3,53 +3,7 @@
     "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
     "hash": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
     "source": "skyclient",
-    "time": 1678457733390,
-    "updated": 1723682128936
-  },
-  {
-    "file": "smooth-scrolling-everywhere-1.2.jar",
-    "hash": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-    "source": "skyclient",
-    "time": 1678457733488,
-    "updated": 1723682129082
-  },
-  {
-    "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
-    "hash": "2672fa38eb20d7e370587d7aec9fb07c7a4523bf1f4ae5386f6d48fd3c6a9d66",
-    "source": "skyclient",
-    "time": 1678457734158
-  },
-  {
-    "file": "Insomnia-1.0-REL.jar",
-    "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
-    "source": "skyclient",
-    "time": 1678457733869,
-    "updated": 1723682129535
-  },
-  {
-    "file": "DamageTint-3.2.0.jar",
-    "hash": "fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
-    "source": "skyclient",
-    "time": 1678457733829
-  },
-  {
-    "file": "SkyblockClient-Updater-1.3.2.jar",
-    "hash": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498",
-    "source": "skyclient",
-    "time": 1678457733822
-  },
-  {
-    "file": "SkyClientCosmetics-1.1.12.jar",
-    "hash": "b5949eac390d0a7147124ca3d36d20bbb62a2d119e398b976777c5609b10ba26",
-    "source": "skyclient",
-    "time": 1678457734111
-  },
-  {
-    "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
-    "hash": "d57b7fd7bd519bbe4fdbf36cceebfb64d459b7713e1afb0bf6549c21b476a028",
-    "source": "skyclient",
-    "time": 1678457733968,
-    "updated": 1723682129871
+    "time": 1678457733390
   },
   {
     "file": "Patcher-1.8.6 (1.8.9).jar",
@@ -58,281 +12,70 @@
     "time": 1678457733472
   },
   {
-    "file": "CrashPatch-1.4.0.jar",
-    "hash": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416",
+    "file": "Nick Hider-6.0.2 (1.8.9).jar",
+    "hash": "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3",
     "source": "skyclient",
-    "time": 1678457733830
+    "time": 1678457733483
   },
   {
-    "file": "Hytils-Reborn-1.5.0.jar",
-    "hash": "3bec56269402f3444e497a1bd5bbb969254c5234639205847c941c0c6523e18d",
+    "file": "smooth-scrolling-everywhere-1.2.jar",
+    "hash": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
     "source": "skyclient",
-    "time": 1678457733891
-  },
-  {
-    "file": "replaymod-1.8.9-2.6.8.jar",
-    "hash": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
-    "source": "skyclient",
-    "time": 1678457736480
+    "time": 1678457733488
   },
   {
     "file": "Block_Overlay_4.0.3.jar",
     "hash": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
     "source": "skyclient",
-    "time": 1678457733497,
-    "updated": 1723682129301
-  },
-  {
-    "file": "BetterHurtCam-2.2.0.jar",
-    "hash": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e",
-    "source": "skyclient",
-    "time": 1678457733999,
-    "updated": 1723682129223
-  },
-  {
-    "file": "RawInput-1.1.5.jar",
-    "hash": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50",
-    "source": "skyclient",
-    "time": 1678457733809,
-    "updated": 1723682129535
-  },
-  {
-    "file": "Nick Hider-6.0.2 (1.8.9).jar",
-    "hash": "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3",
-    "source": "skyclient",
-    "time": 1678457733483,
-    "updated": 1723682129223
-  },
-  {
-    "file": "SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
-    "hash": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
-    "source": "skyclient",
-    "time": 1678457734086
-  },
-  {
-    "file": "SkyblockHud-Reborn-1.15.0.jar",
-    "hash": "d89b9081f76f17ff15d0530cee2a7a5017457e2c97a9f9cda80e6d593889bff2",
-    "source": "skyclient",
-    "time": 1678457734047
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-9.jar",
-    "hash": "9200b1723d9e583cc7db9771c36c9fdf15c2373c93d58bda5f3b86a367c18d8a",
-    "source": "skyclient",
-    "time": 1678457733777
-  },
-  {
-    "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
-    "hash": "8bd5a505c5d98135dd7ee622d74ed0960870d238ab51354a3b52a7d8aadeab08",
-    "source": "skyclient",
-    "time": 1678457733869
-  },
-  {
-    "file": "Skytils-1.4.3.jar",
-    "hash": "8df452830c64d49db964e995cb553b64b807ed0c34efdbb8346abf51d5818c72",
-    "source": "skyclient",
-    "time": 1678457734457
-  },
-  {
-    "file": "apec-1.10.3.jar",
-    "hash": "9a5b4abe739465e5985dbf0468fc3e9c14f9891a2fb85d4843a48ec9955e1a87",
-    "source": "skyclient",
-    "time": 1678457733998
-  },
-  {
-    "file": "Cowlection-1.8.9-0.15.1.jar",
-    "hash": "72f64aa53383dff5018017991272b88146ec438f1e4cbfb2127a932eb71e0753",
-    "source": "skyclient",
-    "time": 1678457733911
-  },
-  {
-    "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
-    "hash": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519",
-    "source": "skyclient",
-    "time": 1678457734046,
-    "updated": 1723682129651
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta7.4-standalone.jar",
-    "hash": "a6ce5901749f1e2f58129d5e6708557429a00647dfdb3c5e5f038745b54d196f",
-    "source": "skyclient",
-    "time": 1678457734397
-  },
-  {
-    "file": "Dungeon_Rooms-3.3.2.jar",
-    "hash": "298e6680314c6abc0a68f403e4af133e76b0a712abdde1cb649f4bf4d517764d",
-    "source": "skyclient",
-    "time": 1678457734306
-  },
-  {
-    "file": "BazaarNotifier-1.6.1.jar",
-    "hash": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
-    "source": "skyclient",
-    "time": 1678457733829,
-    "updated": 1707771920215
-  },
-  {
-    "file": "SkyGuide (1.8.9-forge)-1.2.1.jar",
-    "hash": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29",
-    "source": "skyclient",
-    "time": 1678457734129
-  },
-  {
-    "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
-    "hash": "8b02f7dcb3248966cd3919d3880102eeb8c1b58e60bc36cc9c44a180ba2e8a43",
-    "source": "skyclient",
-    "time": 1678457733562
-  },
-  {
-    "file": "TimeChanger-2.2.1.jar",
-    "hash": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
-    "source": "skyclient",
-    "time": 1678457734224
+    "time": 1678457733497
   },
   {
     "file": "ItemPhysic Lite 1.3.jar",
     "hash": "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a",
     "source": "skyclient",
-    "time": 1678457733672,
-    "updated": 1723682129342
-  },
-  {
-    "file": "3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
-    "hash": "5c4879c3bccad0fbe196c71deb000fa5bad0cd8460c76b48b69e37ce1312d93b",
-    "source": "skyclient",
-    "time": 1678457734293,
-    "updated": 1723682129508
-  },
-  {
-    "file": "waveycapes-forge-mc1.8.9-1.2.0.jar",
-    "hash": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722",
-    "source": "skyclient",
-    "time": 1678457734200,
-    "updated": 1723682129534
-  },
-  {
-    "file": "twitcher-1.0.jar",
-    "hash": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3",
-    "source": "skyclient",
-    "time": 1678457733741,
-    "updated": 1723682129508
-  },
-  {
-    "file": "Craftify-1.8.9-1.7.0-forge.jar",
-    "hash": "1184247888b7653c973d04ffa5d7e94cf4734812c40518e41fc613f86063d409",
-    "source": "skyclient",
-    "time": 1678457734461
-  },
-  {
-    "file": "Blur-MC1.8.9-1.0.4-2.jar",
-    "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
-    "source": "skyclient",
-    "time": 1678457733720,
-    "updated": 1723682129343
-  },
-  {
-    "file": "GlintColorizer-1.0.0.jar",
-    "hash": "8f93947a77f46940c4f60e4d318c0ab1014c1d823578e8a533eb35fa32805713",
-    "source": "skyclient",
-    "time": 1678457733936
-  },
-  {
-    "file": "DamageTilt-0.2.0.jar",
-    "hash": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e",
-    "source": "skyclient",
-    "time": 1678457733911,
-    "updated": 1723682129555
+    "time": 1678457733672
   },
   {
     "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
     "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
     "source": "skyclient",
-    "time": 1678457733672,
-    "updated": 1723682129343
-  },
-  {
-    "file": "ctjs-2.1.5-1.8.9.jar",
-    "hash": "dcd592434e94822a4dcdcb811d85cd9cf96b21247c7dd7c49adc8ebac9b1eb8b",
-    "source": "skyclient",
-    "time": 1678457734187
-  },
-  {
-    "file": "Resource_Pack_Manager_1.2.jar",
-    "hash": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2",
-    "source": "skyclient",
-    "time": 1678457733720,
-    "updated": 1723682129342
+    "time": 1678457733672
   },
   {
     "file": "Popup Events-1.3.2 (1.8.9).jar",
     "hash": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6",
     "source": "skyclient",
-    "time": 1678457733714,
-    "updated": 1723682129342
+    "time": 1678457733714
   },
   {
-    "file": "Optibye-1.0.0-dep.jar",
-    "hash": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7",
+    "file": "Blur-MC1.8.9-1.0.4-2.jar",
+    "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
     "source": "skyclient",
-    "time": 1678457734187,
-    "updated": 1711490805770
+    "time": 1678457733720
   },
   {
-    "file": "RewardClaim-1.0.5.jar",
-    "hash": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479",
+    "file": "Resource_Pack_Manager_1.2.jar",
+    "hash": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2",
     "source": "skyclient",
-    "time": 1678457734157,
-    "updated": 1719248798527
-  },
-  {
-    "file": "SimpleToggleSprint-2.2.0.jar",
-    "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
-    "source": "skyclient",
-    "time": 1678457733937
+    "time": 1678457733720
   },
   {
     "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
     "hash": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d",
     "source": "skyclient",
-    "time": 1678457733733,
-    "updated": 1723682129343
+    "time": 1678457733733
   },
   {
-    "file": "betterchat-1.5.jar",
-    "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
+    "file": "twitcher-1.0.jar",
+    "hash": "d6ffa5ebb78f8de2dbad30a4ba41ce88fc9973b1a56a3a45a4fca635b8cb87b3",
     "source": "skyclient",
-    "time": 1678457733809
+    "time": 1678457733741
   },
   {
-    "file": "Chatting-1.4.1.jar",
-    "hash": "2667ab4871daabc811686baeca5ae2c18a8ef192f6053a4d8e7507fe09719008",
+    "file": "TNT Time-1.1 (1.8.9).jar",
+    "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
     "source": "skyclient",
-    "time": 1678457734047
-  },
-  {
-    "file": "ReportPlus-1.0.0.jar",
-    "hash": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614",
-    "source": "skyclient",
-    "time": 1678457733935,
-    "updated": 1719248798597
-  },
-  {
-    "file": "VanillaHUD-1.1.1.jar",
-    "hash": "892b49aeab71f115c1d8859df9a4b42e66ca95ef98a59961dbaa7858baf54b20",
-    "source": "skyclient",
-    "time": 1678457733936
-  },
-  {
-    "file": "REDACTION-1.3.5.jar",
-    "hash": "53680dfd2837e1075c74decb9829e2faa735d6b0f6f07b464f1fccc621e1aea2",
-    "source": "skyclient",
-    "time": 1678457734047
-  },
-  {
-    "file": "BehindYouV3-3.1.0.jar",
-    "hash": "880a106a26009e9d33be3b3892ee152fc37689573358db5c00cfbc04b31415ac",
-    "source": "skyclient",
-    "time": 1678457733935
+    "time": 1678457733741
   },
   {
     "file": "Keystrokes-8.1.2 (1.8.9).jar",
@@ -341,25 +84,70 @@
     "time": 1678457733754
   },
   {
-    "file": "TNT Time-1.1 (1.8.9).jar",
-    "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
-    "source": "skyclient",
-    "time": 1678457733741,
-    "updated": 1723682129382
-  },
-  {
-    "file": "LevelHead-8.2.2 (1.8.9).jar",
-    "hash": "3e1d313b6b88d12142c1a56d7518902da7e361a92f7a0f3e107501ac41608987",
-    "source": "skyclient",
-    "time": 1678457733891,
-    "updated": 1723682129467
-  },
-  {
     "file": "AutoGG-4.1.3 (1.8.9).jar",
     "hash": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32",
     "source": "skyclient",
-    "time": 1678457733754,
-    "updated": 1719227306550
+    "time": 1678457733754
+  },
+  {
+    "file": "NotEnoughUpdates-2.1.1-Alpha-9.jar",
+    "hash": "9200b1723d9e583cc7db9771c36c9fdf15c2373c93d58bda5f3b86a367c18d8a",
+    "source": "skyclient",
+    "time": 1678457733777
+  },
+  {
+    "file": "RawInput-1.1.5.jar",
+    "hash": "eb4d2bf6ba3cfa0d5386eae8865d2a60331b7a2c5dd887c01804db24b128bf50",
+    "source": "skyclient",
+    "time": 1678457733809
+  },
+  {
+    "file": "betterchat-1.5.jar",
+    "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
+    "source": "skyclient",
+    "time": 1678457733809
+  },
+  {
+    "file": "SkyblockClient-Updater-1.3.2.jar",
+    "hash": "0062913fea649050e6e47750627d592e2dc03cff9f112b45bcfee79e4c66e498",
+    "source": "skyclient",
+    "time": 1678457733822
+  },
+  {
+    "file": "DamageTint-3.2.0.jar",
+    "hash": "fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
+    "source": "skyclient",
+    "time": 1678457733829
+  },
+  {
+    "file": "BazaarNotifier-1.6.1.jar",
+    "hash": "d4fe6e0755c7f545b27bbd90e65e1cad7f523405058af34c407e9c7a8c82e79b",
+    "source": "skyclient",
+    "time": 1678457733829
+  },
+  {
+    "file": "CrashPatch-1.4.0.jar",
+    "hash": "17d7055778f912b87c39aa0991c1f3816b6d6e3a504e9101817956412aabb416",
+    "source": "skyclient",
+    "time": 1678457733830
+  },
+  {
+    "file": "Insomnia-1.0-REL.jar",
+    "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
+    "source": "skyclient",
+    "time": 1678457733869
+  },
+  {
+    "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
+    "hash": "8bd5a505c5d98135dd7ee622d74ed0960870d238ab51354a3b52a7d8aadeab08",
+    "source": "skyclient",
+    "time": 1678457733869
+  },
+  {
+    "file": "OofMod-3.0 (1.8.9).jar",
+    "hash": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90",
+    "source": "skyclient",
+    "time": 1678457733869
   },
   {
     "file": "Autotip-3.0.1 [1.8-1.12.2].jar",
@@ -368,24 +156,166 @@
     "time": 1678457733890
   },
   {
-    "file": "OofMod-3.0 (1.8.9).jar",
-    "hash": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90",
+    "file": "Hytils-Reborn-1.5.0.jar",
+    "hash": "3bec56269402f3444e497a1bd5bbb969254c5234639205847c941c0c6523e18d",
     "source": "skyclient",
-    "time": 1678457733869,
-    "updated": 1723682129343
+    "time": 1678457733891
   },
   {
-    "file": "ParticlesEnhanced-1.2.0.jar",
-    "hash": "fe938b2dc2139941cdf39993c536e7e0c3d81a13477864d1f8624b753d8ffab3",
+    "file": "LevelHead-8.2.2 (1.8.9).jar",
+    "hash": "3e1d313b6b88d12142c1a56d7518902da7e361a92f7a0f3e107501ac41608987",
     "source": "skyclient",
-    "time": 1678457734416
+    "time": 1678457733891
+  },
+  {
+    "file": "Cowlection-1.8.9-0.15.1.jar",
+    "hash": "72f64aa53383dff5018017991272b88146ec438f1e4cbfb2127a932eb71e0753",
+    "source": "skyclient",
+    "time": 1678457733911
+  },
+  {
+    "file": "DamageTilt-0.2.0.jar",
+    "hash": "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e",
+    "source": "skyclient",
+    "time": 1678457733911
+  },
+  {
+    "file": "ReportPlus-1.0.0.jar",
+    "hash": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614",
+    "source": "skyclient",
+    "time": 1678457733935
+  },
+  {
+    "file": "BehindYouV3-3.1.0.jar",
+    "hash": "880a106a26009e9d33be3b3892ee152fc37689573358db5c00cfbc04b31415ac",
+    "source": "skyclient",
+    "time": 1678457733935
+  },
+  {
+    "file": "GlintColorizer-1.0.0.jar",
+    "hash": "8f93947a77f46940c4f60e4d318c0ab1014c1d823578e8a533eb35fa32805713",
+    "source": "skyclient",
+    "time": 1678457733936
+  },
+  {
+    "file": "VanillaHUD-1.1.1.jar",
+    "hash": "892b49aeab71f115c1d8859df9a4b42e66ca95ef98a59961dbaa7858baf54b20",
+    "source": "skyclient",
+    "time": 1678457733936
+  },
+  {
+    "file": "SimpleToggleSprint-2.2.0.jar",
+    "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
+    "source": "skyclient",
+    "time": 1678457733937
+  },
+  {
+    "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+    "hash": "d57b7fd7bd519bbe4fdbf36cceebfb64d459b7713e1afb0bf6549c21b476a028",
+    "source": "skyclient",
+    "time": 1678457733968
+  },
+  {
+    "file": "apec-1.10.3.jar",
+    "hash": "9a5b4abe739465e5985dbf0468fc3e9c14f9891a2fb85d4843a48ec9955e1a87",
+    "source": "skyclient",
+    "time": 1678457733998
+  },
+  {
+    "file": "BetterHurtCam-2.2.0.jar",
+    "hash": "dda8b4853bcd0aa87ec210112788a6eb5943b84a591079a53ce92ae6701d625e",
+    "source": "skyclient",
+    "time": 1678457733999
+  },
+  {
+    "file": "ArrowPath-v1.0.jar",
+    "hash": "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42",
+    "source": "skyclient",
+    "time": 1678457733999
+  },
+  {
+    "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+    "hash": "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519",
+    "source": "skyclient",
+    "time": 1678457734046
+  },
+  {
+    "file": "SkyblockHud-Reborn-1.15.0.jar",
+    "hash": "d89b9081f76f17ff15d0530cee2a7a5017457e2c97a9f9cda80e6d593889bff2",
+    "source": "skyclient",
+    "time": 1678457734047
+  },
+  {
+    "file": "Chatting-1.4.1.jar",
+    "hash": "2667ab4871daabc811686baeca5ae2c18a8ef192f6053a4d8e7507fe09719008",
+    "source": "skyclient",
+    "time": 1678457734047
+  },
+  {
+    "file": "REDACTION-1.3.5.jar",
+    "hash": "53680dfd2837e1075c74decb9829e2faa735d6b0f6f07b464f1fccc621e1aea2",
+    "source": "skyclient",
+    "time": 1678457734047
+  },
+  {
+    "file": "SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
+    "hash": "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4",
+    "source": "skyclient",
+    "time": 1678457734086
+  },
+  {
+    "file": "SkyClientCosmetics-1.1.12.jar",
+    "hash": "b5949eac390d0a7147124ca3d36d20bbb62a2d119e398b976777c5609b10ba26",
+    "source": "skyclient",
+    "time": 1678457734111
+  },
+  {
+    "file": "SkyGuide (1.8.9-forge)-1.2.1.jar",
+    "hash": "6d482772aca1a309be6ef3a63a3caf7372ca4ef8ae702b667e7f16e3ac20bb29",
+    "source": "skyclient",
+    "time": 1678457734129
   },
   {
     "file": "Synthesis-0.3.1.jar",
     "hash": "a3f3701330101dd884da4bd99056b160606c77a87781de9008b3c04d3416023d",
     "source": "skyclient",
-    "time": 1678457734130,
-    "updated": 1723682129593
+    "time": 1678457734130
+  },
+  {
+    "file": "RewardClaim-1.0.5.jar",
+    "hash": "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479",
+    "source": "skyclient",
+    "time": 1678457734157
+  },
+  {
+    "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
+    "hash": "2672fa38eb20d7e370587d7aec9fb07c7a4523bf1f4ae5386f6d48fd3c6a9d66",
+    "source": "skyclient",
+    "time": 1678457734158
+  },
+  {
+    "file": "ctjs-2.1.5-1.8.9.jar",
+    "hash": "dcd592434e94822a4dcdcb811d85cd9cf96b21247c7dd7c49adc8ebac9b1eb8b",
+    "source": "skyclient",
+    "time": 1678457734187
+  },
+  {
+    "file": "Optibye-1.0.0-dep.jar",
+    "hash": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7",
+    "source": "skyclient",
+    "time": 1678457734187
+  },
+  {
+    "file": "waveycapes-forge-mc1.8.9-1.2.0.jar",
+    "hash": "ff2d6ff18dfc08988d19bbd768746eb3c8557f72f211ac5522056fa6aca0d722",
+    "source": "skyclient",
+    "time": 1678457734200
+  },
+  {
+    "file": "TimeChanger-2.2.1.jar",
+    "hash": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
+    "source": "skyclient",
+    "time": 1678457734224
   },
   {
     "file": "OverflowAnimations-1.1.0.jar",
@@ -394,67 +324,52 @@
     "time": 1678457734225
   },
   {
-    "file": "ArrowPath-v1.0.jar",
-    "hash": "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42",
+    "file": "3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+    "hash": "5c4879c3bccad0fbe196c71deb000fa5bad0cd8460c76b48b69e37ce1312d93b",
     "source": "skyclient",
-    "time": 1678457733999,
-    "updated": 1723682129578
+    "time": 1678457734293
   },
   {
-    "file": "NotEnoughCoins-1.0-all.jar",
-    "hash": "c6559f9bd5d71427f8ce5c056a117732058ee92e863044d58cc91d4442a8fa9b",
-    "source": "github releases",
-    "time": 1678457737421
+    "file": "Dungeon_Rooms-3.3.2.jar",
+    "hash": "298e6680314c6abc0a68f403e4af133e76b0a712abdde1cb649f4bf4d517764d",
+    "source": "skyclient",
+    "time": 1678457734306
   },
   {
-    "file": "partlysaneskies-beta-v0.1.2.jar",
-    "hash": "a704dc8e758cb57d0cb1d214f0584d547082c8eb1c5d6e5181010cae9ba163c5",
-    "source": "github releases",
-    "time": 1678457737618
+    "file": "ParticlesEnhanced-1.2.0.jar",
+    "hash": "fe938b2dc2139941cdf39993c536e7e0c3d81a13477864d1f8624b753d8ffab3",
+    "source": "skyclient",
+    "time": 1678457734416
+  },
+  {
+    "file": "Skytils-1.4.3.jar",
+    "hash": "8df452830c64d49db964e995cb553b64b807ed0c34efdbb8346abf51d5818c72",
+    "source": "skyclient",
+    "time": 1678457734457
+  },
+  {
+    "file": "Craftify-1.8.9-1.7.0-forge.jar",
+    "hash": "1184247888b7653c973d04ffa5d7e94cf4734812c40518e41fc613f86063d409",
+    "source": "skyclient",
+    "time": 1678457734461
+  },
+  {
+    "file": "replaymod-1.8.9-2.6.8.jar",
+    "hash": "201afaa9f1e68857ca553d0750dce23b53afe7135bd9a43060e0e38704db4b4c",
+    "source": "skyclient",
+    "time": 1678457736480
   },
   {
     "file": "NotEnoughUpdates-2.1.jar",
     "hash": "5fb302b3e6462fa96565080ddcc0b76ff480230727962b8eadc9df729c01e100",
     "source": "github releases",
-    "time": 1678457737689,
-    "updated": 1723682131878
-  },
-  {
-    "file": "CoflMod-1.5.0-alpha.jar",
-    "hash": "1c51ed10b83b480801c30c0daef6d5f318dbd13737aaa20d9d9a46809cf30c98",
-    "source": "github releases",
-    "time": 1678457737700
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Pre-2.jar",
-    "hash": "0628fa0a1b43469dc90cf592f486b1a70569242284c47948e28557f281921a38",
-    "source": "github releases",
-    "time": 1678457737739
-  },
-  {
-    "file": "dulkirmod-1.1.8.jar",
-    "hash": "ecb7d239d38af0265ed069e9485363688646e1c1f7378890f977ca556906dba7",
-    "source": "github releases",
-    "time": 1678458030982
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.12.jar",
-    "hash": "f4e0dd13b5e8207afa862a5441edd7e5b308a07126d0f3e25563db151ef3de03",
-    "source": "github releases",
-    "time": 1678644417795
+    "time": 1678457737689
   },
   {
     "file": "soopyv2forge-1.1.jar",
     "hash": "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3",
     "source": "github releases",
-    "time": 1678644757569,
-    "updated": 1723682131627
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.14.jar",
-    "hash": "0125b76620bb47f089921e0fd6ad06259a7c18804077ffecf260ae3419e3009a",
-    "source": "github releases",
-    "time": 1678667783583
+    "time": 1678644757569
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Pre-3.jar",
@@ -463,124 +378,10 @@
     "time": 1678753924868
   },
   {
-    "file": "CoflMod-1.5.1-alpha.jar",
-    "hash": "91ed0cfdabb0aea48eaa173e692e15e4081f847ecfefc581f16b03480486714e",
-    "source": "github releases",
-    "time": 1678824556054
-  },
-  {
     "file": "Craftify-1.8.9-1.8.0-forge.jar",
     "hash": "072ce0c906008f68165365fa6ae72e2e437fb79dbfd73c6b09aaf45e35c56912",
     "source": "skyclient",
     "time": 1678831581616
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.16.jar",
-    "hash": "36876f7635ab1396d365be2621e39bf16bb961a38d12194d1b1f8c17cd3add2f",
-    "source": "github releases",
-    "time": 1678835181911
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.17.jar",
-    "hash": "35763a189c674bdb8d0529127195ea0ed65b6f51de8eeb503d38f5a736c507d4",
-    "source": "github releases",
-    "time": 1678927052040
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-13.jar",
-    "hash": "82e46ce45abf30ced7d3c3c30d21504aa10fad7e3e55085c1bedf03033de3767",
-    "source": "discord",
-    "time": 1678939686032
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.18.jar",
-    "hash": "5678f08b66f1816973e1e44eea4ebec2173e32d36003694ed6f7c6582a662a7e",
-    "source": "github releases",
-    "time": 1678997228153
-  },
-  {
-    "file": "Dankers_Skyblock_Mod-2.0-beta3.jar",
-    "hash": "6d19b2fa0158786b7d4696118fd6ecb0c2fa836eda6dba550e29b8fd4626a536",
-    "source": "skyclient",
-    "time": 1679105084152
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.19.jar",
-    "hash": "ecd2b8ead8f6117017f1b64e360b7b85e15494b19372340a4ca834b1c67e21b4",
-    "source": "github releases",
-    "time": 1679141454182
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.20.jar",
-    "hash": "c12c61d89a2ce0d72a374c4807ac78e8347cd2be4428dea3f8f37d1ab2dd59c7",
-    "source": "github releases",
-    "time": 1679256411062
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.21.jar",
-    "hash": "6950a6d39473344d8319f26e5a5fbfe0fb9933348b78c4b0849cfdc77d017104",
-    "source": "github releases",
-    "time": 1679429225264
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.21.1-HOTFIX.jar",
-    "hash": "87b3e04ec41adc5d156fdf63c79d8eaf736f9c3a6a6e688e973513766bf95195",
-    "source": "github releases",
-    "time": 1679432743418
-  },
-  {
-    "file": "Skytils-1.5.0-pre2.jar",
-    "hash": "e6aaa70a468c04f82ff5c35be77312f157291b8af5a81ba4671beb913d32467b",
-    "source": "github releases",
-    "time": 1679445184332
-  },
-  {
-    "file": "NotEnoughUpdates-2.0.0.jar",
-    "hash": "b8bfbf95c1b6d37e32002f1fdecb9699300a8b821adf4472ca8df764ae1c4d60",
-    "source": "github releases",
-    "time": 1679445184677
-  },
-  {
-    "file": "dulkirmod-1.1.9.jar",
-    "hash": "e714f4b62ac4abac7a4c3ca475247e39d35aa3a0ba6b69446673eb942e73f589",
-    "source": "github releases",
-    "time": 1679483088142
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.21.2.jar",
-    "hash": "c3c469276a310f87147defc04ae9b9508897a0179b0eaf571dc522a4bae70c2d",
-    "source": "github releases",
-    "time": 1679497612230
-  },
-  {
-    "file": "Skytils-1.5.0-rc1.jar",
-    "hash": "e426c74cdcedc89857eb0b86bcdd02b62d9043f1890fcfa026b60844bfd6e970",
-    "source": "github releases",
-    "time": 1679515597232
-  },
-  {
-    "file": "Skytils-1.5.1.jar",
-    "hash": "0adc720f1cbcf698831664232614b75f2e7c1cb088e94a572936a635d9de91d1",
-    "source": "github releases",
-    "time": 1679544457441
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.22.jar",
-    "hash": "52737e8d1c064c87746178e4b35f6305510926f77ba71401c5aa1b8d278b287b",
-    "source": "github releases",
-    "time": 1679602013669
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.22.1.jar",
-    "hash": "90705adadaf8865193aef6bb24a95f09636cacf3f95ab44fd9842dd098203dcf",
-    "source": "github releases",
-    "time": 1679605523835
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.23.jar",
-    "hash": "38552f37b2ce18aef956bd956e7977abc55a18bd23c5666971dd26e1dec6509f",
-    "source": "github releases",
-    "time": 1679704362715
   },
   {
     "file": "Skytils-1.5.2.jar",
@@ -589,40 +390,10 @@
     "time": 1679720708151
   },
   {
-    "file": "partlysaneskies-beta-v0.2.jar",
-    "hash": "17a9ca34aab887081e5915bd555106e46240f9e10e1ca265759f463e7ef5673d",
-    "source": "github releases",
-    "time": 1679763834038
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.24.jar",
-    "hash": "3dafd69fd0a60541809cadf6b5d956130cf9da087c3d34a598b6875cf6d1ef41",
-    "source": "github releases",
-    "time": 1679791004244
-  },
-  {
     "file": "ParticlesEnhanced-1.2.1.jar",
     "hash": "b2583271305c2d5fbe64442f962ba295a7dff1598a3b22fba1b542d5691b4f63",
     "source": "skyclient",
     "time": 1679968976337
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.25.jar",
-    "hash": "5517a4cfa8380bf751dad8ca108cf892ba734809edbed8b038bedff5bb5a0e46",
-    "source": "github releases",
-    "time": 1680023081577
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.26.jar",
-    "hash": "9d940561a703be715d529ee2bc61be8c66df8e39477de237cca0ea7770d64b2f",
-    "source": "github releases",
-    "time": 1680127586630
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.27.jar",
-    "hash": "b0ad6e85b8cf10b6812c331144fb07c75c73466c434257de45a6ded8bdc33d4b",
-    "source": "github releases",
-    "time": 1680296652340
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-14.jar",
@@ -637,143 +408,10 @@
     "time": 1680303923693
   },
   {
-    "file": "SkyHanni-0.17.Beta.27.1.jar",
-    "hash": "8e13d012031ed590011a23318a5b6c5ea075439bc55f03f559456e63ec7f6327",
-    "source": "github releases",
-    "time": 1680343535653
-  },
-  {
-    "file": "NotEnoughCoins-0.9.2.1-all.jar",
-    "hash": "76fa6246790970443f726e99a5888d86ed98e95548e402db5cbcbf92e0a584bf",
-    "source": "github releases",
-    "time": 1680402549496
-  },
-  {
     "file": "ctjs-2.2.0-1.8.9.jar",
     "hash": "3b077d3e99eb714d13e76826d75929807e8ab582023c59bc405d4bad67193254",
     "source": "skyclient",
-    "time": 1680469424663,
-    "updated": 1721041587376
-  },
-  {
-    "file": "dulkirmod-1.2.0.jar",
-    "hash": "a07d5d6362257d39dfd726b030d6d7ef5e85fdc489ae28cc38cb3603cc39c4c1",
-    "source": "github releases",
-    "time": 1680473059493
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.28.jar",
-    "hash": "2729fc87ba7ba3f4a9630386ea98b90dd4f9fa1aaf2cda0125d675868ac38ceb",
-    "source": "github releases",
-    "time": 1680481997102
-  },
-  {
-    "file": "CoflMod-1.5.2-alpha.jar",
-    "hash": "2d849c276083be13196c8ff7ab21afceb1b9301db993fd69818377670553bdf6",
-    "source": "github releases",
-    "time": 1680541494470
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.29.jar",
-    "hash": "d18e4ba73b272f2b99f216f21f2589129dc1318dacac805b843bcb03328e80f5",
-    "source": "github releases",
-    "time": 1680591943395
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.30.jar",
-    "hash": "3cbf12e6ba4b120825d53beb0f1de2eb290334db53f51368bcd4e4b1a287f14f",
-    "source": "github releases",
-    "time": 1680649531914
-  },
-  {
-    "file": "Skytils-1.5.4.jar",
-    "hash": "9a0037cdbab4d72afea4382e1b6143c86b8bff1e36761a6edfa2449648b7c706",
-    "source": "github releases",
-    "time": 1681016690864
-  },
-  {
-    "file": "LEGACY-partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
-    "hash": "d2b5c2527297f7c7017796fcf1505486423f91d7c40965979a4b067ffd3b36ef",
-    "source": "github releases",
-    "time": 1681103203961
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta7.5-standalone.jar",
-    "hash": "d2e27eafe66b055f4a3eae02942426afbe18e6f9f13d11a918a27c230f850531",
-    "source": "skyclient",
-    "time": 1681182420672
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.31.jar",
-    "hash": "f14e3bd9c02fa4e5a07353c48aa59c779336ed2581f40a6fc5871a12adb983c1",
-    "source": "github releases",
-    "time": 1681186054803
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.32.jar",
-    "hash": "c98c121f2315f6f0b2f27fb548ecca62531e1e9e57c17b58b28cf03f31fd9367",
-    "source": "github releases",
-    "time": 1681358870053
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.32.jar",
-    "hash": "00b23d1fbe286af8604a8f49061f97b1660dbd137ae5b6d1d3dfb5adb1bb82ff",
-    "source": "github releases",
-    "time": 1681362368610
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.33.jar",
-    "hash": "2e82b5aceaf8b0aa5db71c7ee2ca86987ce019fb1aa2c13875cc3e135e63002f",
-    "source": "github releases",
-    "time": 1681495661225
-  },
-  {
-    "file": "Skytils-1.6.0-pre1.jar",
-    "hash": "3022301a98fc951c147094af832825edb7cb633a9bee92b26f45b8506ddd8ba8",
-    "source": "github releases",
-    "time": 1681499035457
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.34.jar",
-    "hash": "b7e485bdec8d608552134d33f2ef16028715e3494d23794166ae5d9920b49c1e",
-    "source": "github releases",
-    "time": 1681605272394
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.34.1.jar",
-    "hash": "6147028d0d37396f276b0b9f1e4fb1c2897e7a6e717c4e668e05c244212a09ac",
-    "source": "github releases",
-    "time": 1681671826461
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.35.jar",
-    "hash": "6f0b40bba7a33d193b1c1d3afa23ba6d9d1fa69608906e7037d23f5baf03747d",
-    "source": "github releases",
-    "time": 1681769126888
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-15.jar",
-    "hash": "47008c86c0961ba602fc133bfeba175e80d8ee8cd755f35098143a72081e7eff",
-    "source": "discord",
-    "time": 1681784708794
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.35.1.jar",
-    "hash": "9a1c0ae494680abc2749c8188734b155390442a6e04300d3ff25d440510d8d2f",
-    "source": "github releases",
-    "time": 1681848408852
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.35.2.jar",
-    "hash": "1eb5fb8d43db116d467753997c4e11493fd3fec91fdfae43695e9fdc7a1401b5",
-    "source": "github releases",
-    "time": 1681851903718
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.36.jar",
-    "hash": "8513f70c6504a1a06f7464b807cf505e715679aaa70ffc410e9b59bdd0729430",
-    "source": "github releases",
-    "time": 1682031986652
+    "time": 1680469424663
   },
   {
     "file": "Craftify-1.8.9-1.9.0-forge.jar",
@@ -782,46 +420,10 @@
     "time": 1682037123885
   },
   {
-    "file": "SkyHanni-0.17.Beta.37.jar",
-    "hash": "60dff727c1ebec8ff3311304e6d093a218d8c137156f2c5bbee6ab4addbd80b3",
-    "source": "github releases",
-    "time": 1682266011669
-  },
-  {
     "file": "ParticlesEnhanced-1.2.2.jar",
     "hash": "79488ee55a23d5ba31491b066c0b5d5e583ef50607ce029cf22fdeeb01c30d8b",
     "source": "skyclient",
     "time": 1682600947506
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.38.jar",
-    "hash": "49319ff01c423f9e83f6162c1db81f954075a948c94f9a4feb051cec4b15f05e",
-    "source": "github releases",
-    "time": 1682604327489
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.38.1.jar",
-    "hash": "35f889ad7b79ee2039649129c19bdedc485cd782e38479ce7d00e5b4c72111b7",
-    "source": "github releases",
-    "time": 1682607940374
-  },
-  {
-    "file": "dulkirmod-1.2.1.jar",
-    "hash": "6e0fcfc53318d9234f5d90ce9e0d108684f96bbf7070dac7be9d6270848cbbb4",
-    "source": "github releases",
-    "time": 1682735260532
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.39.jar",
-    "hash": "46779b4f71dac611c7c7ac4eed437cfba316fb3452da0345d55e08386c94fb5e",
-    "source": "github releases",
-    "time": 1682870805104
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.39.1.jar",
-    "hash": "cfbc901c017de794972627469f2795ba31fa8f13cfa71109bef15de083dbf64b",
-    "source": "github releases",
-    "time": 1682892254746
   },
   {
     "file": "Craftify-1.8.9-1.10.0-forge.jar",
@@ -830,155 +432,10 @@
     "time": 1682953558028
   },
   {
-    "file": "SkyHanni-0.17.Beta.40.jar",
-    "hash": "bb2123811fd4756f827bd236da7df59913b4cc5cd15507733ae5e485f8b16d62",
-    "source": "github releases",
-    "time": 1682978709381
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.41.jar",
-    "hash": "944e3c9c052b43cc05d7697c72ecbdf4a6ba548fecaaf7e174602eb393250544",
-    "source": "github releases",
-    "time": 1683246636545
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.41.1.jar",
-    "hash": "6a6dc267d9054b94084a1516a87827bf78c9a46e5affc0ace2592489f74ad034",
-    "source": "github releases",
-    "time": 1683310035559
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.42.jar",
-    "hash": "9b324348cfbafc46ec07472a1c3b547e255a673482ae6fe1083077b66d596e72",
-    "source": "github releases",
-    "time": 1683505921660
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.42.1.jar",
-    "hash": "3e530eae7a794417f90f594c3224c17e42025ce15ab975cb0e83d29c865ca1c5",
-    "source": "github releases",
-    "time": 1683540397054
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.43.jar",
-    "hash": "860cc1a68edf94acc8a1420264fc89ad09c439642545fdf9ec48a835d413d5b6",
-    "source": "github releases",
-    "time": 1683583529303
-  },
-  {
-    "file": "SkyHanni-0.17.Beta.44.jar",
-    "hash": "2cf114a8baac1b390e8b368a7097465b440fb8493e13ab20ab967a332f70d01b",
-    "source": "github releases",
-    "time": 1683749322638
-  },
-  {
-    "file": "SkyHanni-0.17.jar",
-    "hash": "c48b8f965369e208f799fb38c8338edd3fd9805f67af499f0859954b0f2cbee4",
-    "source": "github releases",
-    "time": 1683824670956
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.1.jar",
-    "hash": "a0fd4f26f6d82707f4278ebf24987a0001c512d9986499f1ecf02f0b1216557f",
-    "source": "github releases",
-    "time": 1683900292805
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.2.jar",
-    "hash": "f77b3122fdf6d8cccd414d0962d080504a19efc3d6f24c1ac52c752f08ff3fab",
-    "source": "github releases",
-    "time": 1683903946704
-  },
-  {
     "file": "Patcher-1.8.7 (1.8.9).jar",
     "hash": "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34",
     "source": "skyclient",
-    "time": 1684001234603,
-    "updated": 1711404414772
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.3.jar",
-    "hash": "0c08e2a47bafdb6c474bd20b21e6960dcf7db0c8c9c6815f3b31dfe33f59be01",
-    "source": "github releases",
-    "time": 1684163184454
-  },
-  {
-    "file": "CoflMod-1.5.3-alpha.jar",
-    "hash": "bde0df5a0db934a676d3d690289449e5eefce5e1ea60782f878449a6fd5786f0",
-    "source": "github releases",
-    "time": 1684350210596
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.4.jar",
-    "hash": "6e7a0823fc48c137dd551ba6f9ff2726be578d6acbf28ffc139d6961894e768e",
-    "source": "github releases",
-    "time": 1684418720155
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.5.jar",
-    "hash": "8b2e20d79fdff8e21677585959eadb87f0426466c64b28d414a40fa5fc5e83a5",
-    "source": "github releases",
-    "time": 1684429455150
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.6.jar",
-    "hash": "070cefbaf37629b3488cc0e72e11794fa674611a3a1abcb6f88aea8b8055e01b",
-    "source": "github releases",
-    "time": 1684793103115
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.7.jar",
-    "hash": "a7936811bfe453e96bc12eecd0ab0aef7192c43d9fae3ca1b0112545b153b11f",
-    "source": "github releases",
-    "time": 1684974736365
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.8.jar",
-    "hash": "7d76199d9c8d1b1ba9ee978cad3ae6263c9ff9bd17efe58dece3512e6daa6e4e",
-    "source": "github releases",
-    "time": 1685016669473
-  },
-  {
-    "file": "dulkirmod-1.2.2.jar",
-    "hash": "4f7f16ed720b560193010b66739a213ede12794fda465f50f56ac8fc936cd735",
-    "source": "github releases",
-    "time": 1685061224370
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-16.jar",
-    "hash": "a1d4fe64bef7f6f80a9f2b5c53564fcb89558c8e1cdb9b674e58cc879c8efaa7",
-    "source": "discord",
-    "time": 1685109918458
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.9.jar",
-    "hash": "bf7cde8abe94c47e0396d10f0047317a3cce490236f4d20a3d7833e549eabf7e",
-    "source": "github releases",
-    "time": 1685127812081
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.11.jar",
-    "hash": "b173aa671c2ce53660725271fab9d22b214219ef958712f6113d6cb4dca0fe35",
-    "source": "github releases",
-    "time": 1685703812219
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.12.jar",
-    "hash": "d2fbae1258df5f6a14b6cf1900b44c258cf0b31dddbefb00003b2b4cd46f924b",
-    "source": "github releases",
-    "time": 1685880620286
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.13.jar",
-    "hash": "1dbd70631128312701c96fd60c0768982d6dd387636897cf4a1e4999390d3fd5",
-    "source": "github releases",
-    "time": 1685919896715
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.14.jar",
-    "hash": "165b59709bba070985c51e04b28cdc0ce53159fed04f2cc64c5d747956403938",
-    "source": "github releases",
-    "time": 1686006386991
+    "time": 1684001234603
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-16.1.jar",
@@ -993,72 +450,6 @@
     "time": 1686184691809
   },
   {
-    "file": "Skytils-1.6.0.jar",
-    "hash": "9e107f4fadd1c7dc8e87c21246bced69cfb9a94b1eab9197608dfbe0d6903eb8",
-    "source": "github releases",
-    "time": 1686197272401
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.15.jar",
-    "hash": "63975e2041710025016c6d5559db8116679fb49e2dfb83a6cc70785cbfa7d430",
-    "source": "github releases",
-    "time": 1686348295554
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.16.jar",
-    "hash": "22204a1e2584f7a17e50c933c1f8194d17fcb6a16ed10bcc41f0ee8057e23a18",
-    "source": "github releases",
-    "time": 1686405838756
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.17.jar",
-    "hash": "b274d15621cb6d340e74db8c9666d8813d1f88f6e51bf9f3477e25580403d966",
-    "source": "github releases",
-    "time": 1686578726713
-  },
-  {
-    "file": "dulkirmod-1.2.3.jar",
-    "hash": "41082429163b97afb8dcff1db8a4b638101fae6966976a8af0983b4865750596",
-    "source": "github releases",
-    "time": 1686722899207
-  },
-  {
-    "file": "dulkirmod-1.2.3-2.jar",
-    "hash": "b77635754fae2674fcb0f6b6aaea2bb2b09d67d3a1a11189ef2597ad19b25888",
-    "source": "github releases",
-    "time": 1686726269151
-  },
-  {
-    "file": "dulkirmod-1.2.3-3.jar",
-    "hash": "056cab0b296086fd7a679b0c4097b14dc83dfc9f736042935c564d58f6a99422",
-    "source": "github releases",
-    "time": 1686776678066
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.18.jar",
-    "hash": "72894a135a99465b4ccf9af4e090e889c770a7527db9adb6eeb853def72f24b0",
-    "source": "github releases",
-    "time": 1686845250385
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.19.jar",
-    "hash": "df84b4053cf96064acfbbb818c961dca8a96c24ea03b9e766078116702d220a1",
-    "source": "github releases",
-    "time": 1686881298664
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.20.jar",
-    "hash": "51d05b2e4954d548268b5f2b8c253598a8563e7bd84f7d993fa9d94bcd7029b8",
-    "source": "github releases",
-    "time": 1687010630370
-  },
-  {
-    "file": "SkyHanni-0.18.Beta.21.jar",
-    "hash": "5fbdfcaf8dcfe20d0ff77d489ae0b6a490510b3183e3837dd7515ad3889c5c9f",
-    "source": "github releases",
-    "time": 1687176772534
-  },
-  {
     "file": "SkyHanni-0.18.jar",
     "hash": "06c11ab5e0f600f0158e36653f988817eed5b366d34614587826565944f89e27",
     "source": "skyclient",
@@ -1071,28 +462,10 @@
     "time": 1687388792227
   },
   {
-    "file": "SkyHanni-0.19.Beta.1.jar",
-    "hash": "928e78ffe06acb1bfa858b8bdc9c506e964b5d87fc08a2b0f0b3a20e50660db4",
-    "source": "github releases",
-    "time": 1687446374007
-  },
-  {
     "file": "Skytils-1.7.0-pre1.jar",
     "hash": "f17a147708cf06653c79f1be5753cb321f76b3e9417443e8f137f04217bf6530",
     "source": "skyclient",
     "time": 1687471597120
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.2.jar",
-    "hash": "23583d218d7aef9b195e87a8a79f1e1733d416b7646a8c6ac9a704c903ecb729",
-    "source": "github releases",
-    "time": 1687475273565
-  },
-  {
-    "file": "Skytils-1.7.0-pre2.jar",
-    "hash": "8b8584b9c591469c04b2373ccb8ffe5b9a2857ae6d6ece27e59ca8f1490bec93",
-    "source": "github releases",
-    "time": 1687511236479
   },
   {
     "file": "Skytils-1.7.0.jar",
@@ -1107,22 +480,10 @@
     "time": 1687860440060
   },
   {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-17.1.jar",
-    "hash": "0f5b14c80c92bff64bea243990ac1970795f145674cfa46cc0c33a29b54d138a",
-    "source": "discord",
-    "time": 1687863961167
-  },
-  {
     "file": "Craftify-1.8.9-1.11.0-forge.jar",
     "hash": "ab25bc24a112df57db9ca4a01bcde8661f05512da64cebe3719787cd550cf81c",
     "source": "skyclient",
     "time": 1687912933308
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.3.jar",
-    "hash": "f4ad45c5597a2f9cca7e5c5db32f9d2fec675eeb624e4362a7436e88950de303",
-    "source": "github releases",
-    "time": 1687912936353
   },
   {
     "file": "apec-1.11.1.jar",
@@ -1131,40 +492,10 @@
     "time": 1687932573245
   },
   {
-    "file": "SkyHanni-0.19.Beta.4.jar",
-    "hash": "a95efd0cbf91449dfc0432b6b9aa2fc07141af72031482f4228d704af87ff23d",
-    "source": "github releases",
-    "time": 1688172369429
-  },
-  {
-    "file": "NotEnoughCoins-1.1.jar",
-    "hash": "31ded1ff8813be86fa6c0af4f16e0c12d8a239734cda904679318cbc63a18295",
-    "source": "github releases",
-    "time": 1688339136139
-  },
-  {
-    "file": "dulkirmod-1.2.4.jar",
-    "hash": "c8344fdf3106fd9325693d3091f731c25efc2ce4fb46b0031fc66b07f3231167",
-    "source": "github releases",
-    "time": 1688339136187
-  },
-  {
-    "file": "Skytils-1.7.2.jar",
-    "hash": "d83d623adb50c8c45936c3b6216286ff1d9d0f611ed6b68e145fa66167f2f11a",
-    "source": "github releases",
-    "time": 1688375233409
-  },
-  {
     "file": "Skytils-1.7.3.jar",
     "hash": "cd981fe4fabeee01b7e0bf0a7e11995806b362b1a4bc7115fe76bc490cdd6719",
     "source": "skyclient",
     "time": 1688378848913
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.5.jar",
-    "hash": "1a4543b40934c4ea269b9496bd7465041a2efc50297b6497d8739e9d9aa9d8ec",
-    "source": "github releases",
-    "time": 1688476669304
   },
   {
     "file": "Mixmetica-1.1.0.jar",
@@ -1173,76 +504,10 @@
     "time": 1688530147064
   },
   {
-    "file": "SkyHanni-0.19.Beta.6.jar",
-    "hash": "b94e92618e9083b80d54b538db86941bb1c7be0e83124ec9edc7c6918f8712c2",
-    "source": "github releases",
-    "time": 1688569646088
-  },
-  {
     "file": "Mixmetica-1.1.1.jar",
     "hash": "f554cb931d53665c9bbdc7da27dafc9f786825c21746fa0c5659215349a2b4b1",
     "source": "skyclient",
     "time": 1688594825276
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.7.jar",
-    "hash": "33603fd1ee1317ac5374c584b5a2cd9b61fd8770e491f3e2162a36bb95b5e14c",
-    "source": "github releases",
-    "time": 1688598447271
-  },
-  {
-    "file": "NotEnoughCoins-1.11.jar",
-    "hash": "6ae35aacef27e5ff6e15672d34e6b7af1543b4f50c1e0c88eb19f13f6ee10a8c",
-    "source": "github releases",
-    "time": 1688850284652
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.8.jar",
-    "hash": "1bb71e0e470f586c7205f632f30c780aa4a8324dda5d86f872891f6d56514763",
-    "source": "github releases",
-    "time": 1689066434159
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.9.jar",
-    "hash": "9fb0b97bce5429e76192d08a33d0f9b32baab98b443be7b14cdbe416b2871742",
-    "source": "github releases",
-    "time": 1689159929083
-  },
-  {
-    "file": "NotEnoughCoins-1.12.jar",
-    "hash": "800b7c38b7bb41275e3299d44e3cbfad459fb5a727bc85e4974dd0a7bbe5dfe1",
-    "source": "github releases",
-    "time": 1689318401237
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.10.jar",
-    "hash": "5e0294e8c21ef40ead08740c0420c13484d266d0c713fd199770182e63ef1092",
-    "source": "github releases",
-    "time": 1689329241137
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-18.jar",
-    "hash": "90c52944c6d7df67da1ae897dfc592aa47ceccf135b8af04a33343b7c5a34d74",
-    "source": "discord",
-    "time": 1689591957210
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-18.1.jar",
-    "hash": "f0a56c16e4791cf0ece89020dd143cff73fc026f0ab2dd50f7ec4274e7e9364c",
-    "source": "discord",
-    "time": 1689596049075
-  },
-  {
-    "file": "NotEnoughCoins-1.13.jar",
-    "hash": "017737a1bb9b7e7d1174abab814d0021d463231ce5b56e73d457178184a6354d",
-    "source": "github releases",
-    "time": 1689750394754
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.11.jar",
-    "hash": "c8622970386c87909874950c70182c1ac9d408c8d41bb3f5ce8c4c26051a7f59",
-    "source": "github releases",
-    "time": 1689800690704
   },
   {
     "file": "Craftify-1.8.9-1.11.1-forge.jar",
@@ -1251,35 +516,10 @@
     "time": 1689820354531
   },
   {
-    "file": "SkyHanni-0.19.Beta.12.jar",
-    "hash": "03285e189a7d5feacb200f4d9679ce2d6fe20815f527a2ea3d6ec87c1bfa930f",
-    "source": "github releases",
-    "time": 1690207584203
-  },
-  {
     "file": "SkyblockHud-Reborn-1.17.1.jar",
     "hash": "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926",
     "source": "skyclient",
-    "time": 1690236335820,
-    "updated": 1723682129815
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.13.jar",
-    "hash": "e2f55e74559bf5da9a3c6e021aba129133bc3e6fc4914da8e3960f8d0c5ef03a",
-    "source": "github releases",
-    "time": 1690297598671
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.14.jar",
-    "hash": "134a4cadb67ec5a155ae7cba586ab2323a0a3a76f29c818801df65b76ea2e531",
-    "source": "github releases",
-    "time": 1690373478242
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.15.jar",
-    "hash": "4ce072cbca5f14d3fa874ab19215b3daf6b9844359ed0829a1f236d3f1ebbd80",
-    "source": "github releases",
-    "time": 1690452401690
+    "time": 1690236335820
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-19.jar",
@@ -1291,26 +531,7 @@
     "file": "Cowlection-1.8.9-0.16.0.jar",
     "hash": "9d843ccce2842e5872aa053d7b42e3b08b31dd3ac9e280654b6bf0a8a099995c",
     "source": "skyclient",
-    "time": 1690560468842,
-    "updated": 1706742386340
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.16.jar",
-    "hash": "fbfa8157714c26b354620a4a91e242630b0bb8a09fb8eb8e0c8ea40e7b1dc18f",
-    "source": "github releases",
-    "time": 1690668255705
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.3.jar",
-    "hash": "f2622523f2ec4fee5663a680f760460a2af5286606285185af9bd86f1b09254f",
-    "source": "github releases",
-    "time": 1690819720379
-  },
-  {
-    "file": "SkyHanni-0.19.Beta.18.jar",
-    "hash": "ba22be27894c71f3e108933dd8c40fd56e72eae503335ceec1f18e3688732df3",
-    "source": "github releases",
-    "time": 1690819720480
+    "time": 1690560468842
   },
   {
     "file": "SkyGuide (1.8.9-forge)-1.3.0.jar",
@@ -1319,34 +540,10 @@
     "time": 1690988765922
   },
   {
-    "file": "SkyHanni-0.20.Beta.1.jar",
-    "hash": "eeb1dcfc7544fdbec2710147b51df79aabab2f39ceb3a02b9771d2a2ef47b9a1",
-    "source": "github releases",
-    "time": 1690995858209
-  },
-  {
     "file": "SkyHanni-0.19.jar",
     "hash": "d6e6c3c9fb5fd52813baeb1cfceccc901e9df3367f75f893a9ff7b577a5acc54",
     "source": "skyclient",
     "time": 1691006792419
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.2.jar",
-    "hash": "4cb2c1913a37dcf572a699e95b2b0500d5f88da4be31e5829afb8efc3ebd6e15",
-    "source": "github releases",
-    "time": 1691078729125
-  },
-  {
-    "file": "dulkirmod-1.2.5.jar",
-    "hash": "7cf225ec7970bb466c1b12c7a33bccb6258ddc4bff4caf98cc2e08ed0b86e524",
-    "source": "github releases",
-    "time": 1691168653646
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.3.jar",
-    "hash": "88c7769a5724e82b9ff653d949e0eb004e474c9c25e77a29b53bc0a76e90415f",
-    "source": "github releases",
-    "time": 1691251588076
   },
   {
     "file": "Skytils-1.7.4.jar",
@@ -1355,64 +552,10 @@
     "time": 1691273035728
   },
   {
-    "file": "SkyHanni-0.20.Beta.4.jar",
-    "hash": "9d67f80df7210c0dbd13a7f998842d4563c6cbb88e58f766eb6389071ead560f",
-    "source": "github releases",
-    "time": 1691410284969
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.5.jar",
-    "hash": "c33a2cb810455a6a30fb939e613037c8426b28bafa897cdced137bac4b4865aa",
-    "source": "github releases",
-    "time": 1691541409955
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.3.1.jar",
-    "hash": "ef16af2d81edb75c458cb0d95b9ac685393cb4a8a16eb512336ef37bd9639548",
-    "source": "github releases",
-    "time": 1691607816374
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.6.jar",
-    "hash": "7586d5ff16145ee2f1afe5e7d32f53a262da62b19c39308b9675dac5c8c02274",
-    "source": "github releases",
-    "time": 1691690876351
-  },
-  {
     "file": "SkyClientCosmetics-1.1.13.jar",
     "hash": "4947bcaf3ea210dddc21cbb47e575fd0ce579cb764cc4021978a4dc6b0eeda5b",
     "source": "skyclient",
     "time": 1691874218225
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.7.jar",
-    "hash": "7022537c1ebdaed822e6bffd22a4212dd5532ea6d92d5942269078416b9827d8",
-    "source": "github releases",
-    "time": 1691960628698
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.8.jar",
-    "hash": "b42b97871546a010e382d24b4a0677c271218e926438a57f2ce381ff1c361975",
-    "source": "github releases",
-    "time": 1692108303042
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.9.jar",
-    "hash": "4030199ce19ee530c97a21b9bbf1a9b340fb7a2bd3a1eb4aee35e6594f8f7959",
-    "source": "github releases",
-    "time": 1692446961309
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.10.jar",
-    "hash": "018245fc95fbe9c5f8979f8c8f91e3cd2414fa16a1b22c9b3377f0bec679c2f4",
-    "source": "github releases",
-    "time": 1692750518418
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.11.jar",
-    "hash": "3fa190e12211e919ff7771fc579d6e84d68c6cfdf8bdc42bab829ba28791d386",
-    "source": "github releases",
-    "time": 1692792670824
   },
   {
     "file": "Mixmetica-1.8.9-forge-1.1.2.jar",
@@ -1421,71 +564,16 @@
     "time": 1693013751490
   },
   {
-    "file": "SkyHanni-0.20.Beta.12.jar",
-    "hash": "46c870822f8187282b023b3eda4c8dda8748f7ede3cd4930a2f216228d0b98eb",
-    "source": "github releases",
-    "time": 1693220640983
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.13.jar",
-    "hash": "87dead0e30bc4fff856fc75e23b1cdf87112c007993bc2fa0e799d76b0eafc55",
-    "source": "github releases",
-    "time": 1693263946059
-  },
-  {
     "file": "Skytils-1.7.5.jar",
     "hash": "4ddbd87bd5de66056379bae1d17dd33634981276fa33f7c12511611c210a3d18",
     "source": "skyclient",
     "time": 1693285536070
   },
   {
-    "file": "SkyHanni-0.20.Beta.14.jar",
-    "hash": "7b07ba8590c7ced140aec9cae2e9f1249ef95edfa3de5546f7ae26ccf1af197b",
-    "source": "github releases",
-    "time": 1693346697981
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-20.jar",
-    "hash": "4bc94c6f94a7c4dcc5c1204b941e8200a1dc89f3ac15c89dae273caab31dcbe6",
-    "source": "discord",
-    "time": 1693400921868
-  },
-  {
     "file": "Autotip-3.1.1 (1.8.9_forge).jar",
     "hash": "1ec3e5d27a9cab610ba539ee9c0cffd4d223e95b27aed7288c4755db20d39303",
     "source": "skyclient",
-    "time": 1693490781523,
-    "updated": 1723682129419
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-20.1.jar",
-    "hash": "e2265ce459a48424f229bd225451edd9c7e41f1e95c93c6ed861f15e7258807b",
-    "source": "discord",
-    "time": 1693566261054
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.15.jar",
-    "hash": "92426d89f8ca8c514f250c34bef26817fbfb8c9f0d968a5bfb947f531a46e627",
-    "source": "github releases",
-    "time": 1693656580735
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.16.jar",
-    "hash": "e32249466bc4142cc020e2b87ad9f591f3350eca09915ecd6975ae46c4803827",
-    "source": "github releases",
-    "time": 1693710388517
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.3.2.jar",
-    "hash": "5dda48acdc41820ca2c72e9b491c09d019745a97764619c17763e3a3b2ccba24",
-    "source": "github releases",
-    "time": 1693717489775
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.3.3.jar",
-    "hash": "4bab77e7bfe39f1139f7f229e2a3bb2b9bc6696ed2e248786e3dc4c137af9896",
-    "source": "github releases",
-    "time": 1693753475161
+    "time": 1693490781523
   },
   {
     "file": "apec-1.11.3.jar",
@@ -1500,53 +588,16 @@
     "time": 1694084665225
   },
   {
-    "file": "SkyHanni-0.20.Beta.17.jar",
-    "hash": "b9de8ea270d404749c3c31568c5316d5c50a6e8b5be14ca68ac1286518f4745f",
-    "source": "github releases",
-    "time": 1694092121253
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.18.jar",
-    "hash": "6790acf5ab898b9005672da5d073eb2321e3929d2d1923071a2067ec5d003e9b",
-    "source": "github releases",
-    "time": 1694192695350
-  },
-  {
     "file": "apec-1.11.5.jar",
     "hash": "9fe24ff5b6482a2a8a6862543b312fbb5fbb121dc71dd18ad8e615641c8c9a08",
     "source": "skyclient",
     "time": 1694196461737
   },
   {
-    "file": "SkyHanni-0.20.Beta.19.jar",
-    "hash": "fe0a3fe17ee4c3d3b61ba2f3ca31f808507f35fe48da03288a7b4f3f8099e99b",
-    "source": "github releases",
-    "time": 1694343807213
-  },
-  {
     "file": "apec-1.11.6.jar",
     "hash": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f",
     "source": "skyclient",
-    "time": 1694383465341,
-    "updated": 1723568849507
-  },
-  {
-    "file": "NotEnoughCoins-1.14.jar",
-    "hash": "21c62627dc2fd089ebec2470f48139585cf349d58accffd8a4e737681af91e9f",
-    "source": "github releases",
-    "time": 1694631841403
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.20.jar",
-    "hash": "8b5c387248682a4d124e6c169fbdffb7f9a4b223c9cb7e7fa506d96ac2d54a38",
-    "source": "github releases",
-    "time": 1694772418666
-  },
-  {
-    "file": "Skytils-1.7.6-RC1.jar",
-    "hash": "84dcac5e313e0fc150edef1f43a59a5f326afbfb32cea8e7218bdcec92fa0f07",
-    "source": "github releases",
-    "time": 1694808404712
+    "time": 1694383465341
   },
   {
     "file": "Skytils-1.7.6.jar",
@@ -1555,77 +606,10 @@
     "time": 1694824122264
   },
   {
-    "file": "NotEnoughCoins-1.14.1.jar",
-    "hash": "8318aae19bf6ec74547ca031b1c2d798e3c199f18273aebc8cad31bb4e8f4cfa",
-    "source": "github releases",
-    "time": 1694851644109
-  },
-  {
     "file": "Dungeon_Rooms-3.4.0.jar",
     "hash": "f9e8345be0413ceb957fa4429144e960000d86278903c8315a4eafe87cfaafda",
     "source": "skyclient",
-    "time": 1694876662033,
-    "updated": 1711458395368
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.21.jar",
-    "hash": "d9aed70b8cb49b32561bd07defadb34e86b08ec85a2d88b15899a4578f375c19",
-    "source": "github releases",
-    "time": 1694955909058
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.21.1.jar",
-    "hash": "4d89ae448805d72d8f3e06b645851f35cbc3e1fbe12ff28ef7bc4b544ebeebc7",
-    "source": "github releases",
-    "time": 1694966812987
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.22.jar",
-    "hash": "6bcf33038373cc7e270784352333d7e5e6cc22d8bac27d20cb93ee09c16bfc4c",
-    "source": "github releases",
-    "time": 1695481465392
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.23.jar",
-    "hash": "fa2c0185a055c1a4c4f42a2a70ae222dd14a4f7762f2dcf7f4438b2ec5a75dca",
-    "source": "github releases",
-    "time": 1695560714704
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.24.jar",
-    "hash": "a06977f0f5ac5b65b5e34cc5a8a54e1e9880c7ee9bbe7e2409a59e04b03312e0",
-    "source": "github releases",
-    "time": 1695726257043
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.25.jar",
-    "hash": "515f56036111a5d665f804295e60a8e87604e6d4dd27d7e7976d56d3c5be0889",
-    "source": "github releases",
-    "time": 1695899081746
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-21.jar",
-    "hash": "c5d956020ba6b5b098dbed79f4b4428497b75ab0ae5f2f48dc72ba929eaa4724",
-    "source": "discord",
-    "time": 1695956808574
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.25.1.jar",
-    "hash": "455377b82d443dd0c5d957c33e50992a3caaa531e88ef1a6888637f60fcd314a",
-    "source": "github releases",
-    "time": 1696014233884
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.26.jar",
-    "hash": "267da95181d299cb8cc38b77f63db8f398223aab54f0de4bcae273e606b2c9d8",
-    "source": "github releases",
-    "time": 1696075813688
-  },
-  {
-    "file": "SkyHanni-0.20.Beta.27.jar",
-    "hash": "d67e4d25dff37bf49c483f9799b170f61f52df7fb9fb3b9f47e30fc1f9a43a46",
-    "source": "github releases",
-    "time": 1696154737547
+    "time": 1694876662033
   },
   {
     "file": "SkyHanni-0.20.jar",
@@ -1637,105 +621,13 @@
     "file": "Craftify-1.8.9-1.12.0-forge.jar",
     "hash": "21559ecfe2986d6a8dfce963d9acb2295824dab7fc85dcb9e370713bbf4d19cd",
     "source": "skyclient",
-    "time": 1696248712960,
-    "updated": 1706551657587
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.1.jar",
-    "hash": "3a13539a36fb7d32a8e986619b7c0e92cc5974bdaf5e6896a80a3b19d2f49997",
-    "source": "github releases",
-    "time": 1696320545169
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-22.jar",
-    "hash": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253",
-    "source": "discord",
-    "time": 1696395990560
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.2.jar",
-    "hash": "010b4f23cdd470a5a83eda70ca02cf7234b25f7b3a448ae310312f77dd421854",
-    "source": "github releases",
-    "time": 1696470239022
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.4.jar",
-    "hash": "d14b773e0e3dec12940e0457d7b5c73d23291a0707800261d4825947febd3f7d",
-    "source": "github releases",
-    "time": 1696626280663
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.3.jar",
-    "hash": "ad89a32f9fd6bb88f490601063119414ef0eb9e3c1aec3cecfc2f6d95efd11a2",
-    "source": "github releases",
-    "time": 1696709147951
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.4.jar",
-    "hash": "c6252b2e93cd4157192f945958db05f156d0fee7ac2f20881904651dce118af8",
-    "source": "github releases",
-    "time": 1696781212707
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta8.1-standalone.jar",
-    "hash": "01ffc17ba810d3eb76744fdefc4c917bd9a3426d30ad5151a37f72d2b0289295",
-    "source": "skyclient",
-    "time": 1696897806012
-  },
-  {
-    "file": "Skytils-1.7.7.jar",
-    "hash": "4b047b0d5719263af3180ca6ad4cc52fd42bae1054be9f35e98effc4d7d766d9",
-    "source": "github releases",
-    "time": 1696910869539
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.5.jar",
-    "hash": "cdde66daf4426cb832ffa9bcb54005cfbeba2897e6a56958b49e5bca77a4fed7",
-    "source": "github releases",
-    "time": 1697022302638
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.6.jar",
-    "hash": "9e3910dae82b779cb388a1c22276a02764067859a2e9e444579c2ab2c30a8306",
-    "source": "github releases",
-    "time": 1697126905990
-  },
-  {
-    "file": "NotEnoughCoins-1.14.2.jar",
-    "hash": "1b491742c3e358dd732fdca876bb741e85fdc330c738b07cced47ee639d605ff",
-    "source": "github releases",
-    "time": 1697220529656
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.7.jar",
-    "hash": "1281afd5d369e8a5a788c1e0e6a3bf62b2eb30ddbc840f74f00463fba6b3086c",
-    "source": "github releases",
-    "time": 1697299625591
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta8.2-standalone.jar",
-    "hash": "a47cbe5b8267ff8ff3c261aa3ed12914b171e5262fa50f12fa17383f13e2873d",
-    "source": "skyclient",
-    "time": 1697378616414
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.8.jar",
-    "hash": "3f23a630ff3d5d9f173937419d96bd977c135dfd2e04b7ea0a3da0e2d01c6756",
-    "source": "github releases",
-    "time": 1697461851984
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.8.1.jar",
-    "hash": "c3f24968afb956546c442b792a46a0eecd00b9f4bf55a0369a3a9e43bf5ad863",
-    "source": "github releases",
-    "time": 1697479739295
+    "time": 1696248712960
   },
   {
     "file": "FancyWarpMenu-1.0+96.jar",
     "hash": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339",
     "source": "skyclient",
-    "time": 1697483062904,
-    "updated": 1718007036645
+    "time": 1697483062904
   },
   {
     "file": "Skytils-1.7.8.jar",
@@ -1744,234 +636,16 @@
     "time": 1697497574350
   },
   {
-    "file": "SkyHanni-0.21.Beta.9.jar",
-    "hash": "0944cbbd683b9632c86fd364947d99b4e2f501a4678e397d15bfd91f862e2dd4",
-    "source": "github releases",
-    "time": 1697576699884
-  },
-  {
-    "file": "LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
-    "hash": "b4d3b21c7d84a1f479abe3ad3b35fe9923709b2e1ac7896e5620e64afa6585ad",
-    "source": "skyclient",
-    "time": 1697666756159
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta8.3-standalone.jar",
-    "hash": "aec8bedcee875a2a277b4fadad2ace2592d9856f276487e3f4caabf78b78dcaf",
-    "source": "skyclient",
-    "time": 1697987067857
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.10.1.jar",
-    "hash": "37d624b011bb57dac83502c506d34a7bfed0bb0a6bb7a28bad6cb147cc03322c",
-    "source": "github releases",
-    "time": 1697994259580
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.11.jar",
-    "hash": "7fd431892cf533b53fda6516d1b1392a48751f8313f986d7fccc899f06bb5fa3",
-    "source": "github releases",
-    "time": 1698280166636
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.12.jar",
-    "hash": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395",
-    "source": "github releases",
-    "time": 1698343692203
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.13.jar",
-    "hash": "df7b22694f0a22372cc0e228cb8824684a3475d799ba62816b3290547020f166",
-    "source": "github releases",
-    "time": 1698457082712
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.14.jar",
-    "hash": "fd5a4747b34c33494c4eaa1049475f8eca37ee4417cfaecb714407503c61ff08",
-    "source": "github releases",
-    "time": 1698523531836
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.15.jar",
-    "hash": "158f1f9a6d2b96599537c0eb4c880e09f13f232bb6e320cc296ffc0d76932176",
-    "source": "github releases",
-    "time": 1698703538463
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.16.jar",
-    "hash": "35ecfaaf3849780a7719670c537f65feae94adf5b6838684d8d9c8b24e588a4d",
-    "source": "github releases",
-    "time": 1698833222326
-  },
-  {
-    "file": "CoflMod-1.5.4-alpha.jar",
-    "hash": "f5e674ae5dd626108ccd3a0a19e44adce7e4a36865e1d1c57cab4fea5185f0c7",
-    "source": "github releases",
-    "time": 1698840714100
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.17.jar",
-    "hash": "20e35dbcc7882abe9fbadb640244b4547b4d90b9a240956fb4852227ffc59f3c",
-    "source": "github releases",
-    "time": 1698971448399
-  },
-  {
-    "file": "CoflMod-1.5.4-alpha.jar",
-    "hash": "155b0b35bd41e3148d7cf8e19f240aa75953b85f93e270e14af57c7359dc8a99",
-    "source": "github releases",
-    "time": 1699034899626
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.18.jar",
-    "hash": "e23258852eb71b558c58488567fa4547cdba7d428057f51b2814c978cb56078f",
-    "source": "github releases",
-    "time": 1699052769650
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Pre4.jar",
-    "hash": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230",
-    "source": "github releases",
-    "time": 1699178768110,
-    "updated": 1708027492751
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.19.jar",
-    "hash": "163c8fd8497c4ed70be815fed782bded6ac0085bfca5298b3cd009e3bce90732",
-    "source": "github releases",
-    "time": 1699221900524
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.20.jar",
-    "hash": "fbd1ec770fdab4617520d3e0e2c173c6d5bed4a88316b385236e0409007a5aa5",
-    "source": "github releases",
-    "time": 1699321422480
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.21.jar",
-    "hash": "2d27c4977fd6abf217b0b92f852dff5d2601a0fb3d7beef33e86159192c0ecb8",
-    "source": "github releases",
-    "time": 1699403451837
-  },
-  {
-    "file": "Skytils-1.8.0-pre1.jar",
-    "hash": "02dfc03dceba02644220442ddd48ca6ef627b02686160db38c42b8fd191878b3",
-    "source": "github releases",
-    "time": 1699639691996
-  },
-  {
-    "file": "Skytils-1.8.0-pre2.jar",
-    "hash": "cd14ef903105a5ea28f7ade9e2ce194b2aa92c1a254c01f53dab74a63914d1cf",
-    "source": "github releases",
-    "time": 1699662614933
-  },
-  {
-    "file": "Skytils-1.8.0-pre3.jar",
-    "hash": "cea29515de2238167f0eef5f95116a441c38fbce3d5c4235f16244b9b54c13e4",
-    "source": "github releases",
-    "time": 1699670743092
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.22.jar",
-    "hash": "86b9a868478c0744bd44ac82351b70b19974484ac2f4f00089d67b89ff233a53",
-    "source": "github releases",
-    "time": 1699707977282
-  },
-  {
-    "file": "SkyHanni-0.21.Beta.23.jar",
-    "hash": "d5682adeef876a68c88758d4f81b781f52e3c6ca84f34b520181521dded729e2",
-    "source": "github releases",
-    "time": 1699791055326
-  },
-  {
     "file": "SkyHanni-0.21.jar",
     "hash": "3809e522b14b9285beca2428affaf1eff3ca4e7dacbf9d21b92156d0504145b2",
     "source": "skyclient",
     "time": 1699823048277
   },
   {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-23.jar",
-    "hash": "45e90438a1e9925d8ea4dbe5ecd8efa5bd3f57d71953bbe2855c158df8903e00",
-    "source": "discord",
-    "time": 1699839939953
-  },
-  {
-    "file": "DulkirMod-1.2.6.jar",
-    "hash": "e6274e5392e72ed4064401b7142861337a08442c0ad451bd32f45a8fa57cee15",
-    "source": "github releases",
-    "time": 1699995802806,
-    "updated": 1705561613913
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.1.jar",
-    "hash": "a8be5d6ffbba1d45d3fe5241b1146274a7fc7d6ebe7ed1be9a859693d71001a0",
-    "source": "github releases",
-    "time": 1700071711765
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.2.jar",
-    "hash": "2da7e7b44bacce786db09ac5fdc17ad2cd888f631ff108f8f2047098c5314ed6",
-    "source": "github releases",
-    "time": 1700267484454
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.2.1.jar",
-    "hash": "8420b21ee22ea9af23bb0b8f102b3a4058d9973540b3ba046d6424a6478d56c9",
-    "source": "github releases",
-    "time": 1700271856248
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.3.jar",
-    "hash": "bc0b9a0d614a2874f81e30db233b4084b693aa376831c07840b302f23974d268",
-    "source": "github releases",
-    "time": 1700316266499
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.4.jar",
-    "hash": "65800139a84859691bfd8877ee9cab03e54a7847ee055bf0bdb93936464f1b44",
-    "source": "github releases",
-    "time": 1700358775130
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.5.jar",
-    "hash": "ce0d3efff22cecd8ff41d1cd30fb7cd9faccbd6d59a2823e953a4cced77a2d7a",
-    "source": "github releases",
-    "time": 1700417250448
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.6.jar",
-    "hash": "d82480b2a5c971c45e4c00b0a267da2c8ac52582d2d0828e8ae048977a522d69",
-    "source": "github releases",
-    "time": 1700507055691
-  },
-  {
-    "file": "SkyHanni-0.21.1.Beta.7.jar",
-    "hash": "435c569f471bd923c6c6ceb7af58a694397943f38579e519ff9381083632eeea",
-    "source": "github releases",
-    "time": 1700604388195
-  },
-  {
-    "file": "SkyHanni-0.21.1.jar",
-    "hash": "8aeb3f56795358c8af46eb4c057cb0c952eab1823448acda97bac3888cf284bf",
-    "source": "github releases",
-    "time": 1700655147202
-  },
-  {
-    "file": "NotEnoughCoins-1.14.3.jar",
-    "hash": "3b7de6cd61d7c32b6a01d97a07f2c2617c00e3b5bb479fd909be8cf80b944f3b",
-    "source": "github releases",
-    "time": 1700741505853
-  },
-  {
-    "file": "NotEnoughCoins-1.14.4.jar",
-    "hash": "7f4709005ebf6f78a56bec6e0e31c0c5c670f5a045e6ba3329c2a3e646e85a42",
-    "source": "github releases",
-    "time": 1700766248695
-  },
-  {
-    "file": "NotEnoughCoins-1.14.5.jar",
-    "hash": "fae1fe6d76f4d1533dcfe4efd2101974de655a1bb03dc96dcdd8f993e0707233",
-    "source": "github releases",
-    "time": 1700773530330
+    "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+    "hash": "e68658945f989e57f954bf2b1f2c2e84252a4272e3fec6dc8e991c5f0e9f8f82",
+    "source": "skyclient",
+    "time": 1700827896344
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.0.0.jar",
@@ -1980,18 +654,16 @@
     "time": 1700827896524
   },
   {
-    "file": "DamageTint-1.8.9-forge-3.3.0.jar",
-    "hash": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
+    "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
+    "hash": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
     "source": "skyclient",
-    "time": 1700827896736,
-    "updated": 1723682128995
+    "time": 1700827896552
   },
   {
     "file": "CrashPatch-1.8.9-forge-2.0.0.jar",
     "hash": "f8b37287c4f3667b0b8cf0188a4ea6d36515fd4c19717285556fea006422c318",
     "source": "skyclient",
-    "time": 1700827896584,
-    "updated": 1719605250439
+    "time": 1700827896584
   },
   {
     "file": "Hytils-Reborn-1.6.0.jar",
@@ -2000,48 +672,26 @@
     "time": 1700827896640
   },
   {
-    "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
-    "hash": "ed0092478cd354b1a968f05c9d05860a7598d9efa48eec6e7c3cb998b9ba0c48",
-    "source": "skyclient",
-    "time": 1700827896552,
-    "updated": 1719781657646
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.4.1.jar",
-    "hash": "89f33940388058bf3d68b110188bb6fea9fc158e74654e7e6db857df6238867c",
-    "source": "skyclient",
-    "time": 1700827897274
-  },
-  {
-    "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
-    "hash": "e68658945f989e57f954bf2b1f2c2e84252a4272e3fec6dc8e991c5f0e9f8f82",
-    "source": "skyclient",
-    "time": 1700827896344,
-    "updated": 1723682129418
-  },
-  {
     "file": "OverflowAnimations-1.8.9-forge-2.0.0.jar",
     "hash": "673602e19b69657a6ab09a5d433877751aa7984584632bf752a17c2774f4d9e1",
     "source": "skyclient",
     "time": 1700827896640
   },
   {
-    "file": "PolyTime-1.8.9-forge-1.0.0.jar",
-    "hash": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c",
-    "source": "skyclient",
-    "time": 1700827896813,
-    "updated": 1719231231028
-  },
-  {
     "file": "PolyWeather-1.8.9-forge-1.0.0.jar",
     "hash": "3f56e4b7983725e43969b67423e92bc05e260f6ff9d9f85f13ddc2b6875e4ee8",
     "source": "skyclient",
-    "time": 1700827896640,
-    "updated": 1723682129343
+    "time": 1700827896640
   },
   {
     "file": "Mixmetica-1.8.9-forge-2.0.0.jar",
     "hash": "b9180528bf87d6e802734b63a5f0c58a2208f89f45384f620ae2cf7c282a6694",
+    "source": "skyclient",
+    "time": 1700827896640
+  },
+  {
+    "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
+    "hash": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
     "source": "skyclient",
     "time": 1700827896640
   },
@@ -2052,11 +702,16 @@
     "time": 1700827896652
   },
   {
+    "file": "DamageTint-1.8.9-forge-3.3.0.jar",
+    "hash": "62225bb68b68d4ce97ef050a45fb3d12caff4a7c0c2bf6c63573060cbaa005cd",
+    "source": "skyclient",
+    "time": 1700827896736
+  },
+  {
     "file": "PolySprint-1.8.9-forge-1.0.0.jar",
     "hash": "73b938f8ae57f7b2c4e09f043553c9e99261e74db21a71c0b3893afb065d2244",
     "source": "skyclient",
-    "time": 1700827896736,
-    "updated": 1719231231062
+    "time": 1700827896736
   },
   {
     "file": "Chatting-1.8.9-forge-1.5.0.jar",
@@ -2065,10 +720,10 @@
     "time": 1700827896738
   },
   {
-    "file": "VanillaHUD-1.8.9-forge-2.0.0.jar",
-    "hash": "72a12cef6d7be1b594c4fc2b544d64b2f5c366940ea1fcd229de80d1f831c263",
+    "file": "PolyTime-1.8.9-forge-1.0.0.jar",
+    "hash": "f53da740258cd4513e37e1cc5484ae9be432e52a0b65b1feb1bc14eaf8c9b61c",
     "source": "skyclient",
-    "time": 1700827897985
+    "time": 1700827896813
   },
   {
     "file": "REDACTION-1.8.9-forge-1.3.6.jar",
@@ -2077,32 +732,28 @@
     "time": 1700827896818
   },
   {
-    "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
-    "hash": "e83eb73b4f577250dafbe5c21a92dcab77eb77b91330827b6793d3f90d9116a6",
-    "source": "skyclient",
-    "time": 1700827896640,
-    "updated": 1719231231107
-  },
-  {
     "file": "Potion_Effects_1.8.9-forge_1.0.jar",
     "hash": "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436",
     "source": "skyclient",
-    "time": 1700827896903,
-    "updated": 1723682129555
+    "time": 1700827896903
   },
   {
     "file": "ParticlesEnhanced-1.3.2.jar",
     "hash": "36c3dc863e0d1cd628b3a22781df190d3fdb34e075621ab5f5e349782ac55dc3",
     "source": "skyclient",
-    "time": 1700827896903,
-    "updated": 1719231231243
+    "time": 1700827896903
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.0.0.jar",
+    "hash": "72a12cef6d7be1b594c4fc2b544d64b2f5c366940ea1fcd229de80d1f831c263",
+    "source": "skyclient",
+    "time": 1700827897985
   },
   {
     "file": "GlintColorizer-1.8.9-forge-1.0.2.jar",
     "hash": "3f4909158853e062e4a4cf4687f1ba014f45f0863221460fe874b5d884e0cf4d",
     "source": "skyclient",
-    "time": 1700899665736,
-    "updated": 1719231231028
+    "time": 1700899665736
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.0.1.jar",
@@ -2120,14 +771,7 @@
     "file": "SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
     "hash": "434703ce3d04ee9dbeb4dc2bfb9ba946dcb4249b7fe586fa68f7f60b4038ffdb",
     "source": "skyclient",
-    "time": 1700914227150,
-    "updated": 1718757302913
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.1.jar",
-    "hash": "281f437dc05008ebfe20e0842a945f85a807ab2b5dfd737d9d290001522cbada",
-    "source": "github releases",
-    "time": 1700939007885
+    "time": 1700914227150
   },
   {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.4.jar",
@@ -2136,85 +780,16 @@
     "time": 1700968012480
   },
   {
-    "file": "NotEnoughCoins-1.14.6.jar",
-    "hash": "28b2778c4aba394f11178b45fe79d38fdcc9e39dbb525652c61cfb6462734312",
-    "source": "github releases",
-    "time": 1701029189484
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.2.jar",
-    "hash": "00958a1eb560745fcbaf3f790d71404491a115867adf627bd6128971356516b1",
-    "source": "github releases",
-    "time": 1701029189903
-  },
-  {
-    "file": "CoflMod-1.5.5-alpha.jar",
-    "hash": "1f81185d19443c89256efdeac1a747452a864ad2c38e386e6f5874d716451eed",
-    "source": "github releases",
-    "time": 1701119164757,
-    "updated": 1719410822277
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.3.jar",
-    "hash": "688cc5daef28e5bbd9978bc529ef3f80a1c25aafc0d057bed3fb1c7c717fd0c5",
-    "source": "github releases",
-    "time": 1701136153867
-  },
-  {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.5.jar",
     "hash": "d17fa4c2c3f65cb904f9fd4f82fb80fcab124a338d9bc8093392cc8a614ace72",
     "source": "skyclient",
-    "time": 1701209176995,
-    "updated": 1719231230875
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.4.jar",
-    "hash": "ca2f752f6f36f28a6170646d704d5b41fc2337fede4118dce32bb55a4d389218",
-    "source": "github releases",
-    "time": 1701217959844
+    "time": 1701209176995
   },
   {
     "file": "Keystrokes-1.8.9-forge-1.0.0.jar",
     "hash": "a2b25adcecc9c84feb914ba1b81ce36da74d8e9f0d4a8a227cc131d5479e9ab0",
     "source": "skyclient",
-    "time": 1701230909833,
-    "updated": 1723682129382
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-24.jar",
-    "hash": "94a00427351f2b88f4f58c8ba7536185db93df0ac53d89e87a25956ca0f454e5",
-    "source": "discord",
-    "time": 1701270419982
-  },
-  {
-    "file": "NotEnoughUpdates-2.1.1-Alpha-24.1.jar",
-    "hash": "d5bc2fc97ad4c8abd315e1e7fb9c368828d6ae8d72ca7997c1acc04978734780",
-    "source": "discord",
-    "time": 1701320811091
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.5.jar",
-    "hash": "e7b189c5527ba036e0b2b0672c4d81d14c93d4e7447fb0ed4a024e34bd7d22f7",
-    "source": "github releases",
-    "time": 1701385623405
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.6.jar",
-    "hash": "165c61785efdf25b83ba5ae77279f75edfeefc16be507138344e29f36ec79087",
-    "source": "github releases",
-    "time": 1701436204960
-  },
-  {
-    "file": "Skytils-1.7.9.jar",
-    "hash": "6d167cb9487127a3a9b6f1f89d32543277768cae2d99bdb960e066a1c7528c84",
-    "source": "github releases",
-    "time": 1701450393622
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.7.jar",
-    "hash": "a5fa35bd7341bd49964943e5e250b0e55632d6b17569e8eb9064a6a45d26088e",
-    "source": "github releases",
-    "time": 1701543785980
+    "time": 1701230909833
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.0.1.jar",
@@ -2232,14 +807,7 @@
     "file": "REDACTION-1.8.9-forge-1.3.7.jar",
     "hash": "055a3f5721ab7c8c10247437d760ed8721b21c7fdc01da245728bb1eef8a73d6",
     "source": "skyclient",
-    "time": 1701654548622,
-    "updated": 1719231231143
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.8.jar",
-    "hash": "d229f44007fa44f1d58bd63b572ef42cde3452fcf0923e9b9ee1f5c52caaee67",
-    "source": "github releases",
-    "time": 1701827357192
+    "time": 1701654548622
   },
   {
     "file": "SkyblockAddons-1.7.2-for-MC-1.8.9-SKYCLIENTPATCH.jar",
@@ -2248,36 +816,10 @@
     "time": 1701904031991
   },
   {
-    "file": "NotEnoughCoins-1.14.7.jar",
-    "hash": "357c1351f8e64a35e95c29028d9c8be6d3aa7581e4fb2e8b775dfd413e61061b",
-    "source": "github releases",
-    "time": 1702058920966,
-    "updated": 1706962244037
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.9.jar",
-    "hash": "3e54ad696e897e8e77ab2dede310f8ed49f362b24c4006ef2d17b0198205683e",
-    "source": "github releases",
-    "time": 1702086236279
-  },
-  {
     "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
     "hash": "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17",
     "source": "github releases",
-    "time": 1702112778210,
-    "updated": 1723682131738
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.10.jar",
-    "hash": "49a869b23c2f518f6da8a70c86922222df8aec42b0b75a5ef947f5e49134cac9",
-    "source": "github releases",
-    "time": 1702181278660
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.11.jar",
-    "hash": "f17e6b35699f0652ad73fecd4a4aef36614f4cf6557d7103120ed0d308f50148",
-    "source": "github releases",
-    "time": 1702354159681
+    "time": 1702112778210
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.0.jar",
@@ -2292,47 +834,16 @@
     "time": 1702397290089
   },
   {
-    "file": "SkyHanni-0.22.Beta.12.jar",
-    "hash": "92968f306a2f8878a6dd52855a8f5a1f33bc660185612972447594c1bfe791d7",
-    "source": "github releases",
-    "time": 1702518310268
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.13.jar",
-    "hash": "24b82bc6bae7d7191249254d4029d1a5fd645d7b7743a1e3d5a5a4abbcfdc394",
-    "source": "github releases",
-    "time": 1702732034322
-  },
-  {
     "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
     "hash": "e3281a49903624c3aa75c9cdda2b828516dddb656b4e77cb8e682944b1e046b9",
     "source": "skyclient",
-    "time": 1702739109439,
-    "updated": 1705763145455
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.14.jar",
-    "hash": "16aae8770c3b47db454b8c10bb946d88d470604969079075095f469bcdf5a1bd",
-    "source": "github releases",
-    "time": 1702782438714
+    "time": 1702739109439
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.1.jar",
     "hash": "47b380bafdb39383ccdefc38ab893f31db3bd6717c62879605ce367bd76b7a42",
     "source": "skyclient",
     "time": 1702839842813
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.15.jar",
-    "hash": "36bbf70dd33dcbfdfa7335095f81ca47fdaeeadff698684c026cc3618ee702af",
-    "source": "github releases",
-    "time": 1702843611343
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.jar",
-    "hash": "35383b31104e879e41c6b23efa748a4824343d82407f2653d2eaaff9121e3b23",
-    "source": "skyclient",
-    "time": 1702854370662
   },
   {
     "file": "Skytils-1.8.0-pre5.jar",
@@ -2344,52 +855,19 @@
     "file": "Mixmetica-1.8.9-forge-2.0.2.jar",
     "hash": "a107be772eba07b0ce821854a608876f0b5c03871c7c59a5545badba726b3a54",
     "source": "skyclient",
-    "time": 1702926267463,
-    "updated": 1709183284135
-  },
-  {
-    "file": "Skytils-1.8.0-pre6.jar",
-    "hash": "50043c87820ce2cb432dad0fc56e244e8a25c726e64f19fe3f62a16778d6c423",
-    "source": "github releases",
-    "time": 1702955238419
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.1.jar",
-    "hash": "64d5bfb78dc3a490bc860d41fd4076154f6481d37ac3e149ba2834522b3730e0",
-    "source": "skyclient",
-    "time": 1702976820332
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.2.jar",
-    "hash": "25f0562971528c43963903ef8f6846130b826e111017189b7ae12a62285f4a4a",
-    "source": "github releases",
-    "time": 1703102832300
+    "time": 1702926267463
   },
   {
     "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar",
     "hash": "25ba8327ac6cbb0ca00862c3a231414fd23597c6363677be87800788617a927e",
     "source": "skyclient",
-    "time": 1703118734971,
-    "updated": 1719976099792
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.16.jar",
-    "hash": "c4c814f1a3f8c902c0c3d797406d8bb658c93511f8490f98c69ccd5f4403d604",
-    "source": "github releases",
-    "time": 1703160707657
+    "time": 1703118734971
   },
   {
     "file": "download_new.php?version=1.8.9-2.6.14",
     "hash": "16280855535603ff8ee3c3ff96e9bfe49b80df81563e5e83e0039f1d7cd0afa8",
     "source": "skyclient",
-    "time": 1703247104147,
-    "updated": 1715274367796
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.17.jar",
-    "hash": "7479b0d30177a5f08e5bdb3d6b2a3f078fea7fb8c71bc839a8aa11be23378833",
-    "source": "github releases",
-    "time": 1703300838221
+    "time": 1703247104147
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.2.jar",
@@ -2398,11 +876,10 @@
     "time": 1703419834515
   },
   {
-    "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
-    "hash": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda",
+    "file": "VanillaHUD-1.8.9-forge-2.1.1.jar",
+    "hash": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
     "source": "skyclient",
-    "time": 1703419835005,
-    "updated": 1719231230935
+    "time": 1703419834718
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.1.0.jar",
@@ -2417,18 +894,16 @@
     "time": 1703419834821
   },
   {
-    "file": "VanillaHUD-1.8.9-forge-2.1.1.jar",
-    "hash": "e15cc7ec32ef0cb1f80374920b0a4a6ef8e92274a133c2cfe2d5d13793a6f59d",
+    "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
+    "hash": "e67edf7084d88c65a22bcee36555b3c916c079a9a39c7ee69f0afcf1c718feda",
     "source": "skyclient",
-    "time": 1703419834718,
-    "updated": 1714935955074
+    "time": 1703419835005
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.0.jar",
     "hash": "922009ebe818c6b05516a9da36489c908f59e84b5b0ba1f5f015747d3a4c461f",
     "source": "skyclient",
-    "time": 1703423179567,
-    "updated": 1714939607699
+    "time": 1703423179567
   },
   {
     "file": "Chatting-1.8.9-forge-1.5.2.jar",
@@ -2440,133 +915,61 @@
     "file": "Block_Overlay_4.0.3.jar",
     "hash": "dfb0f1b4a3a44b9f1636f4e86323d14949849a81b68cd87f15ce4b9d7e2af3f4",
     "source": "skyclient",
-    "time": 1703451876518,
-    "updated": 1705352814406
-  },
-  {
-    "file": "Resource_Pack_Manager_1.2.jar",
-    "hash": "d75b0baba3506648f363547a1b573e3c9e7e192725efaac1f4ec6a46cf9009fa",
-    "source": "skyclient",
-    "time": 1703451876602,
-    "updated": 1705352814443
+    "time": 1703451876518
   },
   {
     "file": "Optibye-1.0.0-dep.jar",
     "hash": "7a993a46036e0812680264efb68b1f5df8fb533298bdee416bb1007a63b9e806",
     "source": "skyclient",
-    "time": 1703451876588,
-    "updated": 1705352814511
+    "time": 1703451876588
+  },
+  {
+    "file": "Resource_Pack_Manager_1.2.jar",
+    "hash": "d75b0baba3506648f363547a1b573e3c9e7e192725efaac1f4ec6a46cf9009fa",
+    "source": "skyclient",
+    "time": 1703451876602
   },
   {
     "file": "ArrowPath-v1.0.jar",
     "hash": "720c1b883ee5b386486ab29b853f18c83461782b56b7f7d2130985450042b677",
     "source": "skyclient",
-    "time": 1703451876802,
-    "updated": 1705352814482
-  },
-  {
-    "file": "SkyHanni-0.22.Beta.18.jar",
-    "hash": "9196457e8c0b61cc0f3dd763b01155d35c7f38f083b53bb2074b3f667675b601",
-    "source": "github releases",
-    "time": 1703464373238
+    "time": 1703451876802
   },
   {
     "file": "Chatting-1.8.9-forge-1.5.3.jar",
     "hash": "c8b06ba32a684748f8d8a83f54cf5ac5afb3dbe4e86a33de31cdd2b5e380fcbb",
     "source": "skyclient",
-    "time": 1703484560189,
-    "updated": 1719231231143
+    "time": 1703484560189
   },
   {
     "file": "SkyHanni-0.22.jar",
     "hash": "52a223c2c25a3ba92d9eb4bb28b4e02cc797ffe877d33483b329186ff2deca8b",
     "source": "skyclient",
-    "time": 1703527678843,
-    "updated": 1709215734969
+    "time": 1703527678843
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.3.jar",
     "hash": "e6cb6df3eb358d708a76128c8ad33bbe602f8471be2673945e70621a5e23f9fc",
     "source": "skyclient",
-    "time": 1703534830981,
-    "updated": 1707915976061
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.3-prerelease-1.jar",
-    "hash": "23b39e4376f3ff8720094827a8bf4de016dc1337f7bd2a5e6d686cbbff58c8c1",
-    "source": "github releases",
-    "time": 1703581607385
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.1.jar",
-    "hash": "4c846515e63a51dca241a267375c0e204415debebe97aecf899fd907ab40a47a",
-    "source": "github releases",
-    "time": 1703632039493
+    "time": 1703534830981
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.1.1.jar",
     "hash": "1d787c70f460a0c203b6ae28b784ac7abc0b745c6cb218e0555a4e800930cac3",
     "source": "skyclient",
-    "time": 1703682462233,
-    "updated": 1719231231027
+    "time": 1703682462233
   },
   {
     "file": "Resourcify (1.8.9-forge)-1.2.1.1.jar",
     "hash": "7973819a9a05b68f522063009ea34c5c079f38799d180ac5b15ca5a8ba1a3e26",
     "source": "skyclient",
-    "time": 1703707609996,
-    "updated": 1705950290786
+    "time": 1703707609996
   },
   {
     "file": "QuickQuit-1.0.0.jar",
     "hash": "3c08afce4aa2a223404b4dddcae40dc387753ab1319b11b150040ece4426f9c5",
     "source": "skyclient",
-    "time": 1703801168947,
-    "updated": 1709572011134
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.3.jar",
-    "hash": "48705190919e3060748302486cf20906d8cde5c6ddf2f96d0f8d8fd3bc5dbf56",
-    "source": "skyclient",
-    "time": 1703844416267
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.2.jar",
-    "hash": "44e6e4c304f10498a693fe1ac94afab4bbea89e828d0f422c4a425111b79f7ea",
-    "source": "github releases",
-    "time": 1703844418463
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.3.jar",
-    "hash": "b3b025f531012ef3aa403504aa562e4a0e30ec3d237c18eb79d04e0cb3fe4dba",
-    "source": "github releases",
-    "time": 1704125275144
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.4.jar",
-    "hash": "04b636e69ab7df862a62889e9371521ba2af7e67502f102550327e8cfd57717f",
-    "source": "github releases",
-    "time": 1704222264345,
-    "updated": 1705201653026
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.4.jar",
-    "hash": "7a7423b5c7c449d15ff8df7b0686b20672b5fa6e8a0e2593a33165d25ded5cf9",
-    "source": "github releases",
-    "time": 1704546477202
-  },
-  {
-    "file": "Skytils-1.8.0-pre7.jar",
-    "hash": "fcf118444ef158fb58a35dc54a20f0356e7847a26c1419b21ec3884936122963",
-    "source": "github releases",
-    "time": 1704575066444,
-    "updated": 1705197332518
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.5.jar",
-    "hash": "91c3d51dcdb3c7b696a6aa8655935e7dc877c44bfbcd0b9ae97ea1309c7211b6",
-    "source": "github releases",
-    "time": 1704665184065
+    "time": 1703801168947
   },
   {
     "file": "dungeonsguide-loader-4.0.0-standalone.jar",
@@ -2575,1383 +978,316 @@
     "time": 1704809211638
   },
   {
-    "file": "SkyHanni-0.23.Beta.6.jar",
-    "hash": "bf3d1dff2c596c4f7a4cfe9f92669a35b26eea2f95f4aca61b3eabc58de55272",
-    "source": "github releases",
-    "time": 1704830847968
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta9.1-standalone.jar",
-    "hash": "79b3e22bd3def1d372a1e941dbf3128628e8baac8c21fbe098bdb750e2bbb5c6",
-    "source": "skyclient",
-    "time": 1704975124387,
-    "updated": 1705278886996
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.7.jar",
-    "hash": "5c0399ef9f805ae6d00df2488c36d7976dc5199e32d79cab3f7ac5362c06db1e",
-    "source": "github releases",
-    "time": 1705003635060,
-    "updated": 1705352816856
-  },
-  {
     "file": "Skytils-1.8.0-pre8.jar",
     "hash": "2bf6fb186f349e4dc56d370ed2c2cae8f073b0521e40e1199b6792528cb1e37a",
     "source": "skyclient",
-    "time": 1705199152342,
-    "updated": 1705532834583
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.5.jar",
-    "hash": "bd1c07e1a659274071e632944b68c149d420b30355bcd592931a610d9303f4a3",
-    "source": "skyclient",
-    "time": 1705205296031,
-    "updated": 1705514939881
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta9.2-standalone.jar",
-    "hash": "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3",
-    "source": "skyclient",
-    "time": 1705283620676,
-    "updated": 1708275831270
+    "time": 1705199152342
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
     "hash": "79d4ff32bf079db12c6f0b42598a4cc814ff7845e48e23f5bc582619d4ce4432",
     "source": "skyclient",
-    "time": 1705338367489,
-    "updated": 1705349234877
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.8.jar",
-    "hash": "8d148847cda4854f6ef0e52f4273415555d656aa286033202265823fe595905f",
-    "source": "github releases",
-    "time": 1705356392144,
-    "updated": 1705611969979
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.6.jar",
-    "hash": "f200e9e26878bf01de18cd59a51741fa30fee19e3a7db8e0327a8c13a1fb36a5",
-    "source": "github releases",
-    "time": 1705514942083,
-    "updated": 1705518284539
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.7.jar",
-    "hash": "4cf494029444d226324877d6a86504c5b967dd93ca572f87183060e6bbed66d4",
-    "source": "skyclient",
-    "time": 1705522034028,
-    "updated": 1705698366316
+    "time": 1705338367489
   },
   {
     "file": "Skytils-1.8.0-pre9.1.jar",
     "hash": "a8d19567753b91802da87c61f22d1e551a03d1edf4270ba734eb102d399ef7ff",
     "source": "skyclient",
-    "time": 1705537975657,
-    "updated": 1705680481844
-  },
-  {
-    "file": "DulkirMod-1.2.7.jar",
-    "hash": "cfdb6ad618241293bf9c14bddca0ec63203249d36e7b79673d74a2d2db0f5772",
-    "source": "github releases",
-    "time": 1705565348748,
-    "updated": 1710894646572
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.9.jar",
-    "hash": "ad04140b7c07bd07f479536bda6ed71590550db93ec828790aa314ebc60003ff",
-    "source": "github releases",
-    "time": 1705615588033,
-    "updated": 1705792059783
+    "time": 1705537975657
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-26.jar",
     "hash": "794cc7360cfee5ce5788a5bf9a85b69b94b0809f82c5e0214e2338f877860e78",
     "source": "skyclient",
-    "time": 1705629106143,
-    "updated": 1710673417690
-  },
-  {
-    "file": "Skytils-1.8.0-pre10.jar",
-    "hash": "33f78dd9079e55c13710430ebf65984384703196b55abc5b09871aa456162a77",
-    "source": "github releases",
-    "time": 1705644570263,
-    "updated": 1705694833569
-  },
-  {
-    "file": "Skytils-1.8.0-pre11.jar",
-    "hash": "f230b7925e60dcc13d52627ef2777982f53eb2d59984357a917b6ab611c1a86e",
-    "source": "github releases",
-    "time": 1705691079191,
-    "updated": 1705710752952
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.8.jar",
-    "hash": "aad35626cd5984b2e09b7cc4d98f9133170ba03a75961a29bf7f6f7b5581145c",
-    "source": "skyclient",
-    "time": 1705701986270,
-    "updated": 1705878407140
+    "time": 1705629106143
   },
   {
     "file": "Skytils-1.8.0-pre12.jar",
     "hash": "dd0b8de47e01c6676638217a951a98e04dccbb4326aae04a859f570c4cde3d5e",
     "source": "skyclient",
-    "time": 1705715166686,
-    "updated": 1706709959833
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.10.jar",
-    "hash": "cbdedbf187cae643bf45d3c023dc761a48035f93dd64c3c7c8e22c9b5e2bb793",
-    "source": "github releases",
-    "time": 1705797380282,
-    "updated": 1705871112259
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.11.jar",
-    "hash": "694dbc62a2ab0ff6746758ef18256f57ee30cf0d45b7ac6ba29fb96259f66c05",
-    "source": "github releases",
-    "time": 1705874750447,
-    "updated": 1705954048354
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.5.9.jar",
-    "hash": "455b0fdd12b6a99979b512f452db06b785436ddc9bf5b00e2967cf66209019f7",
-    "source": "github releases",
-    "time": 1705878409346,
-    "updated": 1706315450626
+    "time": 1705715166686
   },
   {
     "file": "Resourcify (1.8.9-forge)-1.3.0.jar",
     "hash": "f74e6690030cc0ffd058add496efe09c850599fd0a57d77bdfc1d4e686a2543a",
     "source": "skyclient",
-    "time": 1705954044556,
-    "updated": 1706825203234
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.12.jar",
-    "hash": "435b561a4ddbe052a6e5074fc05c7b4b2a4baa265b46b8bf3460f0a4e8dd0f86",
-    "source": "github releases",
-    "time": 1705957574979,
-    "updated": 1706040444100
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.13.jar",
-    "hash": "651c858005cf16a775ace8052f0d45cf6f77412bf65163720654689f3f661feb",
-    "source": "github releases",
-    "time": 1706043980672,
-    "updated": 1706123166223
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.14.jar",
-    "hash": "98cfa2eb830485bf206377b86c22c86b1123c3b35604e589242d44ba388d4fa2",
-    "source": "github releases",
-    "time": 1706126855327,
-    "updated": 1706461621180
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6-prerelease-1.jar",
-    "hash": "e95736b8580c2c54eace0d964058cce0a5c607f93f10b2d998ef0761bb2dcfcb",
-    "source": "github releases",
-    "time": 1706252765614,
-    "updated": 1709042782128
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6-prerelease-2.jar",
-    "hash": "600330020b51e7d387f8198d42c0a17d4445aaa2265e051d7d42d355b539ddb9",
-    "source": "github releases",
-    "time": 1706422075103,
-    "updated": 1707339905995
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.15.jar",
-    "hash": "860e1d1b95d7152534f9e26cb6ebdd1b08f1489769c8576b83723cbec3bf2c7e",
-    "source": "github releases",
-    "time": 1706465220822,
-    "updated": 1706731594121
+    "time": 1705954044556
   },
   {
     "file": "Craftify-1.8.9-1.13.0-forge.jar",
     "hash": "8703d25889b97be9d78479fe6fd4359ddb74c6358973bfb0f9245c675889745a",
     "source": "skyclient",
-    "time": 1706555027197,
-    "updated": 1707591812788
-  },
-  {
-    "file": "Skytils-1.8.0-pre13.jar",
-    "hash": "e927eb1501c6d53d497dcdc680aaee4d881bc8f2bd5f69018baa97397c5e3858",
-    "source": "github releases",
-    "time": 1706684822741,
-    "updated": 1706839988460
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.16.jar",
-    "hash": "f81009e10736ca47c3f86b2079982e7dfb1737dd8dafffad20afa7cc58c8b870",
-    "source": "github releases",
-    "time": 1706735192911,
-    "updated": 1707170846246
+    "time": 1706555027197
   },
   {
     "file": "Cowlection-1.8.9-0.16.1.jar",
     "hash": "ee0ed243352d04e5f78ba4d6d7fd9167121c0c956d8242e3627d118fed944a02",
     "source": "skyclient",
-    "time": 1706747552651,
-    "updated": 1723682129578
+    "time": 1706747552651
   },
   {
     "file": "Resourcify (1.8.9-forge)-1.3.1.jar",
     "hash": "0c8a8676167dda760476454625557a9b48349eeb2409a29715bc4e7a616842f2",
     "source": "skyclient",
-    "time": 1706828779351,
-    "updated": 1713090811162
-  },
-  {
-    "file": "Skytils-1.8.0-pre14.jar",
-    "hash": "617663eef371b8b9426cbbc061e824700172c3ad990c3295f4c0181c83e743a9",
-    "source": "github releases",
-    "time": 1706833873123,
-    "updated": 1707026875809
-  },
-  {
-    "file": "NotEnoughCoins-1.14.8.jar",
-    "hash": "2a3f0d32033aef3e15a2ae366b8ae27a8fc976b5742f1b00d2515c521a091cf1",
-    "source": "github releases",
-    "time": 1706965540504,
-    "updated": 1710644824412
-  },
-  {
-    "file": "Skytils-1.8.0.jar",
-    "hash": "7bcb16bf13d572b2113f5f24ee54693d8e11757fb7ae3e0e5503113642600a69",
-    "source": "github releases",
-    "time": 1707026877487,
-    "updated": 1707070101907
+    "time": 1706828779351
   },
   {
     "file": "Skytils-1.8.1.jar",
     "hash": "39e17becd2b3033cad9c6676859bfa8a42a4e50d3a3b648fe15aec49318874dc",
     "source": "skyclient",
-    "time": 1707073557730,
-    "updated": 1708106890480
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.17.jar",
-    "hash": "b28ac92613d3febfb7252c838949b288203a713d03f807f3f6635c562eb929cd",
-    "source": "github releases",
-    "time": 1707174427865,
-    "updated": 1707524977447
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6-prerelease-3.jar",
-    "hash": "0617013d339b44e16fce5a86b689003a822c8ce034924e278a3715ca17167534",
-    "source": "github releases",
-    "time": 1707343512193,
-    "updated": 1708808646176
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.18.jar",
-    "hash": "6bed8872d8e7d29c3344b94ba02e75ce7b1ab46e1edae26e83646c8bd3ffa957",
-    "source": "github releases",
-    "time": 1707528989241,
-    "updated": 1707941225691
+    "time": 1707073557730
   },
   {
     "file": "Craftify-1.8.9-1.14.0-forge.jar",
     "hash": "8603949d457b16a5fb4e67d462cc87f4dbb3aab57ccfc9636370d38f1e96b374",
     "source": "skyclient",
-    "time": 1707595558413,
-    "updated": 1707754036533
+    "time": 1707595558413
   },
   {
     "file": "Craftify-1.8.9-1.14.1-forge.jar",
     "hash": "856606f80cc173ce79025ce24d210b626c5b305789b895d4b5a3fe72e0c478df",
     "source": "skyclient",
-    "time": 1707757509914,
-    "updated": 1716822510566
+    "time": 1707757509914
   },
   {
     "file": "BazaarNotifier-1.7.0.jar",
     "hash": "db65d2d68426cdeb90ca60f1bcd65f69f815091f1f72a29015092c3de25e2060",
     "source": "skyclient",
-    "time": 1707775528792,
-    "updated": 1707843888218
+    "time": 1707775528792
   },
   {
     "file": "BazaarNotifier-1.7.1.jar",
     "hash": "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2",
     "source": "skyclient",
-    "time": 1707847750744,
-    "updated": 1711472721551
+    "time": 1707847750744
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.4.jar",
     "hash": "e94077a6c64ceeef0b38e264fc60ada01ad3ef0057355b07d3c53db1fd7cd06f",
     "source": "skyclient",
-    "time": 1707919617993,
-    "updated": 1714939607420
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.19.jar",
-    "hash": "85a6e7beeadc4fe2f612ea1a35bf4aa666e4e87bf23536cc31be6fd571b756c2",
-    "source": "github releases",
-    "time": 1707944795270,
-    "updated": 1708081461836
+    "time": 1707919617993
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Pre-5.jar",
     "hash": "5ea3b61ecbaedb765fecb790de9c85850ea31895a55ddb72b18f7a443dbc542f",
     "source": "skyclient",
-    "time": 1708031078885,
-    "updated": 1714215836905
-  },
-  {
-    "file": "Skytils-1.8.2.jar",
-    "hash": "1886d7b891dce218085628f8747995fc85223f163139d37909d7b7c6d1ba3d65",
-    "source": "github releases",
-    "time": 1708063728663,
-    "updated": 1710083076417
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.20.jar",
-    "hash": "4b304ffac7ba90f511f9c6eff92652bca5b6de30974aaf378a2625425fb687ac",
-    "source": "github releases",
-    "time": 1708085474895,
-    "updated": 1708369533495
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta9.3-standalone.jar",
-    "hash": "274e66d623cc3ff25f14035b25eb02fba87dbdd17bafd9672ba4839742ed5e7d",
-    "source": "skyclient",
-    "time": 1708279633481,
-    "updated": 1709460411177
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.21.jar",
-    "hash": "39da966a2ef2ec9206b6fdeac4e4fcc174ad6259a61e005a84bbb8adaee40aeb",
-    "source": "github releases",
-    "time": 1708373208178,
-    "updated": 1708459671014
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.22.jar",
-    "hash": "d35e8285af8b1cf0bc6389ea3008437585e27baaa8bdb5e2791cec6fdd1a3164",
-    "source": "github releases",
-    "time": 1708463109800,
-    "updated": 1708635930807
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.23.jar",
-    "hash": "ee97962f47d720c800cb4bdfe25947c539841548cfed90a1fac19ef290c9a705",
-    "source": "github releases",
-    "time": 1708639584876,
-    "updated": 1708801450954
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.24.jar",
-    "hash": "0148a610cb935564d7d4879708d4e2cba7bfd7a7f044ae8ed166743f908b74b9",
-    "source": "github releases",
-    "time": 1708805180561,
-    "updated": 1708859021988
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6-prerelease-4.jar",
-    "hash": "b1e4b0b96869747a1d743f01b3b07c5005a0424bb0ddcb3c486d79a39a7ed9c3",
-    "source": "github releases",
-    "time": 1708812386456,
-    "updated": 1708887798527
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.25.jar",
-    "hash": "acb32c7180c485fa8cb52b4b79c10dd32d00cfee25103bbb7c8f0eec0e7fa4d4",
-    "source": "github releases",
-    "time": 1708863041844,
-    "updated": 1708974212967
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6-prerelease-5.jar",
-    "hash": "b526112905475cd68d4da1719a7fdccab31591bcfc3ff6af8c52e62732264119",
-    "source": "github releases",
-    "time": 1708891569069,
-    "updated": 1709006938006
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.26.jar",
-    "hash": "b60e3a0c62a9143ca4d3fa02c667742558353185c74967d44437cbe9c55747b1",
-    "source": "github releases",
-    "time": 1708978017504,
-    "updated": 1709147024690
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.jar",
-    "hash": "8100c82fdc6564f48ac67d48f86c6238de4e1ed9016aa92d508e02c4a98a7c2c",
-    "source": "github releases",
-    "time": 1709010446341,
-    "updated": 1711732002331
-  },
-  {
-    "file": "SkyHanni-0.23.Beta.27.jar",
-    "hash": "c734735517baae18fa8d3ff50b36964b9d32ae5c03b94d92aa34cffff4e8b9b6",
-    "source": "github releases",
-    "time": 1709150860899,
-    "updated": 1709211994075
+    "time": 1708031078885
   },
   {
     "file": "Mixmetica-1.8.9-forge-2.0.3.jar",
     "hash": "577c5ad4a12ffeca287c8b77ccbbfea4fdeed51d1fbd3218c6d5e0c52d80e525",
     "source": "skyclient",
-    "time": 1709186954086,
-    "updated": 1714270935692
-  },
-  {
-    "file": "SkyHanni-0.23.jar",
-    "hash": "1c5ec9f7e341825ed1c868a088cf7d21b993e5b2be4e7484fa8949b2c77c6c46",
-    "source": "github releases",
-    "time": 1709215738953,
-    "updated": 1711768244280
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.1.jar",
-    "hash": "2e5dc503274d0f787e2689a0acace72bb3f4f10568e448f481384ad765251185",
-    "source": "github releases",
-    "time": 1709316541917,
-    "updated": 1709417084027
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.2.jar",
-    "hash": "894325e48627e5d98c310b89269dad87dc8f2f7f46d215606cc6ac6a9a682444",
-    "source": "github releases",
-    "time": 1709420797449,
-    "updated": 1709503464399
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta9.4-standalone.jar",
-    "hash": "3b72f77cfdeeb5e41f273349f2b819e647b3e821b7696cc84371e1f023f2f77f",
-    "source": "skyclient",
-    "time": 1709463796404,
-    "updated": 1714410342796
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.3.jar",
-    "hash": "1d12bc4ca39abde1a041f276bd647311223ea5c152164e91522c322ed3e2143d",
-    "source": "github releases",
-    "time": 1709507161046,
-    "updated": 1709598613694
+    "time": 1709186954086
   },
   {
     "file": "QuickQuit-1.0.1.jar",
     "hash": "50d3322e79a42a0fc7d34ef3470eee8524e87a3689453103f063eb69efbc6b16",
     "source": "skyclient",
-    "time": 1709575710570,
-    "updated": 1723682129467
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.4.jar",
-    "hash": "89e9b45367fb5a4b183de26c346527b98708d9c1d92822acf116a37381756c1d",
-    "source": "github releases",
-    "time": 1709602705421,
-    "updated": 1709723164415
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.5.jar",
-    "hash": "e7165e10252a986369bf13abf85ec0c967ab2cea1e054e2834e19412a2ef39fd",
-    "source": "github releases",
-    "time": 1709727168215,
-    "updated": 1709771111847
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.6.jar",
-    "hash": "fbcf080a29c621124111fdccae59f2c16c2acf90a53248b536e81e901d893171",
-    "source": "github releases",
-    "time": 1709774676258,
-    "updated": 1709888810418
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.7.jar",
-    "hash": "7ad46e66df116f4cc027b803433b28e2a6c9e2d3b0fccd0d5f2be61913ea2a74",
-    "source": "github releases",
-    "time": 1709892471577,
-    "updated": 1709993234533
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.8.jar",
-    "hash": "fe43cf974bf6fae27e4631f0e75a70f6b01c6e924a05cd71e4465316b4ac3ba2",
-    "source": "github releases",
-    "time": 1709996668606,
-    "updated": 1710101198029
-  },
-  {
-    "file": "Skytils-1.9.0-pre1.jar",
-    "hash": "126eb6cc1af6952c329b2e285ad24dadfe86fb37b1d3d32e65640ecf6a2cd666",
-    "source": "github releases",
-    "time": 1710018432389,
-    "updated": 1710121159293
+    "time": 1709575710570
   },
   {
     "file": "Skytils-1.8.3.jar",
     "hash": "19bbd52e311d8776d82db6bc7bb4bebeda3f9b3131725225c783e4ddda6b8059",
     "source": "skyclient",
-    "time": 1710086854643,
-    "updated": 1712066776871
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.9.jar",
-    "hash": "226a5f4010e9a3563098e1f649013438d48cfe7332157b26ff94eb9656fb2629",
-    "source": "github releases",
-    "time": 1710104641605,
-    "updated": 1710176801975
-  },
-  {
-    "file": "Skytils-1.9.0-pre2.jar",
-    "hash": "d7a2dc6dfecc59ab33c40cf49cb81c3412d864d99bee520e029cba1910ec06e8",
-    "source": "github releases",
-    "time": 1710123299110,
-    "updated": 1710367577261
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.10.jar",
-    "hash": "ebd4fb5bfee8bc7281d0f7f548cc92d0f00c103d94288db7f4ed303197785ed7",
-    "source": "github releases",
-    "time": 1710180522367,
-    "updated": 1710274038774
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.11.jar",
-    "hash": "46d029f1fbe313a2b8b99fe600f6cb7fc1c4e8ba6c689eb7791954540827a306",
-    "source": "github releases",
-    "time": 1710277610848,
-    "updated": 1710364016247
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.12.jar",
-    "hash": "498912b1e82ed5a1382a83bc693f9534bcbe7ee31b897b862493c13d6a6bd9a1",
-    "source": "github releases",
-    "time": 1710367577142,
-    "updated": 1710446853574
-  },
-  {
-    "file": "Skytils-1.9.0-pre4.jar",
-    "hash": "20db111a0de7f2e8b1759bd9042dbbdb804123c364c7d8883758d33cdb85cf69",
-    "source": "github releases",
-    "time": 1710371224510
-  },
-  {
-    "file": "Skytils-1.9.0-pre4.1.jar",
-    "hash": "f7febd02b4c6ff220a09bf667000c7337ce8ed5eb692cf06de920b51fc024366",
-    "source": "github releases",
-    "time": 1710376231966,
-    "updated": 1710479272163
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.13.jar",
-    "hash": "a80310fbb0453a4b4af5934fcff1c81d38e7aa1ff2662cdb2ed5dde1c67b3873",
-    "source": "github releases",
-    "time": 1710450408868,
-    "updated": 1710612489766
-  },
-  {
-    "file": "Skytils-1.9.0-pre5.jar",
-    "hash": "9b059535140ae7ea4eeb71e3936406d2b0e30f120933bc376ec72186e26fa4b2",
-    "source": "github releases",
-    "time": 1710482950196,
-    "updated": 1710652081802
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.14.jar",
-    "hash": "2ebabd47264323b0117a0fd16d1209e632575723bed04517bc105209eddaa862",
-    "source": "github releases",
-    "time": 1710615800944,
-    "updated": 1710702270247
+    "time": 1710086854643
   },
   {
     "file": "NotEnoughCoins-1.14.9.jar",
     "hash": "d769d54081efbf70fc439dd908f4f09a2f0aa72cc762597292a1b49fc29b32ea",
     "source": "github releases",
-    "time": 1710648514381,
-    "updated": 1723682131674
-  },
-  {
-    "file": "Skytils-1.9.0-pre6.jar",
-    "hash": "cad6b58e63cdc137e2b6aaf5e63f4e9bb200608f6e45cea11a5cf0ed222e747d",
-    "source": "github releases",
-    "time": 1710655673206,
-    "updated": 1711775214130
+    "time": 1710648514381
   },
   {
     "file": "NotEnoughUpdates-2.1.1-Alpha-27.jar",
     "hash": "473fd474ef977ba6f2a9b454ecb65486a204d27f0ec9b39df305033e928f75d8",
     "source": "discord",
-    "time": 1710677464754,
-    "updated": 1723682133371
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.15.jar",
-    "hash": "1edf5c3df63896df8c8076d9a3d80ba056198452053997c15d347890cdc89d46",
-    "source": "github releases",
-    "time": 1710706016843,
-    "updated": 1710846279090
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.16.jar",
-    "hash": "ea949099ef21b330bcd8915470b2ef3b993d62cbcc6111e487d195e1b1e2d6b2",
-    "source": "github releases",
-    "time": 1710850314383,
-    "updated": 1711055218688
+    "time": 1710677464754
   },
   {
     "file": "DulkirMod-1.2.8.jar",
     "hash": "f537969a4a32414cb88dadd1c8cd9b969d3099a629977f45b159a0ce5af27e6c",
     "source": "github releases",
-    "time": 1710898726280,
-    "updated": 1723682131636
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.17.jar",
-    "hash": "183924421a426a46e6e973dd00649f3f8682397707308201e92a673a8f822645",
-    "source": "github releases",
-    "time": 1711058729433,
-    "updated": 1711138021365
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.18.jar",
-    "hash": "e28cfdf0531e00b5c1f667f8e6dc6f6b0a3e0412a0eaef49444be9ac3f72fef6",
-    "source": "github releases",
-    "time": 1711141593199,
-    "updated": 1711235117060
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.19.jar",
-    "hash": "7133e6a6d482d640287c01488e251bbb1ef939fe17a559995945ec4415d2781e",
-    "source": "github releases",
-    "time": 1711240492046,
-    "updated": 1711289065137
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.20.jar",
-    "hash": "8a58dcf3b5677f87bd7c7ca4f7206ac5d15be89271061f41a42abdbefce55624",
-    "source": "github releases",
-    "time": 1711292721538,
-    "updated": 1711483649992
+    "time": 1710898726280
   },
   {
     "file": "Patcher-1.8.9 (1.8.9).jar",
     "hash": "0974504b3520bac8942ee6742a515f937816390253899b01096320af87c68160",
     "source": "skyclient",
-    "time": 1711407990541,
-    "updated": 1719231230935
+    "time": 1711407990541
   },
   {
     "file": "Dungeon_Rooms-3.4.1.jar",
     "hash": "0e4355e383133e7de35fdb20a0ca5c191dbca68c75781690b2c79c928697ea10",
     "source": "skyclient",
-    "time": 1711461989591,
-    "updated": 1723682130003
+    "time": 1711461989591
   },
   {
     "file": "BazaarNotifier-1.7.2.jar",
     "hash": "add51f263b15c5532a9cc298ae8c1d94d2867559a57a596060017ae2740b1266",
     "source": "skyclient",
-    "time": 1711476501385,
-    "updated": 1723295355182
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.21.jar",
-    "hash": "0e2b77ae75718862be51d1fd968569dc30ffd810bcc85376d67f7b1d966ba98c",
-    "source": "github releases",
-    "time": 1711487207834,
-    "updated": 1711616852314
+    "time": 1711476501385
   },
   {
     "file": "Optibye-1.0.0-dep.jar",
     "hash": "93e6aa840b4ff481b2c74cb094820634479e437ac42d496c36a9291edcb568e8",
     "source": "skyclient",
-    "time": 1711494446728,
-    "updated": 1723682129535
-  },
-  {
-    "file": "SkyHanni-0.24.Beta.22.jar",
-    "hash": "5e54af6c7cb78d8cc37f2493e2d1ee897277086d9befdc826d4deee68cd2bd2e",
-    "source": "github releases",
-    "time": 1711620442311,
-    "updated": 1711758602710
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.1.jar",
-    "hash": "e242bde638db741536bfe1a06fc114d2df4d2783870d39fbc82e15f170d4f14b",
-    "source": "skyclient",
-    "time": 1711735694320,
-    "updated": 1719594441861
-  },
-  {
-    "file": "SkyHanni-0.24.jar",
-    "hash": "542899bd3cdeb86b8ce9a0dd7fb5b41e9f0095abe60ee850bff1ee46d3a30d01",
-    "source": "github releases",
-    "time": 1711762590418,
-    "updated": 1716228550659
-  },
-  {
-    "file": "BSMod-1.9.0.jar",
-    "hash": "b47564f90cfd2319f9f5d30fd2260dc4028af31e7c024f896fcbcf4e48730cf7",
-    "source": "github releases",
-    "time": 1711778885210
-  },
-  {
-    "file": "BSMod-1.9.1.jar",
-    "hash": "9c18a619b490e29c93105f847f31075c19fc9df5c72abe80a8e4370341a1555c",
-    "source": "github releases",
-    "time": 1711782419395,
-    "updated": 1711911798028
-  },
-  {
-    "file": "BSMod-1.9.2.jar",
-    "hash": "25db9771a309ea677cb89de1972cf4a541816124d78a38ec0a70ed42965a9618",
-    "source": "github releases",
-    "time": 1711915658857,
-    "updated": 1714187311445
+    "time": 1711494446728
   },
   {
     "file": "QuickJoin-1.8.9-forge-2.2.jar",
     "hash": "ef6d5ef2b5d46a185f8d597ce77bf688a4962be988f6ee7ae89576a9f1628134",
     "source": "skyclient",
-    "time": 1712113694341,
-    "updated": 1713452821938
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.1.jar",
-    "hash": "5414f98e685c1474d90aa7a2ee96a18b0d6f4488add8d555cf6c0f960f048833",
-    "source": "github releases",
-    "time": 1712174837581,
-    "updated": 1712336724656
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.2.jar",
-    "hash": "a290f51449487653e5fc7ef45a3582105169870dbd1ca5fecfdf383072352309",
-    "source": "github releases",
-    "time": 1712340531615,
-    "updated": 1712516594960
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.3.jar",
-    "hash": "7a12758fa807a23daefaa70d6f3c091512fdc1a1bd25dfba87c8a88d01f05300",
-    "source": "github releases",
-    "time": 1712520385367,
-    "updated": 1712610375356
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.4.jar",
-    "hash": "3e45ea4bc66970ad8f35b067c17ba15f41f587dd8b5b2b66da8bf547e0b8d293",
-    "source": "github releases",
-    "time": 1712614079048,
-    "updated": 1712689493269
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.5.jar",
-    "hash": "d51802ab401df695463f554b6457ed440df4dbd207df0c92f322878f14ef3d3f",
-    "source": "github releases",
-    "time": 1712693213873,
-    "updated": 1712923891379
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.6.jar",
-    "hash": "faca8947a52bfd904e6a48dcf68fc83ed604a2a8c69368c51bf16ecbe5ff85d8",
-    "source": "github releases",
-    "time": 1712927195847,
-    "updated": 1713042198305
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.7.1.jar",
-    "hash": "ab2520fd35d25267a3b8d57cb6f1bfaf79ac5d3d2e0bba3dcf46c041b540691f",
-    "source": "github releases",
-    "time": 1713049684609,
-    "updated": 1713207994189
+    "time": 1712113694341
   },
   {
     "file": "Resourcify (1.8.9-forge)-1.3.3.jar",
     "hash": "a3bf9bb6c22faa6164abb1660299d8fd51ff13bc757f430fe32625d77d4bed20",
     "source": "skyclient",
-    "time": 1713128728445,
-    "updated": 1717085309306
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.8.jar",
-    "hash": "c88c7d742775b9924cb134401977c0035a029362c2de58a9d53b65594e9cf2fc",
-    "source": "github releases",
-    "time": 1713211626719,
-    "updated": 1713384417671
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.9.jar",
-    "hash": "464606ed8cfa271b9ca9f572fdfb1c20d7eb55254a1ded8d50a390a7e74e92ad",
-    "source": "github releases",
-    "time": 1713388064873,
-    "updated": 1713490918524
+    "time": 1713128728445
   },
   {
     "file": "QuickJoin-1.8.9-forge-2.3.jar",
     "hash": "9a8e8fd69ffdcbfa92124c050ff5c7cc0f12bebd0f439c6f8d96e24bdca5a6de",
     "source": "skyclient",
-    "time": 1713456476486,
-    "updated": 1716480571773
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.10.jar",
-    "hash": "421005b82098c5c5abf3178b0266183f37bad79be8e334ecca5c8ba5788ee839",
-    "source": "github releases",
-    "time": 1713493120088,
-    "updated": 1713791252082
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-1.jar",
-    "hash": "410662651a5ebb6a4677b3c18bb97813e401322bfc3948bb86299da47162cfc9",
-    "source": "github releases",
-    "time": 1713752342579,
-    "updated": 1714601248927
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.11.jar",
-    "hash": "a5932f8a5b3bb6675dbb775538e48cd89987fc7cc2cf849c1c0556aaeb3ff391",
-    "source": "github releases",
-    "time": 1713794806164,
-    "updated": 1713918711588
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.12.jar",
-    "hash": "f0153959e2e041f4794b0040e416973277f422ecb2b6d40fb31307250bd632ed",
-    "source": "github releases",
-    "time": 1713923042425,
-    "updated": 1714039641033
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.13.jar",
-    "hash": "88ea0340303ffca79a7d9c50e5432b189130dd9a5ef75231f0437ea5f40c7550",
-    "source": "github releases",
-    "time": 1714043193105,
-    "updated": 1714219831778
-  },
-  {
-    "file": "Skytils-1.9.3.jar",
-    "hash": "c7bf80b502df2a2f321b141fc0b2fbf1485b284b147fe937bb9dead66db45919",
-    "source": "github releases",
-    "time": 1714169220664,
-    "updated": 1714172848049
-  },
-  {
-    "file": "Skytils-1.9.4.jar",
-    "hash": "17147f57611b2ae0aaff640d83353e448c0156517ee8205adaacb1450e5631a3",
-    "source": "github releases",
-    "time": 1714177909177,
-    "updated": 1715739894969
-  },
-  {
-    "file": "NotEnoughUpdates-2.2.0.jar",
-    "hash": "ae1c14046e770f50a688719042526c74a945fcfc6a3004559f1da2602d62d8bc",
-    "source": "github releases",
-    "time": 1714219832423,
-    "updated": 1714226668812
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.14.jar",
-    "hash": "32ef288b005f563b1b261ce969706ed52c5e78c43b5d533a3ba1443f65ba3439",
-    "source": "github releases",
-    "time": 1714223258853,
-    "updated": 1714331027995
-  },
-  {
-    "file": "NotEnoughUpdates-2.2.1.jar",
-    "hash": "ad5a15da4d525c6b082e607c0db0479017252ec9a75fcc75d1198abf983c236a",
-    "source": "github releases",
-    "time": 1714226671006,
-    "updated": 1714831614420
+    "time": 1713456476486
   },
   {
     "file": "Mixmetica-1.8.9-forge-2.0.4.jar",
     "hash": "ada396245b6c6e5833e44b5355eaa6ab7c494fc73b4020feec7caa637b865667",
     "source": "skyclient",
-    "time": 1714273695155,
-    "updated": 1719231231143
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.15.jar",
-    "hash": "c4a9c2ca4ebee1aba72260416eddbee5c9891ecaaec5f551d3beda1bc63a4527",
-    "source": "github releases",
-    "time": 1714334853891,
-    "updated": 1714403216900
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.16.jar",
-    "hash": "9a1131524ead6998dec8138801d825c9960097cdebbe854939780005ca979fea",
-    "source": "github releases",
-    "time": 1714406902476,
-    "updated": 1714507633034
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta9.5-standalone.jar",
-    "hash": "e9da2e5ad2083ce196dac8978f4077bed23e98e2a7019d8b3a8311f8c1507ec8",
-    "source": "skyclient",
-    "time": 1714414112613,
-    "updated": 1722092827441
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.17.jar",
-    "hash": "bc36fab9b76008a68bd12feb19d210f6fbc0fafbba1191fbb18caeb41cc00088",
-    "source": "github releases",
-    "time": 1714511284327,
-    "updated": 1714590428417
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.18.jar",
-    "hash": "9f3eb9d6ffdb9370affd2f87d0f5233f37abf50cf83d8a40758d747f9908b45d",
-    "source": "github releases",
-    "time": 1714594113788,
-    "updated": 1714655266936
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-2.jar",
-    "hash": "e95315a06696db1f4067543b0f2e2006a9e9a00a474420b65a8e8301cb2da0bc",
-    "source": "github releases",
-    "time": 1714604853331,
-    "updated": 1715278051935
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.19.jar",
-    "hash": "debe7b48bc62c3e9edc73018a3d77f7984cb7e5d08c17c62129f3d13e26a0eb2",
-    "source": "github releases",
-    "time": 1714658809283,
-    "updated": 1714752487365
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.20.jar",
-    "hash": "5443318e81fc00b277986d0dacc9d6bb12ce4e6db0c358ef1c68f44f93fd0366",
-    "source": "github releases",
-    "time": 1714755993378,
-    "updated": 1714786893543
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.21.jar",
-    "hash": "2a0fe897ae0cfda1e4cc7f6cec36bd587ac12d8b3a3787c7415c5e42229e60a0",
-    "source": "github releases",
-    "time": 1714788982437,
-    "updated": 1715029636216
+    "time": 1714273695155
   },
   {
     "file": "NotEnoughUpdates-2.2.2.jar",
     "hash": "5472bbbd4efc7d5069f75fd1c7d1db8533fb19d41926b9d19e4510e45d8fd5c7",
     "source": "skyclient",
-    "time": 1714835210175,
-    "updated": 1717340799104
+    "time": 1714835210175
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.0.jar",
     "hash": "24e515c3bcb8398bc91aa396ed27c5aa59e7497e9184ba7794cf118f22b11140",
     "source": "skyclient",
-    "time": 1714939607779,
-    "updated": 1714972048723
+    "time": 1714939607779
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.5.jar",
     "hash": "34992e23ba51d2f533695e887857464eabf613c6ee6361daffd30a7241d3f854",
     "source": "skyclient",
-    "time": 1714943101392,
-    "updated": 1719231230875
+    "time": 1714943101392
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.1.jar",
     "hash": "fa3392c83517684a5cb480376fd7bd30afc32b214f311b04748c983c1e4414c3",
     "source": "skyclient",
-    "time": 1714943101631,
-    "updated": 1715274362230
+    "time": 1714943101631
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.1.jar",
     "hash": "0f313f562ca56a0531d61809b5ad6b9e4771f09327f88df2056a5c1e7526a453",
     "source": "skyclient",
-    "time": 1714975825987,
-    "updated": 1714997555888
+    "time": 1714975825987
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.2.jar",
     "hash": "ebaa4697aa3892a05df2f6dc0ddff95e57bb4a0734340c1b33a0e765bbbc3a59",
     "source": "skyclient",
-    "time": 1715000911924,
-    "updated": 1715252791736
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.22.jar",
-    "hash": "e6de80692e0563d503ce54d5ba958f0a8324e2eb50a7cce4bdf8d5608c91c3a4",
-    "source": "github releases",
-    "time": 1715033243124,
-    "updated": 1715177201322
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.23.jar",
-    "hash": "8e1ec26b9d443836ce8326b3e2a1d138d59998e70bffaa0d963f6b2cff9afa10",
-    "source": "github releases",
-    "time": 1715180804443,
-    "updated": 1715285242719
+    "time": 1715000911924
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.3.jar",
     "hash": "c30674200349edc1ba5af8f2c9b38320c743ed8b627413e5de3d769c8f17f98b",
     "source": "skyclient",
-    "time": 1715256732536,
-    "updated": 1719231231107
-  },
-  {
-    "file": "replaymod-1.8.9-2.6.15.jar",
-    "hash": "ef2f2a6c98a8378f03f4176731340eee48403c8c1ca0fb949334fcef551d621b",
-    "source": "skyclient",
-    "time": 1715278050962,
-    "updated": 1721732897968
+    "time": 1715256732536
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.2.jar",
     "hash": "850628a2f211ced4e08a3e1ff9cad18b85c9039516e557fb1dc617fde25343da",
     "source": "skyclient",
-    "time": 1715278049332,
-    "updated": 1719231231143
+    "time": 1715278049332
   },
   {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-3.jar",
-    "hash": "1c3a23bffeefa80376e8623fafa70a4df258fe0db6271da4b271754d140951f7",
-    "source": "github releases",
-    "time": 1715281478586,
-    "updated": 1715900833717
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.24.jar",
-    "hash": "7c480ede6622f525cba9e419b56ae825625fac252908ba5da3e84cb5ce9e1f85",
-    "source": "github releases",
-    "time": 1715288863659,
-    "updated": 1715468834478
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.25.jar",
-    "hash": "b35ceaa4d0ebb2b4103eee53c8eb53f569d5179efc3a259aff0c8d78ec2a11c9",
-    "source": "github releases",
-    "time": 1715474186174,
-    "updated": 1715627085975
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.26.jar",
-    "hash": "682f2d7996de132b9e2eb7c4a6dfa35870b70fcea4b645b4cdaa44a4f9389d2b",
-    "source": "github releases",
-    "time": 1715630841217,
-    "updated": 1715854042187
-  },
-  {
-    "file": "Skytils-1.9.5.jar",
-    "hash": "2ff0b22bbf3b34835e8bc272dabcb693b6b1d13652e03bd43509648f6fc8b158",
-    "source": "github releases",
-    "time": 1715733183532,
-    "updated": 1716048424869
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.27.jar",
-    "hash": "485307abb47b096b9b6133af65e11ec79e2aa8b1aba45fbefc84752d3d3fcb30",
-    "source": "github releases",
-    "time": 1715857582481,
-    "updated": 1715936932003
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-4.jar",
-    "hash": "9b0729b7093155909adef057fa6528e59289a44f2e639da4a538bd8df5229c6e",
-    "source": "github releases",
-    "time": 1715906003532,
-    "updated": 1718222854847
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.28.jar",
-    "hash": "1d4479bc1fa774386abf01b6d1949b8adc974a8a4c8dbe543344a415e46152c6",
-    "source": "github releases",
-    "time": 1715940456386,
-    "updated": 1716066328821
-  },
-  {
-    "file": "Skytils-1.9.6.jar",
-    "hash": "eccea8d8fd50da03ef87b168d89f26cbf2676319e9096e22e1f870bfe2278944",
-    "source": "github releases",
-    "time": 1715987304801,
-    "updated": 1716008848975
-  },
-  {
-    "file": "Skytils-1.9.7.jar",
-    "hash": "a20632ded9ee113a4abd09250514d2ad43f504211965e194eccb48db6b93f072",
-    "source": "github releases",
-    "time": 1716012539769,
-    "updated": 1717362428670
-  },
-  {
-    "file": "SkyHanni-0.25.Beta.29.jar",
-    "hash": "045c0bc6060c20896cf5da377a3aecb09dd63b417eb5174517ef640aaf3aab42",
-    "source": "github releases",
-    "time": 1716069959367,
-    "updated": 1716221347670
-  },
-  {
-    "file": "Skytils-1.10.0-pre1.jar",
-    "hash": "e8dfff9230d9c65ae9fbad21eefa0463246ca22e27613732cd0e55e7469d4c5e",
-    "source": "github releases",
-    "time": 1716078979324,
-    "updated": 1716098955724
-  },
-  {
-    "file": "Skytils-1.10.0-pre2.jar",
-    "hash": "9fdc12f1f0b141df348c913cca366655bc463734b9a162915b3d09bb415e8312",
-    "source": "github releases",
-    "time": 1716102362548,
-    "updated": 1716138388222
-  },
-  {
-    "file": "Skytils-1.10.0-pre3.jar",
-    "hash": "5e1e92751a914522d0049cd00135f12ef21c712bfbad3a8f1a40f86cfc42cac0",
-    "source": "github releases",
-    "time": 1716142134894
-  },
-  {
-    "file": "Skytils-1.10.0-pre4.jar",
-    "hash": "964da53836f5a1906a347951dcc409dbe8ae74604e5c64897a3f706a278b6dc7",
-    "source": "github releases",
-    "time": 1716145439131,
-    "updated": 1716570407759
+    "file": "replaymod-1.8.9-2.6.15.jar",
+    "hash": "ef2f2a6c98a8378f03f4176731340eee48403c8c1ca0fb949334fcef551d621b",
+    "source": "skyclient",
+    "time": 1715278050962
   },
   {
     "file": "SkyHanni-0.25.jar",
     "hash": "0a35375619cd2006b1447bc7962012f35c7d40ecc65331d5927ff6d698428813",
     "source": "github releases",
-    "time": 1716224847461,
-    "updated": 1723682130111
+    "time": 1716224847461
   },
   {
     "file": "QuickJoin-1.8.9-forge-2.4.jar",
     "hash": "2be17d0aa0b59fa5ae3b2a728e74b271307507ea4c5c85c908752ec56fb04f5a",
     "source": "skyclient",
-    "time": 1716483966454,
-    "updated": 1719162296745
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.1.jar",
-    "hash": "8cc695238b8e6d353e9b7a8f29ab1c7457ed39e8bf50c9c6b4b1809f130e666d",
-    "source": "github releases",
-    "time": 1716574173839,
-    "updated": 1716793707575
-  },
-  {
-    "file": "Skytils-1.10.0-pre5.jar",
-    "hash": "4c50e17aa33369a764788bd0c3cecc02b56691edd4e2961014b4b7230e53cdc6",
-    "source": "github releases",
-    "time": 1716574173965
-  },
-  {
-    "file": "Skytils-1.10.0-pre6.jar",
-    "hash": "6628458b4b1202fadd1fe04551ed8a9734759579a27fa45b77914577664b8dd5",
-    "source": "github releases",
-    "time": 1716577567753
-  },
-  {
-    "file": "Skytils-1.10.0-pre7.jar",
-    "hash": "d86cad65768a781c0932000f2f964635fed359a904804d6397a063c9be09c1ca",
-    "source": "github releases",
-    "time": 1716581242777,
-    "updated": 1717362430785
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.2.jar",
-    "hash": "c6b93ae5026947b5fb1a585b70fd8fbab13156b87925f713ec8d0022921c51fa",
-    "source": "github releases",
-    "time": 1716797419038,
-    "updated": 1716977283311
+    "time": 1716483966454
   },
   {
     "file": "Craftify-1.8.9-1.15.0-forge.jar",
     "hash": "acb44bd6d7c11ab63fd615cadbba765969553d00da869f27347396f54b2650e9",
     "source": "skyclient",
-    "time": 1716826078294,
-    "updated": 1723682129593
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.3.jar",
-    "hash": "7d029faacef6d35ab9667621094f51c868e61627de69428f47545262f1ab836c",
-    "source": "github releases",
-    "time": 1716980815286,
-    "updated": 1717071199100
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.4.jar",
-    "hash": "8a065ee4d84026aa0d8bdf0ae6da86e72af8337b15e88025dd9ac898dc185ee6",
-    "source": "github releases",
-    "time": 1717074525378,
-    "updated": 1717115601917
-  },
-  {
-    "file": "Resourcify%20(1.8.9-forge)-1.4.0%2Bbeta.1.jar",
-    "hash": "649d759e97c5a14958550563669a4dc760f53953e32ab18e4941ee305a4208e6",
-    "source": "skyclient",
-    "time": 1717088780221,
-    "updated": 1718284197321
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.5.jar",
-    "hash": "d0c490d5c0cd8517ceb7f9aa2747f146d3fe4be22890781ad1d7802e26f65873",
-    "source": "github releases",
-    "time": 1717120330576,
-    "updated": 1717304836970
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.6.jar",
-    "hash": "1924e8f761747d0edec85caf86d5057e3ca6b87eb24b4e604193b1780b36beb1",
-    "source": "github releases",
-    "time": 1717308639943,
-    "updated": 1717607211482
-  },
-  {
-    "file": "NotEnoughUpdates-2.3.0.jar",
-    "hash": "26cd940a61758b90b4794b823c7ee20201405696740c98447ad463550c8645ab",
-    "source": "github releases",
-    "time": 1717340801676,
-    "updated": 1720948146798
+    "time": 1716826078294
   },
   {
     "file": "Skytils-1.10.0-pre8.jar",
     "hash": "c09c7195729b0c7b6cdf44f69a85093bcbcab643e93dde8cf34d5956f234f5a4",
     "source": "skyclient",
-    "time": 1717365985761,
-    "updated": 1718302176942
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.7.jar",
-    "hash": "fe936b9c88312e362bdbf0c9088857427ba69cadec76169684b9afe1a099ccc9",
-    "source": "github releases",
-    "time": 1717610957567,
-    "updated": 1717841254183
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.8.jar",
-    "hash": "0b911a931d8bf4b68fbb92b484969a94a3529fc71dcfea3dcc90221a2dbe8cce",
-    "source": "github releases",
-    "time": 1717844792484,
-    "updated": 1718230035288
+    "time": 1717365985761
   },
   {
     "file": "FancyWarpMenu-2.0-beta.1+121.jar",
     "hash": "601fb64ed9ce3f3aebf10a5766749fc574a5fb778d543867cf8dd8bc7444a620",
     "source": "skyclient",
-    "time": 1718010549642,
-    "updated": 1723682129577
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-5.jar",
-    "hash": "7c03b93cdbe8d65eeadc545f01dbd2fdb4e14864b658b41aaecf1c409ef09cf5",
-    "source": "github releases",
-    "time": 1718226439512,
-    "updated": 1722456482589
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.9.jar",
-    "hash": "00b31e21c0e10ff4ae0924081a087af4c4eb1efe03407618443eba5c4e1afaf0",
-    "source": "github releases",
-    "time": 1718233650744,
-    "updated": 1718312867111
+    "time": 1718010549642
   },
   {
     "file": "Resourcify (1.8.9-forge)-1.4.0.jar",
     "hash": "964f961f0495c7da1430091f6bf638b0f3295d2d9eff7c02b4e1649d63a36787",
     "source": "skyclient",
-    "time": 1718287633899,
-    "updated": 1723682129623
+    "time": 1718287633899
   },
   {
     "file": "Skytils-1.10.0-pre9.jar",
     "hash": "e2ed258a1140d30cba07e07eee29f400346540b8aef9fca772852bc15be1a53f",
     "source": "github releases",
-    "time": 1718302180402,
-    "updated": 1723180107769
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.10.jar",
-    "hash": "ded6f38733cb20f8336714209da1a825facc0461a4a0daef2a0a7dc2eb938854",
-    "source": "github releases",
-    "time": 1718316451120,
-    "updated": 1718608061575
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.11.jar",
-    "hash": "7531a1a216b68f9d9f4ea84e1b1f5006ef2de06574377cdbc040c965d0405c1d",
-    "source": "github releases",
-    "time": 1718611838796
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.12.jar",
-    "hash": "6a560215acbc888f28a9c1956ab54295213b2d3e594e0ba294542e743c4fbf66",
-    "source": "github releases",
-    "time": 1718615305626,
-    "updated": 1719144754949
+    "time": 1718302180402
   },
   {
     "file": "SkyClientCosmetics-1.8.9-forge-1.1.16.jar",
     "hash": "7a1182c163ad2d0c40708a7f93c2f1172e99f085ba738d2465a5504d2e226101",
     "source": "skyclient",
-    "time": 1718762111797,
-    "updated": 1720116598330
-  },
-  {
-    "file": "SkyblockAddons-1.9.0-beta.11.1+315-for-MC-1.8.9.jar",
-    "hash": "43f16a2969275c5ddd0a0968fc1b882a71f6407f02d981ea19bc874a258e7c5a",
-    "source": "skyclient",
-    "time": 1718914068780,
-    "updated": 1719669950269
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.13.jar",
-    "hash": "7ef47b69fcf4b3ca8a1b8debc07fba0a967362f284743969b0a65b5960247cf2",
-    "source": "github releases",
-    "time": 1719148029027,
-    "updated": 1719760037554
+    "time": 1718762111797
   },
   {
     "file": "QuickJoin-1.8.9-forge-2.5.jar",
     "hash": "4256fc4f3b59b1d613fa8c805b7ae1a53e8688e4290f22d6e61a8ea96476a200",
     "source": "skyclient",
-    "time": 1719166134594,
-    "updated": 1723682129121
-  },
-  {
-    "file": "EvergreenHUD-1.8.9-forge-2.1.6.jar",
-    "hash": "6bfdfd4dbc660d0dbd707f6fc0504e731445648f23e708d87f5ae73aebf8a309",
-    "source": "skyclient",
-    "time": 1719234610214,
-    "updated": 1723057592969
-  },
-  {
-    "file": "SkyClient-Updater-1.8.9-forge-1.3.6.jar",
-    "hash": "57bc54cfd391a854f03b8e1ebeaf2ad3ad34baad7ccb5d524e992c6be6fe6595",
-    "source": "skyclient",
-    "time": 1719234610352,
-    "updated": 1719353209523
-  },
-  {
-    "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
-    "hash": "79ee5ffa9cb71ceb9d53393f784d7fc96bc90601e81c98b3c3ced1b5dc58093e",
-    "source": "skyclient",
-    "time": 1719234610254,
-    "updated": 1719515210810
-  },
-  {
-    "file": "Hytils Reborn-1.8.9-forge-1.7.0.jar",
-    "hash": "6ba489ae5eebc9cc1a3b3bc83de54758fe869d79ee4dcede7b6a934b66ae34f5",
-    "source": "skyclient",
-    "time": 1719234610214,
-    "updated": 1719594440741
+    "time": 1719166134594
   },
   {
     "file": "PolyCrosshair-1.8.9-forge-1.0.0.jar",
     "hash": "5c250f813677a98a68c66159a1f4aaab8bcede64919d625e2c068c4365d748a9",
     "source": "skyclient",
-    "time": 1719234610100,
-    "updated": 1719335252345
+    "time": 1719234610100
   },
   {
     "file": "PolyHitbox-1.8.9-forge-1.0.0.jar",
     "hash": "40db5e3443608ee57002f43c080ec1d91ab9a975ddbd9efd98dac4c4c2d8f084",
     "source": "skyclient",
-    "time": 1719234610101,
-    "updated": 1719655615062
+    "time": 1719234610101
+  },
+  {
+    "file": "EvergreenHUD-1.8.9-forge-2.1.6.jar",
+    "hash": "6bfdfd4dbc660d0dbd707f6fc0504e731445648f23e708d87f5ae73aebf8a309",
+    "source": "skyclient",
+    "time": 1719234610214
+  },
+  {
+    "file": "Hytils Reborn-1.8.9-forge-1.7.0.jar",
+    "hash": "6ba489ae5eebc9cc1a3b3bc83de54758fe869d79ee4dcede7b6a934b66ae34f5",
+    "source": "skyclient",
+    "time": 1719234610214
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.0.jar",
@@ -3960,661 +1296,525 @@
     "time": 1719234610215
   },
   {
-    "file": "PolyTime-1.8.9-forge-1.0.1.jar",
-    "hash": "e08134c451fbc26e03ba87b7b466b8f948ef9ce54a2317cd81d09f8344623a32",
+    "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+    "hash": "79ee5ffa9cb71ceb9d53393f784d7fc96bc90601e81c98b3c3ced1b5dc58093e",
     "source": "skyclient",
-    "time": 1719234610397,
-    "updated": 1719669949967
-  },
-  {
-    "file": "ColorSaturation-1.8.9-forge-1.0.0.jar",
-    "hash": "15e1ba2b195a63f00bd59b70eaee5a957cf6bae6da37e6209cfedd4b0f47280a",
-    "source": "skyclient",
-    "time": 1719234610397,
-    "updated": 1723682129344
-  },
-  {
-    "file": "GlintColorizer-1.8.9-forge-2.0.0.jar",
-    "hash": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653",
-    "source": "skyclient",
-    "time": 1719234610300,
-    "updated": 1721826728279
-  },
-  {
-    "file": "PolySprint-1.8.9-forge-1.0.1.jar",
-    "hash": "67843afd184686a4ec5342e5f4322e6eb3220c5d36db7c8047faac9a86976ae9",
-    "source": "skyclient",
-    "time": 1719234610300,
-    "updated": 1723682129382
-  },
-  {
-    "file": "Chatting-1.8.9-forge-2.0.0.jar",
-    "hash": "002c1b7dc1f6dbc6be4dcc0d081cee73bd5c855a46cd603727423b7bc2dd1769",
-    "source": "skyclient",
-    "time": 1719234610352,
-    "updated": 1719238054472
+    "time": 1719234610254
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.3.jar",
     "hash": "97de63053ff5468a6c8beca7f9140bac819cfae90bb4854f365c2ea5ada956e7",
     "source": "skyclient",
-    "time": 1719234610299,
-    "updated": 1719241668422
+    "time": 1719234610299
   },
   {
-    "file": "VanillaHUD-1.8.9-forge-2.2.4.jar",
-    "hash": "e77254a94c367fc71fef7d3a3ba90c4c3eee0584ac364aff41d8d98451c32907",
+    "file": "GlintColorizer-1.8.9-forge-2.0.0.jar",
+    "hash": "0445f8dec81e97da1c26fc6958084ee894cf2955c8c358e0d2b78432876c7653",
     "source": "skyclient",
-    "time": 1719234610352,
-    "updated": 1719241668562
+    "time": 1719234610300
+  },
+  {
+    "file": "PolySprint-1.8.9-forge-1.0.1.jar",
+    "hash": "67843afd184686a4ec5342e5f4322e6eb3220c5d36db7c8047faac9a86976ae9",
+    "source": "skyclient",
+    "time": 1719234610300
   },
   {
     "file": "BehindYouV3-1.8.9-forge-3.2.0.jar",
     "hash": "075365a7f15053393f1ea0452368ef850262b76b78df3cd18c7fb01675da68b2",
     "source": "skyclient",
-    "time": 1719234610300,
-    "updated": 1719673577711
+    "time": 1719234610300
   },
   {
     "file": "OverflowParticles-1.8.9-forge-1.0.0.jar",
     "hash": "0723a24cf54bd0080d5fe6a343ae8cdea25194a21742fb44d2e1946a684238b9",
     "source": "skyclient",
-    "time": 1719234610300,
-    "updated": 1719238054537
+    "time": 1719234610300
+  },
+  {
+    "file": "SkyClient-Updater-1.8.9-forge-1.3.6.jar",
+    "hash": "57bc54cfd391a854f03b8e1ebeaf2ad3ad34baad7ccb5d524e992c6be6fe6595",
+    "source": "skyclient",
+    "time": 1719234610352
+  },
+  {
+    "file": "Chatting-1.8.9-forge-2.0.0.jar",
+    "hash": "002c1b7dc1f6dbc6be4dcc0d081cee73bd5c855a46cd603727423b7bc2dd1769",
+    "source": "skyclient",
+    "time": 1719234610352
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.2.4.jar",
+    "hash": "e77254a94c367fc71fef7d3a3ba90c4c3eee0584ac364aff41d8d98451c32907",
+    "source": "skyclient",
+    "time": 1719234610352
+  },
+  {
+    "file": "PolyTime-1.8.9-forge-1.0.1.jar",
+    "hash": "e08134c451fbc26e03ba87b7b466b8f948ef9ce54a2317cd81d09f8344623a32",
+    "source": "skyclient",
+    "time": 1719234610397
+  },
+  {
+    "file": "ColorSaturation-1.8.9-forge-1.0.0.jar",
+    "hash": "15e1ba2b195a63f00bd59b70eaee5a957cf6bae6da37e6209cfedd4b0f47280a",
+    "source": "skyclient",
+    "time": 1719234610397
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.1.jar",
     "hash": "9e585cd8a22cd04f448f533339a6ec97e9c43a425dc3230cbdc668bc79425388",
     "source": "skyclient",
-    "time": 1719238054472,
-    "updated": 1719389391213
+    "time": 1719238054472
   },
   {
     "file": "Chatting-1.8.9-forge-2.0.1.jar",
     "hash": "ed97262869a4467a3faed8f3526f04a97f9885b0fff7a6ccdecb44514463b230",
     "source": "skyclient",
-    "time": 1719241668562,
-    "updated": 1719255984480
+    "time": 1719241668562
   },
   {
     "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
     "hash": "a1db267209a5dd6b817d6d7e8a36b3b8fc7244309a7acb04fdf396945e934ab3",
     "source": "skyclient",
-    "time": 1719241668562,
-    "updated": 1721826728036
+    "time": 1719241668562
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.4.jar",
     "hash": "36e28fb8b5ff5e6c673798c693da4e3c83221f7bb61dee05f1158e5a6cd98100",
     "source": "skyclient",
-    "time": 1719245320333,
-    "updated": 1719248798483
+    "time": 1719245320333
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.5.jar",
     "hash": "9a34db567d9d9f493cb75fb9e2b485751911a77b62547006662b95f379e8f255",
     "source": "skyclient",
-    "time": 1719245320353,
-    "updated": 1719255984559
-  },
-  {
-    "file": "RewardClaim-1.0.6.jar",
-    "hash": "36d3e89f81113922d0db81d13ec451eb20753c58f299cfc1accc36679db5ec7f",
-    "source": "skyclient",
-    "time": 1719252595174,
-    "updated": 1723682129467
+    "time": 1719245320353
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.5.jar",
     "hash": "c221c7cb45d0bb22562e52ff8274d0bf3d025e6007a3cc56738a88b50675805d",
     "source": "skyclient",
-    "time": 1719252595079,
-    "updated": 1719655615247
+    "time": 1719252595079
+  },
+  {
+    "file": "RewardClaim-1.0.6.jar",
+    "hash": "36d3e89f81113922d0db81d13ec451eb20753c58f299cfc1accc36679db5ec7f",
+    "source": "skyclient",
+    "time": 1719252595174
   },
   {
     "file": "ReportPlus-1.0.2.jar",
     "hash": "39168828743d673649fd1969eb7f5addacd9ba6828987ca1d061d8f950667f18",
     "source": "skyclient",
-    "time": 1719252595174,
-    "updated": 1723057593425
-  },
-  {
-    "file": "Chatting-1.8.9-forge-2.0.2.jar",
-    "hash": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8",
-    "source": "skyclient",
-    "time": 1719259669069,
-    "updated": 1719299238983
+    "time": 1719252595174
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.6.jar",
     "hash": "2235e971edda5a7448d3d53a4996f3a478d9875a4ca9a94c6014f6deb8dc5531",
     "source": "skyclient",
-    "time": 1719259669003,
-    "updated": 1719310061946
+    "time": 1719259669003
+  },
+  {
+    "file": "Chatting-1.8.9-forge-2.0.2.jar",
+    "hash": "007ee13710b26525de2223e46ba3e1564f4f22c8f6d76922d153b8714fc544f8",
+    "source": "skyclient",
+    "time": 1719259669069
   },
   {
     "file": "Mixmetica-1.8.9-forge-2.1.0.jar",
     "hash": "56870e3948ed5ef19635b89ddcf030f796df12a8e94dfaaa47199a4ae78eb9da",
     "source": "skyclient",
-    "time": 1719292032201,
-    "updated": 1723682129418
+    "time": 1719292032201
   },
   {
     "file": "Chatting-1.8.9-forge-2.0.3.jar",
     "hash": "a773b3412679e54a23e744194abaea5e2e56fd1c47613aa4172e2a164a30fd25",
     "source": "skyclient",
-    "time": 1719303070005,
-    "updated": 1719353209735
+    "time": 1719303070005
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.7.jar",
     "hash": "86ec326e2c85ab61131b51e9bb2d66ff10fd949f26ab06507349879d7da972fa",
     "source": "skyclient",
-    "time": 1719313638506,
-    "updated": 1719500897856
+    "time": 1719313638506
   },
   {
     "file": "PolyCrosshair-1.8.9-forge-1.0.1.jar",
     "hash": "2e5da38aa8a651a3435bf3b10451f870598793a4a087bc37c50520be95e76cb3",
     "source": "skyclient",
-    "time": 1719339053352,
-    "updated": 1719673577566
+    "time": 1719339053352
   },
   {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.7.jar",
     "hash": "2399107595b0075aee10832f07a55b0aff223efaabf779f59ad7120bbb8a67ad",
     "source": "skyclient",
-    "time": 1719356826176,
-    "updated": 1721246888427
+    "time": 1719356826176
   },
   {
     "file": "Chatting-1.8.9-forge-2.0.4.jar",
     "hash": "ca0365b6b2e151003f49ec0c96dacaa6a6fbcf32bf917dbb55cb55f0c81f0ca7",
     "source": "skyclient",
-    "time": 1719356826493,
-    "updated": 1721823221281
+    "time": 1719356826493
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.2.jar",
     "hash": "374f70562b2ce008ebfd39785dba4a0b1d9f8d6b1451f9788b3e63a9e09d0925",
     "source": "skyclient",
-    "time": 1719392964648,
-    "updated": 1721826728325
+    "time": 1719392964648
   },
   {
     "file": "SkyCofl-1.5.6-alpha.jar",
     "hash": "ec918c16437dc0082b1689cbe8e3dd6f4285b6c285687428b548d98c6cce525f",
     "source": "github releases",
-    "time": 1719414496158,
-    "updated": 1723682131664
+    "time": 1719414496158
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.8.jar",
     "hash": "d58d1fddeaec1816684fa4d9f105a15a23c2846f3bbf8ed8c98aadc9eb9b7df1",
     "source": "skyclient",
-    "time": 1719504546630,
-    "updated": 1721826728325
+    "time": 1719504546630
   },
   {
     "file": "PolyPatcher-1.8.9-forge-1.9.1.jar",
     "hash": "715aa93427a09980b844e24b47f39772a03086270d453252042f0aee68e7b583",
     "source": "skyclient",
-    "time": 1719518870863,
-    "updated": 1719598161622
+    "time": 1719518870863
   },
   {
     "file": "Hytils Reborn-1.8.9-forge-1.7.1.jar",
     "hash": "a1c973342460140e4bb3c99bb0f2eee216e50a2cd3dda7b5e680b705e2560cfd",
     "source": "skyclient",
-    "time": 1719598161325,
-    "updated": 1721826728278
+    "time": 1719598161325
   },
   {
     "file": "PolyPatcher-1.8.9-forge-1.9.2.jar",
     "hash": "4ecc73263c818285712d056d364c1d86558b94bfd8adda4d37a6958a5d23cef9",
     "source": "skyclient",
-    "time": 1719601514864,
-    "updated": 1721826728325
+    "time": 1719601514864
   },
   {
     "file": "CrashPatch-1.8.9-forge-2.0.1.jar",
     "hash": "3debf17e3d21bb1be2d268af0be3da123436afecc45090d240b9762990af66af",
     "source": "skyclient",
-    "time": 1719608821557,
-    "updated": 1723682129162
+    "time": 1719608821557
   },
   {
     "file": "PolyHitbox-1.8.9-forge-1.0.1.jar",
     "hash": "e003bd867747335b0c72f8a1871192b2b086f9e6b649f3c785b55c241bf01e2d",
     "source": "skyclient",
-    "time": 1719659182872,
-    "updated": 1721826728199
+    "time": 1719659182872
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.6.jar",
     "hash": "12a0924d300ceff589fd7493d1bb830de2d9e67a871a714b104f190392f1f668",
     "source": "skyclient",
-    "time": 1719659183135,
-    "updated": 1723057593426
-  },
-  {
-    "file": "SkyblockAddons-1.9.0-beta.12+318-for-MC-1.8.9.jar",
-    "hash": "b82b7af9712d6d3bc595d5842fef96282e423f9d07201ed35b35e246e9a796ec",
-    "source": "skyclient",
-    "time": 1719673577874,
-    "updated": 1721552837986
+    "time": 1719659183135
   },
   {
     "file": "PolyTime-1.8.9-forge-1.0.2.jar",
     "hash": "efa703665b782cfd68b8933e5971187afaad2887757eecfcd9460d79eed1a908",
     "source": "skyclient",
-    "time": 1719673577712,
-    "updated": 1723682129343
+    "time": 1719673577712
   },
   {
     "file": "PolyCrosshair-1.8.9-forge-1.0.2.jar",
     "hash": "e5d58a434a59ee24d6d359595ce0f095f17a0865a1b11e0ccd3c073b7a942ea2",
     "source": "skyclient",
-    "time": 1719677325722,
-    "updated": 1721826728199
+    "time": 1719677325722
   },
   {
     "file": "BehindYouV3-1.8.9-forge-3.2.1.jar",
     "hash": "41035526ef1bffc20d254e4ad9838d848f3467d15dce2c891c60aa964e7b734b",
     "source": "skyclient",
-    "time": 1719677326026,
-    "updated": 1723057593364
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.14.jar",
-    "hash": "eb3267aafc80d32dc27508e13b4ff97899919037282ef05f53a17dcc3f072734",
-    "source": "github releases",
-    "time": 1719763746641,
-    "updated": 1720264000055
+    "time": 1719677326026
   },
   {
     "file": "PolyBlur-1.8.9-forge-1.0.1.jar",
     "hash": "d2888a1895380ce8e456404047054c0df2fc5685ce4621271de1fb27cc4550fb",
     "source": "skyclient",
-    "time": 1719785207321,
-    "updated": 1721826728036
+    "time": 1719785207321
   },
   {
     "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar",
     "hash": "20db8eeb3525712c59b2e81a06c52f798210fc2d03c3a35d5e66d7d5da9dfcf5",
     "source": "skyclient",
-    "time": 1719979755472,
-    "updated": 1723682129663
+    "time": 1719979755472
   },
   {
     "file": "SkyClientCosmetics-1.8.9-forge-1.1.18.jar",
     "hash": "2b18fe4b5379b2ab4e45b94c921d37edc3fdd0fa01932518ff93f89b4c882dfa",
     "source": "skyclient",
-    "time": 1720119997097,
-    "updated": 1722272816703
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.15.jar",
-    "hash": "b959f2cc1ca421f2317e40b89599e3d5648b7aefe9eeec4a3bc8ecb10aea8a9d",
-    "source": "github releases",
-    "time": 1720267913711,
-    "updated": 1720361171158
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.16.jar",
-    "hash": "43b35afe218e8f20a055c416db97ddeb35f6071c5601ef3f401ee02fbc021ba2",
-    "source": "github releases",
-    "time": 1720364856461,
-    "updated": 1721120938028
+    "time": 1720119997097
   },
   {
     "file": "NotEnoughUpdates-2.3.1.jar",
     "hash": "f8bda09db9680766548c98bb539cd4ec4dc771d3459f0c0df2568ee46940e385",
     "source": "skyclient",
-    "time": 1720951750051,
-    "updated": 1721041587503
+    "time": 1720951750051
   },
   {
     "file": "NotEnoughUpdates-2.3.2.jar",
     "hash": "6baaf4f00e5c428203c5a3319d08a3e6b9044d4d655a9df85fa71165f47bd472",
     "source": "github releases",
-    "time": 1721031057061,
-    "updated": 1723633603647
+    "time": 1721031057061
   },
   {
     "file": "ctjs-2.2.1-1.8.9.jar",
     "hash": "9dbefc9d3d50619ce03b0e4ae0c59fd5b715a89fdc4be1a13ee5f5cb3fe7a9ed",
     "source": "skyclient",
-    "time": 1721045670789,
-    "updated": 1723682129675
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.17.jar",
-    "hash": "39df1314a058532eb46101b8caca6904a7a7de3366240839aedb340a288f27b0",
-    "source": "github releases",
-    "time": 1721124409489,
-    "updated": 1721567286266
+    "time": 1721045670789
   },
   {
     "file": "redirectionor-1.4 for 1.12.2-1.8.8.jar",
     "hash": "38bd52ea87b956dcc79260a1f52ce79741773c5cdb0a4b82adf7649fc4fe16c1",
     "source": "skyclient",
-    "time": 1721164069301,
-    "updated": 1723682129162
+    "time": 1721164069301
   },
   {
     "file": "veloxcaelo-1.1.0.jar",
     "hash": "ee259af3df625f2b0c382ebef316c96a72d2424d59a9dc2e48e80b15bedee2a9",
     "source": "skyclient",
-    "time": 1721164069329,
-    "updated": 1723682129223
+    "time": 1721164069329
   },
   {
     "file": "Scatha-Pro v1.2.3.1.jar",
     "hash": "9df8f87103f2f498ee9fdbfeac7b9f58c2f054e5fcd6f1583959c8c9dca9c50b",
     "source": "skyclient",
-    "time": 1721164069575,
-    "updated": 1723682129419
+    "time": 1721164069575
   },
   {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.8.jar",
     "hash": "738fa9186be6f00b91a0355b23055cbd3134ed294a60fb01f33b651d0df4d650",
     "source": "skyclient",
-    "time": 1721250430966,
-    "updated": 1721581540911
+    "time": 1721250430966
   },
   {
     "file": "SkyblockAddons-1.9.0-beta.12.1+320-for-MC-1.8.9.jar",
     "hash": "52733849e9ef6f1fa14023372999013a5f27fe65577bf79cdd7f70cb6904d2e8",
     "source": "skyclient",
-    "time": 1721556429006,
-    "updated": 1723682129508
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.18.jar",
-    "hash": "873a8a6cd98c411dc812e2cadec8d682b5caa18c62cab32fd89746a3bbc97113",
-    "source": "github releases",
-    "time": 1721570818840,
-    "updated": 1722168750078
+    "time": 1721556429006
   },
   {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.9.jar",
     "hash": "5abbb320f442a77d213045efb445e2222de6afac761fab8434bde129358f9b9e",
     "source": "skyclient",
-    "time": 1721585323005,
-    "updated": 1721830099106
+    "time": 1721585323005
   },
   {
     "file": "replaymod-1.8.9-2.6.18.jar",
     "hash": "888bfc247c9d8510168898bba949f1d95c1e2261a5e2c9aacdbb2030ff8932cf",
     "source": "skyclient",
-    "time": 1721736840988,
-    "updated": 1723682130936
+    "time": 1721736840988
   },
   {
     "file": "Chatting-1.8.9-forge-2.0.5.jar",
     "hash": "a854c803d6365d3b7083fa71ba18bff98dd6816759f9f3bb11c824ca86ff472d",
     "source": "skyclient",
-    "time": 1721826728387,
-    "updated": 1723057593363
-  },
-  {
-    "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
-    "hash": "ad8cab95e9830ec61cd3468dad449fdb6b0e5dff6804e2962a4351a3eb60fcbc",
-    "source": "skyclient",
-    "time": 1721830099685,
-    "updated": 1723057593740
+    "time": 1721826728387
   },
   {
     "file": "Hytils Reborn-1.8.9-forge-1.7.2.jar",
     "hash": "29d6a208af5b0b54ca77480da355a3f498d1b064a5fd9fda4980d6a995d6d5db",
     "source": "skyclient",
-    "time": 1721830099166,
-    "updated": 1723057593309
+    "time": 1721830099166
   },
   {
     "file": "OverflowParticles-1.8.9-forge-1.0.2.jar",
     "hash": "adcad557caee7303f40cfb9fe76134a5659c91f86294aa10e6ed9dc27af13f5e",
     "source": "skyclient",
-    "time": 1721830099260,
-    "updated": 1723682129083
-  },
-  {
-    "file": "PolyBlur-1.8.9-forge-1.0.2.jar",
-    "hash": "62d5feac9f8cce6c2a6f27a90f5d4059a65c02a8181a50e5a7ff4c58132dc1d2",
-    "source": "skyclient",
-    "time": 1721830099303,
-    "updated": 1723682129302
-  },
-  {
-    "file": "PolyCrosshair-1.8.9-forge-1.0.3.jar",
-    "hash": "314fe010070363930328f40c676280b1e1014c14220e5d264382df138de4a3c9",
-    "source": "skyclient",
-    "time": 1721830099303,
-    "updated": 1723682129302
-  },
-  {
-    "file": "PolyHitbox-1.8.9-forge-1.0.2.jar",
-    "hash": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d",
-    "source": "skyclient",
-    "time": 1721830099303,
-    "updated": 1723057593310
+    "time": 1721830099260
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.3.jar",
     "hash": "1f2e1b1ce690209d0d65d0c4b67947306fe8be07a94b136126889e972025b9bc",
     "source": "skyclient",
-    "time": 1721830099302,
-    "updated": 1721862503084
+    "time": 1721830099302
   },
   {
-    "file": "GlintColorizer-1.8.9-forge-2.0.1.jar",
-    "hash": "e37ccf7437e466c7b636b036a309c61d1aeebbaca4366fbc05a40125b28a87e2",
+    "file": "PolyBlur-1.8.9-forge-1.0.2.jar",
+    "hash": "62d5feac9f8cce6c2a6f27a90f5d4059a65c02a8181a50e5a7ff4c58132dc1d2",
     "source": "skyclient",
-    "time": 1721830099338,
-    "updated": 1723682129301
+    "time": 1721830099303
+  },
+  {
+    "file": "PolyCrosshair-1.8.9-forge-1.0.3.jar",
+    "hash": "314fe010070363930328f40c676280b1e1014c14220e5d264382df138de4a3c9",
+    "source": "skyclient",
+    "time": 1721830099303
+  },
+  {
+    "file": "PolyHitbox-1.8.9-forge-1.0.2.jar",
+    "hash": "373ec3b6436d346817f78b9a959d1563220c4cfce8dbdea474da533b8050227d",
+    "source": "skyclient",
+    "time": 1721830099303
   },
   {
     "file": "VanillaHUD-1.8.9-forge-2.2.9.jar",
     "hash": "0dba953ab6d8f15f3a76aef7b17a9e2b73543332ef0649f1934eaff84448805c",
     "source": "skyclient",
-    "time": 1721830099337,
-    "updated": 1723057593309
+    "time": 1721830099337
+  },
+  {
+    "file": "GlintColorizer-1.8.9-forge-2.0.1.jar",
+    "hash": "e37ccf7437e466c7b636b036a309c61d1aeebbaca4366fbc05a40125b28a87e2",
+    "source": "skyclient",
+    "time": 1721830099338
+  },
+  {
+    "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
+    "hash": "ad8cab95e9830ec61cd3468dad449fdb6b0e5dff6804e2962a4351a3eb60fcbc",
+    "source": "skyclient",
+    "time": 1721830099685
   },
   {
     "file": "SkyClient-Updater-1.8.9-forge-1.3.10.jar",
     "hash": "5ee874345738c09216417567b25ff3f971c9e6f2e548d71e3f2474dee4a2f5e1",
     "source": "skyclient",
-    "time": 1721833700944,
-    "updated": 1723682129161
+    "time": 1721833700944
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.4.jar",
     "hash": "1882aa989412f93d0fcf539e5cace0405eb22b67a0b346a641e777d07e7c0328",
     "source": "skyclient",
-    "time": 1721867768247,
-    "updated": 1723057593252
-  },
-  {
-    "file": "dungeonsguide-4.0.0-beta10.0-standalone.jar",
-    "hash": "5ec489fd9d9b9006cf5dccafc43191894f692fc39d6763b0737dc841c47eab39",
-    "source": "skyclient",
-    "time": 1722096550790,
-    "updated": 1722658162218
-  },
-  {
-    "file": "SkyHanni-0.26.Beta.19.jar",
-    "hash": "7586de3038d141a0cf740dd50d2ff45ac3c39be72a384e1e4fb27eae413688d3",
-    "source": "github releases",
-    "time": 1722172084190,
-    "updated": 1722341628983
+    "time": 1721867768247
   },
   {
     "file": "SkyClientCosmetics-1.8.9-forge-1.2.0.jar",
     "hash": "61e94961e3ce3fb40aed9403f4c4b7209d4ce61f5c2aa97ff2628285b54201c3",
     "source": "skyclient",
-    "time": 1722276616830,
-    "updated": 1722593285584
+    "time": 1722276616830
   },
   {
     "file": "SkyHanni-0.26.Beta.20.jar",
     "hash": "609d68201d62cf5b6f80e11441571e6052b5c397f2e548408d23a92181e68783",
     "source": "github releases",
-    "time": 1722345090720,
-    "updated": 1723140677298
-  },
-  {
-    "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-6.jar",
-    "hash": "1f0f0599bfe701166fddb9a5fa1c34055a14be80af0c2ed741c2fd766126f9b4",
-    "source": "github releases",
-    "time": 1722362993191,
-    "updated": 1722622221232
+    "time": 1722345090720
   },
   {
     "file": "SkyClientCosmetics-1.8.9-forge-1.2.1.jar",
     "hash": "f2e290f92877ee900685aa6d978f128e0fe35486f8ef9a49eeab3f61821b9efd",
     "source": "skyclient",
-    "time": 1722596794571,
-    "updated": 1723682129381
+    "time": 1722596794571
   },
   {
     "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-7.jar",
     "hash": "4857c5e7acf63a540ffface10ff7b872fa5b9330e9eb18821a7611d731588d7b",
     "source": "github releases",
-    "time": 1722618462342,
-    "updated": 1723464946258
+    "time": 1722618462342
   },
   {
     "file": "dungeonsguide-4.0.0-beta10.1-standalone.jar",
     "hash": "7f3e51c9d1b8a7a5faab921ff4425267580d81fb45ca5046ded862fd5b028b7c",
     "source": "skyclient",
-    "time": 1722661635159,
-    "updated": 1723525693404
+    "time": 1722661635159
   },
   {
     "file": "EvergreenHUD-1.8.9-forge-2.1.7.jar",
     "hash": "a12294aec4f9184198fab96126c63386af13685b6482b48bb9eaa740970063ff",
     "source": "skyclient",
-    "time": 1723061295527,
-    "updated": 1723682129000
-  },
-  {
-    "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
-    "hash": "d9f469f308e4f9165d3db3c19c6b6322e30449e471b312eafb483c35860d2b34",
-    "source": "skyclient",
-    "time": 1723061296090,
-    "updated": 1723682129720
+    "time": 1723061295527
   },
   {
     "file": "Hytils Reborn-1.8.9-forge-1.7.3.jar",
     "hash": "cabe1a7b1eb3be631088fbad419bbdcfb969868d9b67e5c1e8383219022d0dac",
     "source": "skyclient",
-    "time": 1723061295527,
-    "updated": 1723682129162
+    "time": 1723061295527
   },
   {
     "file": "PolyHitbox-1.8.9-forge-1.0.3.jar",
     "hash": "2a5017f8fac71926db8abef4a98d5a8cadd01bc4400c9c6879988a6afcb442b0",
     "source": "skyclient",
-    "time": 1723061295527,
-    "updated": 1723682129301
+    "time": 1723061295527
   },
   {
     "file": "OverflowAnimations-1.8.9-forge-2.2.5.jar",
     "hash": "e0e037eaeb24b2a372bca6e13c0bc80062d554bf5e3993121d642b9326b33863",
     "source": "skyclient",
-    "time": 1723061295591,
-    "updated": 1723682129419
+    "time": 1723061295591
   },
   {
     "file": "Chatting-1.8.9-forge-2.0.6.jar",
     "hash": "2385b5194e5b33eb10484bfa080e13bff227e71456ebc2dbabd510c6180d636a",
     "source": "skyclient",
-    "time": 1723061295591,
-    "updated": 1723682129419
+    "time": 1723061295591
   },
   {
     "file": "PolyNametag-1.8.9-forge-1.0.7.jar",
     "hash": "dfb09f013b6ad0725e4bd75cec9582ee57667ea5d361ec83f3c034e9842204ff",
     "source": "skyclient",
-    "time": 1723061295591,
-    "updated": 1723682129382
-  },
-  {
-    "file": "VanillaHUD-1.8.9-forge-2.2.10.jar",
-    "hash": "97c884181ea0b072629f2b787e3199daedf255673cd72993989f4cda1b53ee43",
-    "source": "skyclient",
-    "time": 1723061295679,
-    "updated": 1723682129419
+    "time": 1723061295591
   },
   {
     "file": "BehindYouV3-1.8.9-forge-3.2.2.jar",
     "hash": "0e91e824db8190ff761c7e248aa266844fab58390dc3aa17707ecfbfa1a1e2fd",
     "source": "skyclient",
-    "time": 1723061295591,
-    "updated": 1723682129382
+    "time": 1723061295591
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.2.10.jar",
+    "hash": "97c884181ea0b072629f2b787e3199daedf255673cd72993989f4cda1b53ee43",
+    "source": "skyclient",
+    "time": 1723061295679
+  },
+  {
+    "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
+    "hash": "d9f469f308e4f9165d3db3c19c6b6322e30449e471b312eafb483c35860d2b34",
+    "source": "skyclient",
+    "time": 1723061296090
   },
   {
     "file": "SkyHanni-0.26.Beta.21.jar",
     "hash": "0a69389270077b77c705e0c8f2a8df93be15ead62f9ef168b14c7292e3d5599c",
     "source": "github releases",
-    "time": 1723143971648,
-    "updated": 1723406889618
+    "time": 1723143971648
   },
   {
     "file": "Skytils-1.10.0-pre10.jar",
     "hash": "40796b03860e67d95b62b7f48925d146495be5a59f683b40fe8b9e50f905bd65",
     "source": "github releases",
-    "time": 1723176598548,
-    "updated": 1723682131880
+    "time": 1723176598548
   },
   {
     "file": "BazaarNotifier-1.7.3.jar",
     "hash": "3b437bb8a60f464d51b65b51fcc261c31ac12147edf90f30441c798bd130726f",
     "source": "skyclient",
-    "time": 1723298793914,
-    "updated": 1723682129578
+    "time": 1723298793914
   },
   {
     "file": "SkyHanni-0.26.Beta.22.jar",
     "hash": "46428f68611e2504526ce3e10f2545a81305ad734bd6a429df184284fc28389c",
     "source": "github releases",
-    "time": 1723410468412,
-    "updated": 1723644482464
+    "time": 1723410468412
   },
   {
     "file": "Partly.Sane.Skies-beta-v0.6.2-prerelease-8.jar",
     "hash": "9bd134f419a121cda1b2cc4beabc96e39034277cec6493c2c2c110a31bbaf8b4",
     "source": "github releases",
-    "time": 1723446499115,
-    "updated": 1723682131978
+    "time": 1723446499115
   },
   {
     "file": "dungeonsguide-4.0.0-beta11.0-standalone.jar",
     "hash": "588fa1c3293b4ebb059e14233a73208492dd3a8f347f07adc9e030a4c1f09514",
     "source": "skyclient",
-    "time": 1723529506487,
-    "updated": 1723682129730
+    "time": 1723529506487
   },
   {
     "file": "Apec-1.8.9-forge-1.12.0.jar",
     "hash": "d3a8cc0b03dbdad0f60160b37b3e3c906647c9379a52520c578e71c515ecf728",
     "source": "skyclient",
-    "time": 1723572657099,
-    "updated": 1723682129467
+    "time": 1723572657099
   },
   {
     "file": "NotEnoughUpdates-2.3.3.jar",
     "hash": "cae93e40476e8f6e5fa1c3988d5ddfa56b21aa92c96e712ca127d324dc8507dc",
     "source": "github releases",
-    "time": 1723630127269,
-    "updated": 1723682131963
+    "time": 1723630127269
   },
   {
     "file": "SkyHanni-0.26.Beta.23.jar",
     "hash": "159a240a7d0528e865d4206b2c753232b7334c867172ff74acc6338bcd8c7f54",
     "source": "github releases",
-    "time": 1723648056707,
-    "updated": 1723682131886
+    "time": 1723648056707
   }
 ]
