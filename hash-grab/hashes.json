@@ -1945,5 +1945,11 @@
     "hash": "0e5f8eb0a8f1ca27891917d1da0af04b5e49c0e2c277c75d5114ffadc27eea5d",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyClientCosmetics-1.8.9-forge-1.2.2.jar",
+    "hash": "7b2d046b9b1ada705f2c3f1263456f3f15f595b9b355ba3f9301018adbdfdcf7",
+    "source": "skyclient",
+    "recent": true
   }
 ]
