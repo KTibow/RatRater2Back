@@ -1951,5 +1951,11 @@
     "hash": "7b2d046b9b1ada705f2c3f1263456f3f15f595b9b355ba3f9301018adbdfdcf7",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-0.26.Beta.25.jar",
+    "hash": "340fac46d96036bbc47c17d6eaa0fa89c0d2aa42d92dbc8b81246bb46c972845",
+    "source": "github releases",
+    "recent": true
   }
 ]
