@@ -1975,5 +1975,11 @@
     "hash": "148bb21170904a2e03339a894ea004c04a502eb6fb424a959dc2b8b556701983",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyblockAddons-1.9.0-beta.15+344-for-MC-1.8.9.jar",
+    "hash": "49ee3437b4e4317916984e9ac44963f22f9123e1d47f61ca65520afb6573b4f4",
+    "source": "skyclient",
+    "recent": true
   }
 ]
