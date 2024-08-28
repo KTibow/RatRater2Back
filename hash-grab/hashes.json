@@ -1993,5 +1993,11 @@
     "hash": "de13d4356ffdc0123b1d72b28d4dba8f291f17938b45b4325203e972d3bec5e7",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "Resourcify (1.8.9-forge)-1.4.1.jar",
+    "hash": "114e83c8013e3b2bfb78c7f9457372d96ff0b8899d1fca8fea6edd30ce1559f6",
+    "source": "skyclient",
+    "recent": true
   }
 ]
