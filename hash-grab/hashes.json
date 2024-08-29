@@ -1999,5 +1999,11 @@
     "hash": "114e83c8013e3b2bfb78c7f9457372d96ff0b8899d1fca8fea6edd30ce1559f6",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "Skytils-1.10.5.jar",
+    "hash": "ff605af8f04dbd8fa8a67b6b7d3c55fbd5ee191da6f17403a510a4c770a690c6",
+    "source": "skyclient",
+    "recent": true
   }
 ]
