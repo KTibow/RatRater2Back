@@ -2005,5 +2005,11 @@
     "hash": "ff605af8f04dbd8fa8a67b6b7d3c55fbd5ee191da6f17403a510a4c770a690c6",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-0.27.Beta.4.jar",
+    "hash": "82f8378e5c41df35f96418083045a76082ce3e532ff70595d45eaa6d6785da42",
+    "source": "github releases",
+    "recent": true
   }
 ]
