@@ -53,7 +53,7 @@ export default async (interaction: any, env: Env, ctx: ExecutionContext) => {
       throw e;
     }
     const update1 = updateMessage({
-      content: "<a:loading:1121137235123765400> Opening file...",
+      content: "<a:loading:1280263471748874250> Opening file...",
     });
 
     let zip: JSZip & JSZipObject,
@@ -168,7 +168,7 @@ These flags were found: ${flagList
     }
 
     await updateMessage({
-      content: `<a:loading:1121137235123765400> Prescanning...`,
+      content: `<a:loading:1280263471748874250> Prescanning...`,
     });
     try {
       prescan(zip, files, state);
@@ -230,7 +230,7 @@ These flags were found: ${flagList
     tasks.push(apiAnalysisTask());
 
     const update2 = updateMessage({
-      content: `<a:loading:1121137235123765400> Scanning ${tasks.length} things...
+      content: `<a:loading:1280263471748874250> Scanning ${tasks.length} things...
 ${fileDesc}`,
       embeds: genEmbeds(),
     });
@@ -244,7 +244,7 @@ ${fileDesc}`,
         lastEmbeds = newEmbeds;
         const pct = Math.floor((done / tasks.length) * 100);
         await updateMessage({
-          content: `<a:loading:1121137235123765400> Scanning (${pct}%)...`,
+          content: `<a:loading:1280263471748874250> Scanning (${pct}%)...`,
           embeds: newEmbeds,
         });
       }
@@ -268,7 +268,7 @@ ${fileDesc}`,
     type: InteractionResponseType.CHANNEL_MESSAGE_WITH_SOURCE,
     data: {
       content:
-        "<a:loading:1121137235123765400> Downloading `" +
+        "<a:loading:1280263471748874250> Downloading `" +
         escape(file.filename) +
         "`...",
     },
