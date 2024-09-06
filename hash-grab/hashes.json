@@ -2017,5 +2017,11 @@
     "hash": "0157a6f77f2dc6e8c7bc76858b7b8d061031e335190daeaf0b683c3201cd63d5",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "Apec-1.8.9-forge-1.12.3.jar",
+    "hash": "7a5605794a43e8ce0332f30f4b46d3fc27b0873152fdcd9603ab5a90a904758e",
+    "source": "skyclient",
+    "recent": true
   }
 ]
