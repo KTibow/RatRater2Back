@@ -2053,5 +2053,11 @@
     "hash": "f3a26d33bb3bd740b5f56b598b4bbad4adcb16ccd28d855b39a798d9cb11b357",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-0.27.Beta.8.jar",
+    "hash": "2083366435ecda24ae22a0c1ffe3b182348a2e5df4234bd64b6ff8410f83b880",
+    "source": "github releases",
+    "recent": true
   }
 ]
