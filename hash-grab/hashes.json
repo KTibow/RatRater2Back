@@ -2059,5 +2059,11 @@
     "hash": "2083366435ecda24ae22a0c1ffe3b182348a2e5df4234bd64b6ff8410f83b880",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "Mixmetica-1.8.9-forge-2.1.1.jar",
+    "hash": "63ee8941860d90ea0097f4f33da5dc6a11cd6f12082c9ff808cb072b2e3d743b",
+    "source": "skyclient",
+    "recent": true
   }
 ]
