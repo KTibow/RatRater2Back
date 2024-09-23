@@ -2101,5 +2101,11 @@
     "hash": "bee75e65c45f09ca418cdd210125792feb740cd1f3c19f399d7ee6d928167519",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "Apec-1.8.9-forge-1.12.4.jar",
+    "hash": "8fdb1feb66c5a004c33886fd5aa7179aaf8f2e50de6b4dc52490d1b12357601e",
+    "source": "skyclient",
+    "recent": true
   }
 ]
