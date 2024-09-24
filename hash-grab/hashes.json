@@ -2107,5 +2107,11 @@
     "hash": "8fdb1feb66c5a004c33886fd5aa7179aaf8f2e50de6b4dc52490d1b12357601e",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "NotEnoughUpdates-2.4.0.jar",
+    "hash": "3d20cc47f2300730c7f95f4cabcec202506f341464ebc3456161f86cf8480a4f",
+    "source": "github releases",
+    "recent": true
   }
 ]
