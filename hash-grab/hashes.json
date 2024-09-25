@@ -2119,5 +2119,11 @@
     "hash": "b6a6831f90be1574cdacc64abf19eca070b202e12928b449db9f8299711247a3",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "replaymod-1.8.9-2.6.19.jar",
+    "hash": "10b257292e595ed07d4f5951b4fe421a86fbb78da1ab57cd28d4cb8777fe8ad0",
+    "source": "skyclient",
+    "recent": true
   }
 ]
