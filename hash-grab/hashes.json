@@ -2179,5 +2179,11 @@
     "hash": "bb7c9f4dc153148fc03ce7755c5a173d0b6126ff34f47fc57839cba4b0230a72",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "dungeonsguide-4.0.0-beta12.2-standalone.jar",
+    "hash": "84ff403ee8414363a61b5e6af72b2d62fd411d07c88330c5c614d1e99c4c6c89",
+    "source": "skyclient",
+    "recent": true
   }
 ]
