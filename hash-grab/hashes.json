@@ -2209,5 +2209,11 @@
     "hash": "9fa751c85db302fbf9479610ab70f7006ad070c1880a9e1e0aeccd86b36c0811",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "NotEnoughCoins-1.15.jar",
+    "hash": "2b26a121bc581d7628fdda90fbfbe7518edcece285b24c08cad63bcc5b79347f",
+    "source": "github releases",
+    "recent": true
   }
 ]
