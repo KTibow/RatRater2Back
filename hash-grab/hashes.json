@@ -2221,5 +2221,11 @@
     "hash": "2fbdd9246ae6094abc6294e99fa2ad1fe8a320d36ea6728056e4d63a2b9acd00",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-0.28.Beta.6.jar",
+    "hash": "310141ef1daa2213ac4a84ede018be1b6bfa1087007ca71504141bb1ebcfbb75",
+    "source": "github releases",
+    "recent": true
   }
 ]
