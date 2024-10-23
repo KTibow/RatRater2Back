@@ -2233,5 +2233,11 @@
     "hash": "0da2df7e9f2f57932d84aa15f8c665009a8ca915c711a73893ec85eaca9510d1",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "Resourcify (1.8.9-forge)-1.5.0.jar",
+    "hash": "6180189ee6e8ec8c132d52e2d874da0e01c8218f61348f3a1acfd75e0d54634e",
+    "source": "skyclient",
+    "recent": true
   }
 ]
