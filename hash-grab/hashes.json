@@ -2269,5 +2269,11 @@
     "hash": "6f1faab9594e85c3b469f9a41ff7c93937f08deda9cfd54aeb738e2567803d1e",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "Skytils-1.10.7.jar",
+    "hash": "2b4ad1e439233f8f6f15ea9e290397915f1ab9928a762e415a888d688684548d",
+    "source": "github releases",
+    "recent": true
   }
 ]
