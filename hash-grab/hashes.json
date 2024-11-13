@@ -2311,5 +2311,17 @@
     "hash": "f7d459cae2a217740249fcaf76aea0f3bc7dae0ec78627bde458083396926adb",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "PolyPatcher-1.8.9-forge-1.10.2.jar",
+    "hash": "bb11cb714626262d0a693efb95f37c2eadc1e150646bd33c11301f6363e27430",
+    "source": "skyclient",
+    "recent": true
+  },
+  {
+    "file": "Hytils Reborn-1.8.9-forge-1.7.4.jar",
+    "hash": "61feb30b6fd35f33e0b9ac9360c8670b0a24d135738f59be9ac3887ca01f7a97",
+    "source": "skyclient",
+    "recent": true
   }
 ]
