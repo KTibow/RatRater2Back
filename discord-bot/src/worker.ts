@@ -32,7 +32,9 @@ export default {
     if (!signature || !timestamp || !body) {
       return new Response("Bad Request", { status: 400 });
     }
-    if (!verifyKey(body, signature, timestamp, env.DISCORD_PUBLIC_KEY)) {
+    if (
+      !(await verifyKey(body, signature, timestamp, env.DISCORD_PUBLIC_KEY))
+    ) {
       return new Response("Unauthorized", { status: 401 });
     }
 
