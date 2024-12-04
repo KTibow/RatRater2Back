@@ -2365,5 +2365,11 @@
     "hash": "2fddbd56e78b9a96b843f22f63e6c11b84b8523b198adc9b9bd7ec8f0ba98130",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "DulkirMod-1.2.9.jar",
+    "hash": "862e99dbce1f13ad531b91252a9fb92746be0902b2201fd1a021a94f4144944a",
+    "source": "github releases",
+    "recent": true
   }
 ]
