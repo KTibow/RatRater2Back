@@ -2413,5 +2413,11 @@
     "hash": "3d1b7ab0e84bea39294f8d80804d7febf07db9e584300cf8c02c7ce047193638",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "NotEnoughUpdates-2.5.0.jar",
+    "hash": "72862636af1d56d01fcca2d3d14d8e93753b4ac2d8afaecc6ad10e676d1b3238",
+    "source": "github releases",
+    "recent": true
   }
 ]
