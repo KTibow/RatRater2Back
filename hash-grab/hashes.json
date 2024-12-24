@@ -2437,5 +2437,11 @@
     "hash": "95388ab1ebd0fce3288cab397e2f46af4adbd78daa345af89a505b8543023f04",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "PolyNametag-1.8.9-forge-1.0.9.jar",
+    "hash": "0cb21f117a863a7853d41f85685d49ed89c6f8e2ef6e86e4bde3cd3583a2a888",
+    "source": "skyclient",
+    "recent": true
   }
 ]
