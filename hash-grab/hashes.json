@@ -2479,5 +2479,11 @@
     "hash": "b14c917b290a886fc65f762a5b4f8a6ab309a00ec9ab53262d27ead2de7da4fa",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "CrashPatch-1.8.9-forge-2.0.2.jar",
+    "hash": "6a7ed6226fc56158ffcde40adcf51d3a6f4258c3f32c5e207e683b014e2e5897",
+    "source": "skyclient",
+    "recent": true
   }
 ]
