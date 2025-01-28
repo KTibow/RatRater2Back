@@ -2551,5 +2551,11 @@
     "hash": "8c84a063ca851d6cdb236a2f29b9a6b5d36fb899e576a51189c0b6436c927d2f",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyblockAddons-1.10.1+503-for-MC-1.8.9.jar",
+    "hash": "e22f7c2ae39baf21210053486cc237f9e0e17273be06a3e56e546873975d929c",
+    "source": "skyclient",
+    "recent": true
   }
 ]
