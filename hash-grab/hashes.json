@@ -2599,5 +2599,17 @@
     "hash": "e1c7ae6ad2d486a03a91eca0c660845e14760f183fcdd5e4d8fb618f7f796194",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-1.12.0-mc1.8.9.jar",
+    "hash": "e3a8268baac2b4cfeed45f4f1d86a612413ccddfe0ca854908391a417ee1a055",
+    "source": "github releases",
+    "recent": true
+  },
+  {
+    "file": "Skytils-1.10.9.jar",
+    "hash": "c1ad859bddd79137dbf19ebdd4ff0c49f728ad50ea1fed3ec4f34321888dc936",
+    "source": "github releases",
+    "recent": true
   }
 ]
