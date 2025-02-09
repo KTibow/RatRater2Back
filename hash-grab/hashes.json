@@ -2611,5 +2611,17 @@
     "hash": "c1ad859bddd79137dbf19ebdd4ff0c49f728ad50ea1fed3ec4f34321888dc936",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyblockAddons-1.10.6+529-for-MC-1.8.9.jar",
+    "hash": "64ed8fe7a8a783540456c332231a9e5c79a082ac6ca19984109969185cc849ce",
+    "source": "skyclient",
+    "recent": true
+  },
+  {
+    "file": "SkyHanni-1.13.0-mc1.8.9.jar",
+    "hash": "a38bf1b716e422f61858ad2f542aeff51851d42f1beace211bebe59d2d43ef24",
+    "source": "github releases",
+    "recent": true
   }
 ]
