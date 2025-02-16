@@ -2629,5 +2629,11 @@
     "hash": "8c37b3423c0cfecdfc3403f3295d00e833917c7549d6f65c3ce9fe7699ad5b2c",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyCofl-1.6.0.jar",
+    "hash": "0758638b6876d91d3724ab34b0f60c2913fbe2f3fc2f99786d3f34606cf6d109",
+    "source": "github releases",
+    "recent": true
   }
 ]
