@@ -2683,5 +2683,11 @@
     "hash": "b8573a85bc7b9f97a6d0c109bf4f7f235bd68655219b07fc4ee5b3d2aa7c0709",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "RewardClaim-1.0.7.jar",
+    "hash": "3329f69fb972993708edfa0f71e864235fe832d8fb1ca12f34bade9ad01598f2",
+    "source": "skyclient",
+    "recent": true
   }
 ]
