@@ -2707,5 +2707,11 @@
     "hash": "1a4a80cacb8070a0394bdd761b43d11046634a8e1ef335249cf7b0e2507c6be9",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-2.3.0-mc1.8.9.jar",
+    "hash": "c4de52ae4b04f477c2e3a57c753740ed86c69d0c9d4062d1a3200e756c09aa1d",
+    "source": "github releases",
+    "recent": true
   }
 ]
