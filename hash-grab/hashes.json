@@ -2749,5 +2749,17 @@
     "hash": "c12c33e026fac6806c58997ead3bdff498864bff13c6c67091dfe962683c861c",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyClientCosmetics-1.8.9-forge-1.2.4.jar",
+    "hash": "b25b98bfe67c553304e180cf4bbab3dfb2523fa62f1e227c48366bb0ff2ab3ea",
+    "source": "skyclient",
+    "recent": true
+  },
+  {
+    "file": "Scatha-Pro v1.3.1.jar",
+    "hash": "ac4ea7485763a25ba9c32bba75a228524467cbbb4f40d5cfa6d5b8b0ff8977d1",
+    "source": "skyclient",
+    "recent": true
   }
 ]
