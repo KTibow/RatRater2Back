@@ -2773,5 +2773,11 @@
     "hash": "4163edcf8a908dfefbe239272011ee067d52c5e60fd6d51d9559a039a4519024",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "Scatha-Pro v1.3.1.1.jar",
+    "hash": "b04f902cb92f156d51c13b28d8349115f96b982e44bd8767ba9dfa552c8776fd",
+    "source": "skyclient",
+    "recent": true
   }
 ]
