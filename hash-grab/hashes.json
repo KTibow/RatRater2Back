@@ -2893,5 +2893,17 @@
     "hash": "a221f457bb3d8ff1ffff48fb581ae3d208f4b71749d9c741a231740ed9743dc2",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "PolyPatcher-1.8.9-forge-1.10.3.jar",
+    "hash": "75322535a8abb313084c704860b77d1c884928156281dd798e1a4354c0d91030",
+    "source": "skyclient",
+    "recent": true
+  },
+  {
+    "file": "VanillaHUD-1.8.9-forge-2.2.12.jar",
+    "hash": "8cea71632a15197dec65b13a2ccd54463e6d2ab63efb86720de20267c573019f",
+    "source": "skyclient",
+    "recent": true
   }
 ]
