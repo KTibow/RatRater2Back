@@ -2923,5 +2923,11 @@
     "hash": "ca8fbeebb4741d4cc494158c1c4da77353114fb651688f7cc7fcb1d50b47833d",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "Skytils-1.11.0-pre3.jar",
+    "hash": "494b40052a0482d585dd53ca647ee3d2e3b84b3cb4b8ab89011ceee8dc91c010",
+    "source": "github releases",
+    "recent": true
   }
 ]
