@@ -2929,5 +2929,11 @@
     "hash": "494b40052a0482d585dd53ca647ee3d2e3b84b3cb4b8ab89011ceee8dc91c010",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "QuickJoin-1.8.9-forge-2.8.jar",
+    "hash": "5d6f54acf8ba81c7d53f69c91fbee52cd9be0de3d140069826bdf4ef83b4cbf3",
+    "source": "skyclient",
+    "recent": true
   }
 ]
