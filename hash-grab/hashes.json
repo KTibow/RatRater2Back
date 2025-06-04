@@ -2983,5 +2983,11 @@
     "hash": "1065dac9adf1c8dbb60e1eb84714eec7a1a8c6cc17dead0e1271f7f87fc7b8c8",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "RawInput-0.1.6+1.8.9-forge.jar",
+    "hash": "9a39bf36b78a7b33a7043623bb2228bc4f789185b60fd59593cb42538512745d",
+    "source": "skyclient",
+    "recent": true
   }
 ]
