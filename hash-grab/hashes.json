@@ -3061,5 +3061,11 @@
     "hash": "2a96080a5679500b14ecd476b39422259a60da21a0a8b01d76987c4209d3b7d0",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyCofl-1.6.0-Fabric-1.21.5.jar",
+    "hash": "e4af999b57930cea036a2c5333e50b03e78b7fb34b77077ebd2bd04a3d1425fc",
+    "source": "github releases",
+    "recent": true
   }
 ]
