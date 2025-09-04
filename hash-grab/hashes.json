@@ -3289,5 +3289,11 @@
     "hash": "cac970efa956048e40c66b156be88de1d717a3286d7986af6227e73dae5a23e6",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "Hytils Reborn-1.8.9-forge-1.7.5.jar",
+    "hash": "22c3a87c0e50409007d3006759fe1aad78f56b74017647646cc45a68661874eb",
+    "source": "skyclient",
+    "recent": true
   }
 ]
