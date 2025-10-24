@@ -3391,5 +3391,11 @@
     "hash": "c0bd2f5c6749b6d97e118c9476730fa5c3c905b0f9fce0ac8f470442b870f5a3",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "PolySprint-1.8.9-forge-1.0.2.jar",
+    "hash": "ead163175c3ffd2dc33eac43058f2eb7d114323905b181d98e43af65132783d7",
+    "source": "skyclient",
+    "recent": true
   }
 ]
