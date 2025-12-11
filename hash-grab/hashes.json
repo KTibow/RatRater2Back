@@ -3499,5 +3499,17 @@
     "hash": "c52782158ec7eaef2112b4ef2fb43f38d9e8b5044fc5ca3d6ceeee3b4842fc35",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyCofl-1.8.0-Forge-1.8.9.jar",
+    "hash": "cbcc5e9abad916e2ee8285a4361ce47e9c525f17f7667c9839514ced213d4e7b",
+    "source": "skyclient",
+    "recent": true
+  },
+  {
+    "file": "SkyCofl-1.8.0-Fabric-1.21.10.jar",
+    "hash": "645a846dfa38e0451fe229d1ac99cd33fb0a8d43d397d0d14576c82ae4f4cd16",
+    "source": "github releases",
+    "recent": true
   }
 ]
