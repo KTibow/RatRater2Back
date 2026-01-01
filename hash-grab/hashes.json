@@ -3577,5 +3577,11 @@
     "hash": "250aefa826f229bb2d5f38bdaa347eb33698fcb07ea935a6a1711195f3f1f35e",
     "source": "skyclient",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-6.4.0-mc1.21.10.jar",
+    "hash": "b2f111cd431241e00154de6aa770fc876797838362017b13ca0cf18f120b4f07",
+    "source": "github releases",
+    "recent": true
   }
 ]
