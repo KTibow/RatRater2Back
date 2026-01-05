@@ -3589,5 +3589,11 @@
     "hash": "ea8a7d6e88ba61fd2f5f6e1cb143dc228a5e922fc83014e4eb8e37c4164184aa",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyCofl-1.8.2-Forge-1.8.9.jar",
+    "hash": "6f91809ca20431e5c6ed46b197415aaf25bdcc3237cfd87abb0f4ea91a408634",
+    "source": "github releases",
+    "recent": true
   }
 ]
