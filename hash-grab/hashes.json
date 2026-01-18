@@ -3631,5 +3631,11 @@
     "hash": "97bf7cc671603241f7605d70ceb3387fbb059c79fac000dac53500720370bd5b",
     "source": "github releases",
     "recent": true
+  },
+  {
+    "file": "SkyHanni-6.11.0-mc1.21.10.jar",
+    "hash": "23bb8a2a6dafb6c650ee1de176a3263e039b79a69eb459dfbfbf4996abf8cb20",
+    "source": "github releases",
+    "recent": true
   }
 ]
