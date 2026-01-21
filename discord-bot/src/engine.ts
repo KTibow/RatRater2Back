@@ -1,6 +1,18 @@
 import type JSZip from "jszip";
-import type { JSZipObject } from "jszip";
 
+const SESSION_TOKEN_INDICATORS = [
+  "func_111286_b", // getSessionID (token:[session token]:[player uuid])
+  "func_148254_d", // getToken
+  "method_1674", // getAccessToken
+  "getAccessToken", // getAccessToken
+  "field_148258_c", // token
+  // base 64 versions of the above:
+  "ZnVuY18xMTEyODZfYg",
+  "ZnVuY18xNDgyNTRfZA",
+  "bWV0aG9kXzE2NzQ",
+  "Z2V0QWNjZXNzVG9rZW4",
+  "ZmllbGRfMTQ4MjU4X2M",
+];
 export type Analysis = {
   obfuscation: Record<
     string,
@@ -45,7 +57,7 @@ export const prescan = (
   }
   if (shorts.length > 3) {
     const shortest = shorts.sort((a, b) => a.name.length - b.name.length)[0];
-    state.obfuscation["Possible obfuscation (short file names)"] = {
+    state.obfuscation["Possible obfuscation (short names)"] = {
       file: shortest.file,
     };
   }
@@ -70,9 +82,13 @@ export const prescan = (
   if (branchlock)
     state.obfuscation["Obfuscator Branchlock"] = { file: branchlock };
 
+  const unicode = files.find((file: string) =>
+    /(?:^|\/)[^\x00-\xff]+\.class$/.test(file),
+  );
+  if (unicode) state.obfuscation["Weird name"] = { file: unicode };
+
   const flags = [
     { name: "Kodeine", pattern: "a/b/c/d" },
-    { name: "Yoink", pattern: "net/jodah/typetools" },
     { name: "CustomPayload Normal", pattern: "me/custompayload/normal" },
     { name: "Asterisk", pattern: "me/ghosty/notarat" },
     { name: "SBFT", pattern: "com/sbft" },
@@ -87,6 +103,18 @@ export const prescan = (
     if (match) {
       state.flagged = { name: f.name, file: match };
       break;
+    }
+  }
+
+  if (!state.flagged) {
+    const yoinkMatch = files.find(
+      (file) =>
+        file.startsWith("net/jodah/typetools") &&
+        !file.includes("ReifiedParameterizedType") &&
+        !file.includes("TypeResolver"),
+    );
+    if (yoinkMatch) {
+      state.flagged = { name: "Yoink", file: yoinkMatch };
     }
   }
 };
@@ -177,17 +205,11 @@ export const scan = (file: string, contents: string, state: Analysis) => {
       ...data,
     };
   };
-  if (
-    contents.includes("func_111286_b") ||
-    contents.includes("func_148254_d") ||
-    contents.includes("field_148258_c") ||
-    contents.includes("ZnVuY18xMTEyODZfYg") ||
-    contents.includes("ZnVuY18xNDgyNTRfZA")
-  ) {
+  if (SESSION_TOKEN_INDICATORS.some((x) => contents.includes(x))) {
     addFlag("Uses session token", {
-      link: "https://github.com/KTibow/RatRater2/wiki/Flags#func_111286_b--func_148254_d--field_148258_c",
+      link: "https://github.com/KTibow/RatRater2/wiki/Flags#session-idtoken",
       initialFind: {
-        searchString: "func_111286_b|func_148254_d|field_148258_c",
+        searchString: SESSION_TOKEN_INDICATORS.join("|"),
         isRegex: true,
       },
     });
@@ -225,4 +247,39 @@ export const scan = (file: string, contents: string, state: Analysis) => {
       initialFind: { searchString: "Skidfuscator Anti-Abuse" },
     });
   }
+
+  try {
+    const bytes = Uint8Array.from(contents, (c) => c.charCodeAt(0));
+    const ascii: number[] = [];
+    for (let i = 0; i < bytes.length - 1; i++) {
+      let value: number;
+      if (bytes[i] === 0x10) {
+        // bipush
+        value = bytes[i + 1];
+        if (value >= 128) value -= 256;
+        i++;
+      } else if (bytes[i] === 0x11 && i < bytes.length - 2) {
+        // sipush
+        value = (bytes[i + 1] << 8) | bytes[i + 2];
+        if (value >= 32768) value -= 65536;
+        i += 2;
+      } else if (bytes[i] >= 0x02 && bytes[i] <= 0x08) {
+        // iconst
+        value = bytes[i] - 0x03;
+      } else {
+        continue;
+      }
+
+      if (value >= 32 && value <= 126) ascii.push(value);
+    }
+    const text = String.fromCharCode(...ascii);
+
+    const ipRegex = /(?:\d{1,3}\.){3}\d{1,3}:\d{1,5}/;
+    if (ipRegex.test(text)) {
+      addFlag("Direct IP connection", { initialFind: { searchString: "" } });
+    }
+    if (text.includes("`JADS`")) {
+      state.flagged ||= { name: "Jooon (JADS)", file: file };
+    }
+  } catch {}
 };
