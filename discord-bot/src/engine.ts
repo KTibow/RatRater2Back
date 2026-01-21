@@ -15,7 +15,7 @@ export type Obfuscation = [
   (
     | { file: string; initialFind?: InitialFind }
     | { quote: string; initialFind?: InitialFind }
-  )
+  ),
 ][];
 export type Flag = {
   matches: string[];
@@ -31,7 +31,7 @@ export type InitialFind = {
 export const prescan = (
   zip: JSZip & JSZip.JSZipObject,
   files: string[],
-  state: Analysis
+  state: Analysis,
 ) => {
   if (zip.comment) {
     state.obfuscation["Custom zip comment"] = { quote: zip.comment };
@@ -61,11 +61,11 @@ export const prescan = (
   }
 
   const bozar = files.find((file: string) =>
-    /(?=[Il]{9,})(?:(?:I+l+)+I+)/.test(file)
+    /(?=[Il]{9,})(?:(?:I+l+)+I+)/.test(file),
   );
   if (bozar) state.obfuscation["Obfuscator Bozar"] = { file: bozar };
   const branchlock = files.find((file: string) =>
-    file.toLowerCase().includes("branchlock")
+    file.toLowerCase().includes("branchlock"),
   );
   if (branchlock)
     state.obfuscation["Obfuscator Branchlock"] = { file: branchlock };
@@ -141,7 +141,7 @@ export const scan = (file: string, contents: string, state: Analysis) => {
   }
 
   const match15 = contents.match(
-    /\x01\x00\x0f(?!linenumbertable)[a-z]{15}[^a-z]/g
+    /\x01\x00\x0f(?!linenumbertable)[a-z]{15}[^a-z]/g,
   );
   if (match15 && match15.length > 10) {
     state.obfuscation["Possibly Skidfuscator (many 15-char functions)"] = {
@@ -166,7 +166,7 @@ export const scan = (file: string, contents: string, state: Analysis) => {
 
   const addFlag = (
     name: string,
-    data: { link?: string; initialFind: InitialFind }
+    data: { link?: string; initialFind: InitialFind },
   ) => {
     if (state.flags[name]) {
       state.flags[name].matches.push(file);
