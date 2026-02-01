@@ -13,7 +13,9 @@ const validateApiKey = (apiKey) => {
 const createHash = async (data) => {
   const dataBytes = new TextEncoder().encode(data);
   const hashBytes = await crypto.subtle.digest("SHA-256", dataBytes);
-  const hash = [...new Uint8Array(hashBytes)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  const hash = [...new Uint8Array(hashBytes)]
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
   return hash;
 };
 const saveFile = async (data, name) => {
@@ -37,7 +39,9 @@ const handleMessage = async (ws, message) => {
   if (message.type == "get-file") {
     const file = files[message.hash];
     if (file) {
-      ws.send(JSON.stringify({ type: "success", data: file.data, name: file.name }));
+      ws.send(
+        JSON.stringify({ type: "success", data: file.data, name: file.name }),
+      );
     } else {
       ws.send(JSON.stringify({ type: "error", message: "File not found" }));
     }
@@ -54,9 +58,12 @@ const handleMessage = async (ws, message) => {
 };
 
 const app = express();
-app.use(cors({ origin: ["https://ktibow.github.io", "http://localhost:5173"] }));
+app.use(cors({ origin: ["https://kendell.dev", "http://localhost:5173"] }));
 app.get("/", (req, res) =>
-  res.redirect(301, "https://github.com/KTibow/RatRater2Back/tree/main/rat-to-peer")
+  res.redirect(
+    301,
+    "https://github.com/KTibow/RatRater2Back/tree/main/rat-to-peer",
+  ),
 );
 app.get("/file", async (req, res) => {
   const url = req.query.url;

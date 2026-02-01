@@ -1,17 +1,19 @@
-import aiofiles, asyncio
-from tempfile import gettempdir
+import asyncio
 from contextlib import AsyncExitStack
-from zipfile import ZipFile, ZIP_DEFLATED
-from pathlib import Path
 from io import BytesIO
+from pathlib import Path
+from tempfile import gettempdir
+from zipfile import ZIP_DEFLATED, ZipFile
+
+import aiofiles
 from sanic import Sanic
-from sanic.response import text, raw, file
 from sanic.exceptions import SanicException
-from sanic.request import Request, File
+from sanic.request import File, Request
+from sanic.response import file, raw, text
 from sanic_ext import Extend
 
 app = Sanic("RatRaterBackend")
-app.config.CORS_ORIGINS = "https://ktibow.github.io,http://localhost:5173"
+app.config.CORS_ORIGINS = "https://kendell.dev,http://localhost:5173"
 Extend(app)
 
 
