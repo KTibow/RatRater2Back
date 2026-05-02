@@ -1,4 +1,4 @@
 aiofiles
 sanic
 sanic-ext
-importlib-metadata
+pydantic
